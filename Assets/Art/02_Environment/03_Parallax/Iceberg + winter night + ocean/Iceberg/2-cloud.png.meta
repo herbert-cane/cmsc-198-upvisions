@@ -1,0 +1,1343 @@
+fileFormatVersion: 2
+guid: 3cc3172bd95ceca4db6a6ed60e238ff4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -980842693474631958
+    second: 2-cloud_0
+  - first:
+      213: -7248007924347547759
+    second: 2-cloud_1
+  - first:
+      213: 2108980148523651735
+    second: 2-cloud_2
+  - first:
+      213: 1384357329440009829
+    second: 2-cloud_3
+  - first:
+      213: 8397597123642169692
+    second: 2-cloud_4
+  - first:
+      213: 2266339648405270327
+    second: 2-cloud_5
+  - first:
+      213: 6398233480752135702
+    second: 2-cloud_6
+  - first:
+      213: 4273569646491667927
+    second: 2-cloud_7
+  - first:
+      213: 9147337926650226168
+    second: 2-cloud_8
+  - first:
+      213: 4273707511896700546
+    second: 2-cloud_9
+  - first:
+      213: -5428808465966457835
+    second: 2-cloud_10
+  - first:
+      213: 4431940061860686219
+    second: 2-cloud_11
+  - first:
+      213: 1786805860606575409
+    second: 2-cloud_12
+  - first:
+      213: 7535248903196524803
+    second: 2-cloud_13
+  - first:
+      213: -4347824285412699760
+    second: 2-cloud_14
+  - first:
+      213: -7886023986486429364
+    second: 2-cloud_15
+  - first:
+      213: 1319410639050128862
+    second: 2-cloud_16
+  - first:
+      213: -8552549685410624336
+    second: 2-cloud_17
+  - first:
+      213: 6326369142889679559
+    second: 2-cloud_18
+  - first:
+      213: -8801311091970671485
+    second: 2-cloud_19
+  - first:
+      213: -4601587808728537494
+    second: 2-cloud_20
+  - first:
+      213: -8293652628612724746
+    second: 2-cloud_21
+  - first:
+      213: -7375656965699014613
+    second: 2-cloud_22
+  - first:
+      213: -539305803767364662
+    second: 2-cloud_23
+  - first:
+      213: 5870353280947683530
+    second: 2-cloud_24
+  - first:
+      213: -1631062162844306036
+    second: 2-cloud_25
+  - first:
+      213: 8688124447050045779
+    second: 2-cloud_26
+  - first:
+      213: 8116847479340318863
+    second: 2-cloud_27
+  - first:
+      213: -5554981593356818859
+    second: 2-cloud_28
+  - first:
+      213: -7951280667567081662
+    second: 2-cloud_29
+  - first:
+      213: 2346512232383974132
+    second: 2-cloud_30
+  - first:
+      213: -6111362129366792687
+    second: 2-cloud_31
+  - first:
+      213: 2063730205515181174
+    second: 2-cloud_32
+  - first:
+      213: 1638596231595600535
+    second: 2-cloud_33
+  - first:
+      213: -3681726374139738918
+    second: 2-cloud_34
+  - first:
+      213: 7054403659378043644
+    second: 2-cloud_35
+  - first:
+      213: 4439214753148613540
+    second: 2-cloud_36
+  - first:
+      213: -9075389513991266997
+    second: 2-cloud_37
+  - first:
+      213: 3545279214423028681
+    second: 2-cloud_38
+  - first:
+      213: 6009949081161415548
+    second: 2-cloud_39
+  - first:
+      213: 8380018627673294570
+    second: 2-cloud_40
+  - first:
+      213: -1642295571539515459
+    second: 2-cloud_41
+  - first:
+      213: -6802583476872110445
+    second: 2-cloud_42
+  - first:
+      213: -8556834439552311479
+    second: 2-cloud_43
+  - first:
+      213: 4882302044802098790
+    second: 2-cloud_44
+  - first:
+      213: 4131428288900545745
+    second: 2-cloud_45
+  - first:
+      213: 4292293879299654745
+    second: 2-cloud_46
+  - first:
+      213: 5347730887124274402
+    second: 2-cloud_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-cloud_0
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 967
+        width: 85
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee38ea54c85362f0800000000000000
+      internalID: -980842693474631958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 920
+        width: 182
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f4c04c137e96b90800000000000000
+      internalID: -7248007924347547759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_2
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 940
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7925a1f654a944d10800000000000000
+      internalID: 2108980148523651735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_3
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 923
+        width: 76
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eea7f08a9363310800000000000000
+      internalID: 1384357329440009829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 191
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59988177124a8470800000000000000
+      internalID: 8397597123642169692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_5
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 834
+        width: 496
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f649317e7a37f10800000000000000
+      internalID: 2266339648405270327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_6
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 822
+        width: 403
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efd3293771bc850800000000000000
+      internalID: 6398233480752135702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_7
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 819
+        width: 507
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd070e73f4ce4b30800000000000000
+      internalID: 4273569646491667927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_8
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 896
+        width: 228
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e17e216fd1fe70800000000000000
+      internalID: 9147337926650226168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 865
+        width: 134
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2867588c6524f4b30800000000000000
+      internalID: 4273707511896700546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_10
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 815
+        width: 568
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9f68967ff8a4b0800000000000000
+      internalID: -5428808465966457835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 796
+        width: 515
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89670d310a618d30800000000000000
+      internalID: 4431940061860686219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_12
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 809
+        width: 178
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1338a0c96720cc810800000000000000
+      internalID: 1786805860606575409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_13
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 830
+        width: 88
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014e2934f4929860800000000000000
+      internalID: 7535248903196524803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 208
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d82229dc69a3c0800000000000000
+      internalID: -4347824285412699760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 757
+        width: 478
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49344b57f63f8290800000000000000
+      internalID: -7886023986486429364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_16
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 777
+        width: 332
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd34755cfc7f4210800000000000000
+      internalID: 1319410639050128862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_17
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 807
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc883ddf5d3f4980800000000000000
+      internalID: -8552549685410624336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_18
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 791
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca8ee78737cbc750800000000000000
+      internalID: 6326369142889679559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_19
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 787
+        width: 94
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf16571367bd580800000000000000
+      internalID: -8801311091970671485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_20
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 741
+        width: 562
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66a7f9a440e320c0800000000000000
+      internalID: -4601587808728537494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_21
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 762
+        width: 100
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cd0d30e607ec80800000000000000
+      internalID: -8293652628612724746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_22
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 765
+        width: 199
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ff5e411764a990800000000000000
+      internalID: -7375656965699014613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_23
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 739
+        width: 430
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c3259a300488f0800000000000000
+      internalID: -539305803767364662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_24
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 747
+        width: 359
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac08fe0e43fa77150800000000000000
+      internalID: 5870353280947683530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 678
+        width: 598
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b519ca9d4d59e0800000000000000
+      internalID: -1631062162844306036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_26
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 745
+        width: 222
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3591ec6272b629870800000000000000
+      internalID: 8688124447050045779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_27
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 720
+        width: 155
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ca1e07c5d4a070800000000000000
+      internalID: 8116847479340318863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_28
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 677
+        width: 588
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55622222cadb8e2b0800000000000000
+      internalID: -5554981593356818859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 685
+        width: 89
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247bb3c4c5067a190800000000000000
+      internalID: -7951280667567081662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_30
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 675
+        width: 286
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa0b58617c709020800000000000000
+      internalID: 2346512232383974132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_31
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 668
+        width: 312
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1164151d584103ba0800000000000000
+      internalID: -6111362129366792687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_32
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 631
+        width: 998
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce9f310b7d3ac10800000000000000
+      internalID: 2063730205515181174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 158
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aac8a47967db610800000000000000
+      internalID: 1638596231595600535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_34
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 657
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c63d8e51e7ecc0800000000000000
+      internalID: -3681726374139738918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_35
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 648
+        width: 226
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa17b90c646e160800000000000000
+      internalID: 7054403659378043644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 110
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3b81b4c424b9d30800000000000000
+      internalID: 4439214753148613540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 623
+        width: 334
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dde3c025dbd0280800000000000000
+      internalID: -9075389513991266997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_38
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 572
+        width: 551
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b24d69ac533130800000000000000
+      internalID: 3545279214423028681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_39
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 623
+        width: 104
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bbfc4e8d0a76350800000000000000
+      internalID: 6009949081161415548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_40
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 557
+        width: 625
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68f99ea8ecb4470800000000000000
+      internalID: 8380018627673294570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_41
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 611
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a03201e46539e0800000000000000
+      internalID: -1642295571539515459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_42
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 575
+        width: 176
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e98129e5e5891a0800000000000000
+      internalID: -6802583476872110445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 210
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fd7acc964004980800000000000000
+      internalID: -8556834439552311479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_44
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 479
+        width: 633
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666a79a97db61c340800000000000000
+      internalID: 4882302044802098790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_45
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 447
+        width: 761
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcbae6b328c55930800000000000000
+      internalID: 4131428288900545745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_46
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 516
+        width: 530
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9544d3baa8a419b30800000000000000
+      internalID: 4292293879299654745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-cloud_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 489
+        width: 200
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec4d6988e4f63a40800000000000000
+      internalID: 5347730887124274402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

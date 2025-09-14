@@ -1,0 +1,2843 @@
+fileFormatVersion: 2
+guid: 2db0a1a2d4729c44398975002329532e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 130751827610010485
+    second: Serene_Village_XP_0
+  - first:
+      213: -542410633953664230
+    second: Serene_Village_XP_1
+  - first:
+      213: 6622860593624928371
+    second: Serene_Village_XP_2
+  - first:
+      213: -3353732620047049288
+    second: Serene_Village_XP_3
+  - first:
+      213: 2766805433686953337
+    second: Serene_Village_XP_4
+  - first:
+      213: -8052364990145736941
+    second: Serene_Village_XP_5
+  - first:
+      213: 8967062196946339896
+    second: Serene_Village_XP_6
+  - first:
+      213: -5216777937844294170
+    second: Serene_Village_XP_7
+  - first:
+      213: 6687225833042786478
+    second: Serene_Village_XP_8
+  - first:
+      213: 9032354907807575459
+    second: Serene_Village_XP_9
+  - first:
+      213: -6802074095800275184
+    second: Serene_Village_XP_10
+  - first:
+      213: 2233226011168392531
+    second: Serene_Village_XP_11
+  - first:
+      213: 7366691901773334619
+    second: Serene_Village_XP_12
+  - first:
+      213: -7171110984649080186
+    second: Serene_Village_XP_13
+  - first:
+      213: 2018598810296403020
+    second: Serene_Village_XP_14
+  - first:
+      213: -1300179569975350369
+    second: Serene_Village_XP_15
+  - first:
+      213: -1207472001086882096
+    second: Serene_Village_XP_16
+  - first:
+      213: 5187795878754598723
+    second: Serene_Village_XP_17
+  - first:
+      213: -2276897494419944669
+    second: Serene_Village_XP_18
+  - first:
+      213: 933249056991784295
+    second: Serene_Village_XP_19
+  - first:
+      213: 4279409102343065513
+    second: Serene_Village_XP_20
+  - first:
+      213: 5736004296992868248
+    second: Serene_Village_XP_21
+  - first:
+      213: -4391209010796220975
+    second: Serene_Village_XP_22
+  - first:
+      213: -4982813417016608615
+    second: Serene_Village_XP_23
+  - first:
+      213: -2174786942031913283
+    second: Serene_Village_XP_24
+  - first:
+      213: -2679362524917594325
+    second: Serene_Village_XP_25
+  - first:
+      213: 7820256914421745212
+    second: Serene_Village_XP_26
+  - first:
+      213: -3285449655282149914
+    second: Serene_Village_XP_27
+  - first:
+      213: 6291553348439132410
+    second: Serene_Village_XP_28
+  - first:
+      213: -1900930748000488708
+    second: Serene_Village_XP_29
+  - first:
+      213: -7312073137341754868
+    second: Serene_Village_XP_30
+  - first:
+      213: -1537392314299931349
+    second: Serene_Village_XP_31
+  - first:
+      213: 386738477193362466
+    second: Serene_Village_XP_32
+  - first:
+      213: 3859414137693828058
+    second: Serene_Village_XP_33
+  - first:
+      213: 399771396154289470
+    second: Serene_Village_XP_34
+  - first:
+      213: -7119595520948582464
+    second: Serene_Village_XP_35
+  - first:
+      213: 1987631348268128445
+    second: Serene_Village_XP_36
+  - first:
+      213: 852986311965284688
+    second: Serene_Village_XP_37
+  - first:
+      213: 1856947714234574934
+    second: Serene_Village_XP_38
+  - first:
+      213: 2902573461198143686
+    second: Serene_Village_XP_39
+  - first:
+      213: 2972064882098269129
+    second: Serene_Village_XP_40
+  - first:
+      213: 2780105936911070155
+    second: Serene_Village_XP_41
+  - first:
+      213: -4139257090287942424
+    second: Serene_Village_XP_42
+  - first:
+      213: -2686327576499009388
+    second: Serene_Village_XP_43
+  - first:
+      213: -1544921157721764878
+    second: Serene_Village_XP_44
+  - first:
+      213: 2253731585843834158
+    second: Serene_Village_XP_45
+  - first:
+      213: 2934648603908804546
+    second: Serene_Village_XP_46
+  - first:
+      213: 5858221601445979388
+    second: Serene_Village_XP_47
+  - first:
+      213: 3400060829479845431
+    second: Serene_Village_XP_48
+  - first:
+      213: 8775104065683258240
+    second: Serene_Village_XP_49
+  - first:
+      213: -4935692172656835735
+    second: Serene_Village_XP_50
+  - first:
+      213: 1963719061729992749
+    second: Serene_Village_XP_51
+  - first:
+      213: 5874097093322983193
+    second: Serene_Village_XP_52
+  - first:
+      213: 5564051484905692967
+    second: Serene_Village_XP_53
+  - first:
+      213: -5593209505547641389
+    second: Serene_Village_XP_54
+  - first:
+      213: 670465645304218061
+    second: Serene_Village_XP_55
+  - first:
+      213: -3602723988274838583
+    second: Serene_Village_XP_56
+  - first:
+      213: -820938506971295136
+    second: Serene_Village_XP_57
+  - first:
+      213: -758572189221828411
+    second: Serene_Village_XP_58
+  - first:
+      213: -1434901640464948195
+    second: Serene_Village_XP_59
+  - first:
+      213: 8423728331190147273
+    second: Serene_Village_XP_60
+  - first:
+      213: 7086914933603983167
+    second: Serene_Village_XP_61
+  - first:
+      213: 7444927416714522833
+    second: Serene_Village_XP_62
+  - first:
+      213: -7565806179509079852
+    second: Serene_Village_XP_63
+  - first:
+      213: -6186840342830517055
+    second: Serene_Village_XP_64
+  - first:
+      213: 3756356411624614261
+    second: Serene_Village_XP_65
+  - first:
+      213: 3986911224306278936
+    second: Serene_Village_XP_66
+  - first:
+      213: 3465843901718379683
+    second: Serene_Village_XP_67
+  - first:
+      213: -7567701809985811903
+    second: Serene_Village_XP_68
+  - first:
+      213: 1679155061204287994
+    second: Serene_Village_XP_69
+  - first:
+      213: 2462440588085542714
+    second: Serene_Village_XP_70
+  - first:
+      213: -2171515739232296624
+    second: Serene_Village_XP_71
+  - first:
+      213: 6732983563436574926
+    second: Serene_Village_XP_72
+  - first:
+      213: -8719244568849985557
+    second: Serene_Village_XP_73
+  - first:
+      213: -1376220777651046302
+    second: Serene_Village_XP_74
+  - first:
+      213: -5146736977215430207
+    second: Serene_Village_XP_75
+  - first:
+      213: 8860744335524263068
+    second: Serene_Village_XP_76
+  - first:
+      213: -6974743656181014560
+    second: Serene_Village_XP_77
+  - first:
+      213: -444827623730066666
+    second: Serene_Village_XP_78
+  - first:
+      213: -5080108050928991213
+    second: Serene_Village_XP_79
+  - first:
+      213: 1987862665465012003
+    second: Serene_Village_XP_80
+  - first:
+      213: 3130154209821473394
+    second: Serene_Village_XP_81
+  - first:
+      213: -1689805766921081856
+    second: Serene_Village_XP_82
+  - first:
+      213: -4194087037971893493
+    second: Serene_Village_XP_83
+  - first:
+      213: -5071672296396508322
+    second: Serene_Village_XP_84
+  - first:
+      213: -3639991032083111145
+    second: Serene_Village_XP_85
+  - first:
+      213: -6357803956011852818
+    second: Serene_Village_XP_86
+  - first:
+      213: -8579705569663743685
+    second: Serene_Village_XP_87
+  - first:
+      213: 3136154768398674655
+    second: Serene_Village_XP_88
+  - first:
+      213: -8065390044148862422
+    second: Serene_Village_XP_89
+  - first:
+      213: -6617069072604784597
+    second: Serene_Village_XP_90
+  - first:
+      213: 2095453929854174943
+    second: Serene_Village_XP_91
+  - first:
+      213: -8656961461606736287
+    second: Serene_Village_XP_92
+  - first:
+      213: -4180350188956551623
+    second: Serene_Village_XP_93
+  - first:
+      213: 1178188800863061754
+    second: Serene_Village_XP_94
+  - first:
+      213: -5954218922240726705
+    second: Serene_Village_XP_95
+  - first:
+      213: -2566885827634466323
+    second: Serene_Village_XP_96
+  - first:
+      213: 8860342913906901877
+    second: Serene_Village_XP_97
+  - first:
+      213: 1611531424392990431
+    second: Serene_Village_XP_98
+  - first:
+      213: 749702958667664002
+    second: Serene_Village_XP_99
+  - first:
+      213: 1524272428028130868
+    second: Serene_Village_XP_100
+  - first:
+      213: -6007111968104335285
+    second: Serene_Village_XP_101
+  - first:
+      213: -8171925428913233547
+    second: Serene_Village_XP_102
+  - first:
+      213: 115190983236749258
+    second: Serene_Village_XP_103
+  - first:
+      213: 4283807385026734897
+    second: Serene_Village_XP_104
+  - first:
+      213: -3520497326065102243
+    second: Serene_Village_XP_105
+  - first:
+      213: -2427800562398766475
+    second: Serene_Village_XP_106
+  - first:
+      213: 1157921332397924378
+    second: Serene_Village_XP_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serene_Village_XP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2335
+        width: 256
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5738d6e281680d100800000000000000
+      internalID: 130751827610010485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2207
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a132cc8f668f878f0800000000000000
+      internalID: -542410633953664230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2239
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37052f7de9029eb50800000000000000
+      internalID: 6622860593624928371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2177
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd947e63f52571d0800000000000000
+      internalID: -3353732620047049288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2177
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d088df1eaa56620800000000000000
+      internalID: 2766805433686953337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2177
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f429864b0404090800000000000000
+      internalID: -8052364990145736941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2177
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83802dffe87617c70800000000000000
+      internalID: 8967062196946339896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2145
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed22beea184a97b0800000000000000
+      internalID: -5216777937844294170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2177
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b457f67ccdcc50800000000000000
+      internalID: 6687225833042786478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2175
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad6025eeee595d70800000000000000
+      internalID: 9032354907807575459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2111
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f20f716ad2a91a0800000000000000
+      internalID: -6802074095800275184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2155
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cada99330efe10800000000000000
+      internalID: 2233226011168392531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2113
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5842f6114fbb3660800000000000000
+      internalID: 7366691901773334619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2129
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682071bbd881b7c90800000000000000
+      internalID: -7171110984649080186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2081
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444eb74ce0830c10800000000000000
+      internalID: 2018598810296403020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2127
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b266bd195d4fde0800000000000000
+      internalID: -1300179569975350369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2113
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de7cfacc923e3fe0800000000000000
+      internalID: -1207472001086882096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2113
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f37689dd0cef740800000000000000
+      internalID: 5187795878754598723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2083
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4f17dac5d660e0800000000000000
+      internalID: -2276897494419944669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2083
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76da6f0a21193fc00800000000000000
+      internalID: 933249056991784295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2017
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af4bb1c7e3836b30800000000000000
+      internalID: 4279409102343065513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1983
+        width: 18
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897cf5874816a9f40800000000000000
+      internalID: 5736004296992868248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2015
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2ff89baa4f03c0800000000000000
+      internalID: -4391209010796220975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2015
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bca8e89d79dab0800000000000000
+      internalID: -4982813417016608615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1919
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe970a7cca91d1e0800000000000000
+      internalID: -2174786942031913283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1983
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270bcdbafdf0dad0800000000000000
+      internalID: -2679362524917594325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1983
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36866cea32278c60800000000000000
+      internalID: 7820256914421745212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1951
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55a7112fcb762d0800000000000000
+      internalID: -3285449655282149914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1953
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af84223bf66105750800000000000000
+      internalID: 6291553348439132410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1919
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf230d66e898e95e0800000000000000
+      internalID: -1900930748000488708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1951
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02911df83c468a90800000000000000
+      internalID: -7312073137341754868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1951
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25acb9e5d51aaae0800000000000000
+      internalID: -1537392314299931349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1919
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf5129898fd5500800000000000000
+      internalID: 386738477193362466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1919
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad37c5ec5b46f8530800000000000000
+      internalID: 3859414137693828058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1919
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d632b77f54c8500800000000000000
+      internalID: 399771396154289470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823
+        width: 256
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7c56d489d123d90800000000000000
+      internalID: -7119595520948582464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1727
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d3f92e2c759b10800000000000000
+      internalID: 1987631348268128445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1727
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05916fa088a66db00800000000000000
+      internalID: 852986311965284688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1727
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ec698b1435c910800000000000000
+      internalID: 1856947714234574934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1759
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c001393f23084820800000000000000
+      internalID: 2902573461198143686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1745
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb61ea7345ee3920800000000000000
+      internalID: 2972064882098269129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1727
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f987be9be49620800000000000000
+      internalID: 2780105936911070155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1721
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4ce5b6b976e86c0800000000000000
+      internalID: -4139257090287942424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1727
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c07c4d4f38bad0800000000000000
+      internalID: -2686327576499009388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1711
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb420474665f8ae0800000000000000
+      internalID: -1544921157721764878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1631
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dac41cfecd64f10800000000000000
+      internalID: 2253731585843834158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1631
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf84985b57f9b820800000000000000
+      internalID: 2934648603908804546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1631
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf425b122859c4150800000000000000
+      internalID: 5858221601445979388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1681
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ebdd36f417f2f20800000000000000
+      internalID: 3400060829479845431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1663
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bf22eb7ae67c970800000000000000
+      internalID: 8775104065683258240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1657
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9630d109e16e08bb0800000000000000
+      internalID: -4935692172656835735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1663
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2064191518804b10800000000000000
+      internalID: 1963719061729992749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1647
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917cbaf1f2cf48150800000000000000
+      internalID: 5874097093322983193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 179
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd9cd885b773d40800000000000000
+      internalID: 5564051484905692967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1617
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd9e7bb69de062b0800000000000000
+      internalID: -5593209505547641389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1617
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1067eb3f8fd4900800000000000000
+      internalID: 670465645304218061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1599
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c38917ee9d800ec0800000000000000
+      internalID: -3602723988274838583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1593
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062598507c07b94f0800000000000000
+      internalID: -820938506971295136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1599
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c841fcec920975f0800000000000000
+      internalID: -758572189221828411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1583
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1426787f84361ce0800000000000000
+      internalID: -1434901640464948195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1547
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89bf0594817e470800000000000000
+      internalID: 8423728331190147273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1541
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f50e28597c95260800000000000000
+      internalID: 7086914933603983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1547
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f5d36a02b15760800000000000000
+      internalID: 7444927416714522833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1539
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0f7e67d5bd00790800000000000000
+      internalID: -7565806179509079852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 161
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f78bcc7de32aa0800000000000000
+      internalID: -6186840342830517055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1519
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57965ac1142412430800000000000000
+      internalID: 3756356411624614261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8122bcb82aa545730800000000000000
+      internalID: 3986911224306278936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1517
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acb0e07aa6291030800000000000000
+      internalID: 3465843901718379683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1509
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a07b99c4f1af690800000000000000
+      internalID: -7567701809985811903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1465
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af181e1b1ae8d4710800000000000000
+      internalID: 1679155061204287994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_70
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb7551ba85c2220800000000000000
+      internalID: 2462440588085542714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_71
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1465
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a3eab0f93dd1e0800000000000000
+      internalID: -2171515739232296624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 161
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec84e29c0ec507d50800000000000000
+      internalID: 6732983563436574926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_73
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1409
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef41fbd2450ff680800000000000000
+      internalID: -8719244568849985557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_74
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1407
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268f8978e7ea6ece0800000000000000
+      internalID: -1376220777651046302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1409
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e4b0ecfd1398b0800000000000000
+      internalID: -5146736977215430207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_76
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1399
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c947a74e600b7fa70800000000000000
+      internalID: 8860744335524263068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1379
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efdbe5399bb43f90800000000000000
+      internalID: -6974743656181014560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1375
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc94d02a7a3d9f0800000000000000
+      internalID: -444827623730066666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1375
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31486cba4a4df79b0800000000000000
+      internalID: -5080108050928991213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_80
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1345
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9d45ef8e469b10800000000000000
+      internalID: 1987862665465012003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1343
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3a986baa807b20800000000000000
+      internalID: 3130154209821473394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1337
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2343ab9a9c88e0800000000000000
+      internalID: -1689805766921081856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 161
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b037d986f0c9bc5c0800000000000000
+      internalID: -4194087037971893493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b814daeccd99b0800000000000000
+      internalID: -5071672296396508322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1299
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713241b11772c7dc0800000000000000
+      internalID: -3639991032083111145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1299
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb1752bcfa84c7a0800000000000000
+      internalID: -6357803956011852818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1235
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3980cadd33cee880800000000000000
+      internalID: -8579705569663743685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_88
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1247
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaec03552cd58b20800000000000000
+      internalID: 3136154768398674655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1235
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22f883bc7af11090800000000000000
+      internalID: -8065390044148862422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1097
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281b29bcb27b24a0800000000000000
+      internalID: -6617069072604784597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1151
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6872c3f3c841d10800000000000000
+      internalID: 2095453929854174943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1087
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1faeca6b4cd780800000000000000
+      internalID: -8656961461606736287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1023
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f18ec6a96cf5c0800000000000000
+      internalID: -4180350188956551623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 903
+        width: 86
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af649c9d874c95010800000000000000
+      internalID: 1178188800863061754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 713
+        width: 114
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49aee0ef6d5e5da0800000000000000
+      internalID: -5954218922240726705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 991
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1fcd090f6906cd0800000000000000
+      internalID: -2566885827634466323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_97
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 959
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730293afe246fa70800000000000000
+      internalID: 8860342913906901877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 927
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec25fca4f4d5610800000000000000
+      internalID: 1611531424392990431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 767
+        width: 144
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a027a6eda776a00800000000000000
+      internalID: 749702958667664002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 585
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436f98582bd472510800000000000000
+      internalID: 1524272428028130868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_101
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 447
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b427fd7372aca0800000000000000
+      internalID: -6007111968104335285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_102
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 329
+        width: 136
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57125ae7e1d779e80800000000000000
+      internalID: -8171925428913233547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_103
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 255
+        width: 134
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac78725c69d399100800000000000000
+      internalID: 115190983236749258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_104
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 134
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba6bebe14237b30800000000000000
+      internalID: 4283807385026734897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_105
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 134
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d525d27955ea42fc0800000000000000
+      internalID: -3520497326065102243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_106
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 134
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a5ab46048be4ed0800000000000000
+      internalID: -2427800562398766475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene_Village_XP_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 134
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ec6f1153c11010800000000000000
+      internalID: 1157921332397924378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

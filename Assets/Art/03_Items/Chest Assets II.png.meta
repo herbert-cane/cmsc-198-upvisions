@@ -1,0 +1,2543 @@
+fileFormatVersion: 2
+guid: dbcf3a06bc2134a4a923f76de996fd75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1089846054645263979
+    second: Chest Assets II_0
+  - first:
+      213: -4391697658313459153
+    second: Chest Assets II_1
+  - first:
+      213: 1201337981757194825
+    second: Chest Assets II_2
+  - first:
+      213: 2699779279796415051
+    second: Chest Assets II_3
+  - first:
+      213: 3341929032253384758
+    second: Chest Assets II_4
+  - first:
+      213: -3548819801584823702
+    second: Chest Assets II_5
+  - first:
+      213: -7276898915739868868
+    second: Chest Assets II_6
+  - first:
+      213: 452338535987843252
+    second: Chest Assets II_7
+  - first:
+      213: -8409559698193824875
+    second: Chest Assets II_8
+  - first:
+      213: 4126062826412309271
+    second: Chest Assets II_9
+  - first:
+      213: -6501943650758648484
+    second: Chest Assets II_10
+  - first:
+      213: 8052071911244479889
+    second: Chest Assets II_11
+  - first:
+      213: -3980001488491879737
+    second: Chest Assets II_12
+  - first:
+      213: 1313650157047229025
+    second: Chest Assets II_13
+  - first:
+      213: -6401792803948420604
+    second: Chest Assets II_14
+  - first:
+      213: 8148463160817836337
+    second: Chest Assets II_15
+  - first:
+      213: -5084731050764865713
+    second: Chest Assets II_16
+  - first:
+      213: -6908076685325406993
+    second: Chest Assets II_17
+  - first:
+      213: -7638375267954886532
+    second: Chest Assets II_18
+  - first:
+      213: -7515256232559631620
+    second: Chest Assets II_19
+  - first:
+      213: -656413403488122000
+    second: Chest Assets II_20
+  - first:
+      213: 1324482751669781204
+    second: Chest Assets II_21
+  - first:
+      213: -5277773420758274814
+    second: Chest Assets II_22
+  - first:
+      213: -1229066089016814129
+    second: Chest Assets II_23
+  - first:
+      213: 7386289778719191900
+    second: Chest Assets II_24
+  - first:
+      213: 4760436383715098698
+    second: Chest Assets II_25
+  - first:
+      213: 8914849165714132890
+    second: Chest Assets II_26
+  - first:
+      213: 5556561622471903990
+    second: Chest Assets II_27
+  - first:
+      213: -1358148092125568737
+    second: Chest Assets II_28
+  - first:
+      213: 229581927594169160
+    second: Chest Assets II_29
+  - first:
+      213: -377152671284013749
+    second: Chest Assets II_30
+  - first:
+      213: -2312076121210934834
+    second: Chest Assets II_31
+  - first:
+      213: 6651084455850584005
+    second: Chest Assets II_32
+  - first:
+      213: -528872930653361950
+    second: Chest Assets II_33
+  - first:
+      213: 715177450641147590
+    second: Chest Assets II_34
+  - first:
+      213: -2523081659086205255
+    second: Chest Assets II_35
+  - first:
+      213: 2906239107405483625
+    second: Chest Assets II_36
+  - first:
+      213: -5957575534274838974
+    second: Chest Assets II_37
+  - first:
+      213: -433880666472281262
+    second: Chest Assets II_38
+  - first:
+      213: 4756785510554442266
+    second: Chest Assets II_39
+  - first:
+      213: 6862633168003069410
+    second: Chest Assets II_40
+  - first:
+      213: -8438306018565855231
+    second: Chest Assets II_41
+  - first:
+      213: 7749080347313462227
+    second: Chest Assets II_42
+  - first:
+      213: 7815829392452040998
+    second: Chest Assets II_43
+  - first:
+      213: -4576751757386172351
+    second: Chest Assets II_44
+  - first:
+      213: 2062456392031416706
+    second: Chest Assets II_45
+  - first:
+      213: -7362342113430925539
+    second: Chest Assets II_46
+  - first:
+      213: 5537581375434804321
+    second: Chest Assets II_47
+  - first:
+      213: -2868730277966012326
+    second: Chest Assets II_48
+  - first:
+      213: 163092863160678800
+    second: Chest Assets II_49
+  - first:
+      213: -6275159882999583161
+    second: Chest Assets II_50
+  - first:
+      213: 6604949753311521373
+    second: Chest Assets II_51
+  - first:
+      213: 4169246806918293448
+    second: Chest Assets II_52
+  - first:
+      213: -4552833683607541642
+    second: Chest Assets II_53
+  - first:
+      213: 6482211366180344147
+    second: Chest Assets II_54
+  - first:
+      213: -487531015317262381
+    second: Chest Assets II_55
+  - first:
+      213: 643119180230738055
+    second: Chest Assets II_56
+  - first:
+      213: -5043400440047385136
+    second: Chest Assets II_57
+  - first:
+      213: 8681064747664552301
+    second: Chest Assets II_58
+  - first:
+      213: 9047945450787084767
+    second: Chest Assets II_59
+  - first:
+      213: 1103761398401058301
+    second: Chest Assets II_60
+  - first:
+      213: -6022737359104697466
+    second: Chest Assets II_61
+  - first:
+      213: -8806483880917885156
+    second: Chest Assets II_62
+  - first:
+      213: 2041521979934357425
+    second: Chest Assets II_63
+  - first:
+      213: 5196639522959498023
+    second: Chest Assets II_64
+  - first:
+      213: -1946086446235941582
+    second: Chest Assets II_65
+  - first:
+      213: 3056159657190170362
+    second: Chest Assets II_66
+  - first:
+      213: 3664570515698475216
+    second: Chest Assets II_67
+  - first:
+      213: -7942212997864418646
+    second: Chest Assets II_68
+  - first:
+      213: -1101802520720903748
+    second: Chest Assets II_69
+  - first:
+      213: -576874235861378411
+    second: Chest Assets II_70
+  - first:
+      213: -5325208823846363151
+    second: Chest Assets II_71
+  - first:
+      213: 2897561127791986617
+    second: Chest Assets II_72
+  - first:
+      213: 8284352655791041628
+    second: Chest Assets II_73
+  - first:
+      213: -6837711892857253514
+    second: Chest Assets II_74
+  - first:
+      213: 955388876915274885
+    second: Chest Assets II_75
+  - first:
+      213: -7806560460999282575
+    second: Chest Assets II_76
+  - first:
+      213: 223212853473884560
+    second: Chest Assets II_77
+  - first:
+      213: 9178350170925176578
+    second: Chest Assets II_78
+  - first:
+      213: 1109090121909557785
+    second: Chest Assets II_79
+  - first:
+      213: -1073061213195653216
+    second: Chest Assets II_80
+  - first:
+      213: 9001823531971970394
+    second: Chest Assets II_81
+  - first:
+      213: -3065748282046172538
+    second: Chest Assets II_82
+  - first:
+      213: -1943814603332511398
+    second: Chest Assets II_83
+  - first:
+      213: 3153241781925339225
+    second: Chest Assets II_84
+  - first:
+      213: 3480763896935676247
+    second: Chest Assets II_85
+  - first:
+      213: 4587277004620369316
+    second: Chest Assets II_86
+  - first:
+      213: 2359474384686049448
+    second: Chest Assets II_87
+  - first:
+      213: 4902386524374261673
+    second: Chest Assets II_88
+  - first:
+      213: -863986683274864908
+    second: Chest Assets II_89
+  - first:
+      213: -8982850357923536347
+    second: Chest Assets II_90
+  - first:
+      213: -4080704010219313233
+    second: Chest Assets II_91
+  - first:
+      213: -1163704105943419738
+    second: Chest Assets II_92
+  - first:
+      213: -4976037055071394904
+    second: Chest Assets II_93
+  - first:
+      213: 3940707967545705551
+    second: Chest Assets II_94
+  - first:
+      213: -1796744546492263449
+    second: Chest Assets II_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chest Assets II_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591120d99c610e0f0800000000000000
+      internalID: -1089846054645263979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2abf4b7f3e8d03c0800000000000000
+      internalID: -4391697658313459153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94282d987820ca010800000000000000
+      internalID: 1201337981757194825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aa93073fa877520800000000000000
+      internalID: 2699779279796415051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6382700afbae06e20800000000000000
+      internalID: 3341929032253384758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621aa2613f00cec0800000000000000
+      internalID: -3548819801584823702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3166e4adf2430b90800000000000000
+      internalID: -7276898915739868868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b096cb7087074600800000000000000
+      internalID: 452338535987843252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59347bf920e3b4b80800000000000000
+      internalID: -8409559698193824875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bff31a748b24930800000000000000
+      internalID: 4126062826412309271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 338
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9ceac2b474c5a0800000000000000
+      internalID: -6501943650758648484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 338
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19db0a7ddb4bebf60800000000000000
+      internalID: 8052071911244479889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26ae0bbb134c8c0800000000000000
+      internalID: -3980001488491879737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aafe99bd50b3210800000000000000
+      internalID: 1313650157047229025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402a00bec534827a0800000000000000
+      internalID: -6401792803948420604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13167e58218251170800000000000000
+      internalID: 8148463160817836337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe2c4ac086f69b0800000000000000
+      internalID: -5084731050764865713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6502fad49120a0800000000000000
+      internalID: -6908076685325406993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787b64e92a0ff590800000000000000
+      internalID: -7638375267954886532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf22e36264274b790800000000000000
+      internalID: -7515256232559631620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0943cc73f3e6f0800000000000000
+      internalID: -656413403488122000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c8649b02816210800000000000000
+      internalID: 1324482751669781204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 290
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d64b2690591c6b0800000000000000
+      internalID: -5277773420758274814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 290
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59ca667ea71fee0800000000000000
+      internalID: -1229066089016814129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f7a46b6f518660800000000000000
+      internalID: 7386289778719191900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a400f2b4ba7701240800000000000000
+      internalID: 4760436383715098698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f04945518e7bb70800000000000000
+      internalID: 8914849165714132890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa81001b5fdc1d40800000000000000
+      internalID: 5556561622471903990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f112b788183e62de0800000000000000
+      internalID: -1358148092125568737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439919fb83af2300800000000000000
+      internalID: 229581927594169160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d60ac4a514caf0800000000000000
+      internalID: -377152671284013749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec92f85840bd9efd0800000000000000
+      internalID: -2312076121210934834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7a81ad2166d4c50800000000000000
+      internalID: 6651084455850584005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e826152fd019a8f0800000000000000
+      internalID: -528872930653361950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 242
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c5d82a12dce900800000000000000
+      internalID: 715177450641147590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 242
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be0dd259963cfcd0800000000000000
+      internalID: -2523081659086205255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e804df119055820800000000000000
+      internalID: 2906239107405483625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e7dfcbd90725da0800000000000000
+      internalID: -5957575534274838974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b820825db8af9f0800000000000000
+      internalID: -433880666472281262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a9255283f730240800000000000000
+      internalID: 4756785510554442266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5f2aaa188fc3f50800000000000000
+      internalID: 6862633168003069410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1086759526d15ea80800000000000000
+      internalID: -8438306018565855231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db549df4834a8b60800000000000000
+      internalID: 7749080347313462227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62939222c67677c60800000000000000
+      internalID: 7815829392452040998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1483adb768c1c70c0800000000000000
+      internalID: -4576751757386172351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28134c349215f9c10800000000000000
+      internalID: 2062456392031416706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 194
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0d0eead4b3d990800000000000000
+      internalID: -7362342113430925539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 194
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4c9debe079dc40800000000000000
+      internalID: 5537581375434804321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50ad69e2093038d0800000000000000
+      internalID: -2868730277966012326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f71e481c634200800000000000000
+      internalID: 163092863160678800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e270965572ae8a0800000000000000
+      internalID: -6275159882999583161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aef6d5ece79ab50800000000000000
+      internalID: 6604949753311521373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7eb4b91e32cd930800000000000000
+      internalID: 4169246806918293448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a32ff2e511d0c0800000000000000
+      internalID: -4552833683607541642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351dd20b4e075f950800000000000000
+      internalID: 6482211366180344147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df6707ef11fb39f0800000000000000
+      internalID: -487531015317262381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c4edac71dce800800000000000000
+      internalID: 643119180230738055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_57
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d54de6550e320ab0800000000000000
+      internalID: -5043400440047385136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 146
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6136bcc466597870800000000000000
+      internalID: 8681064747664552301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 146
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9964d0372c09d70800000000000000
+      internalID: 9047945450787084767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5cb74d429515f00800000000000000
+      internalID: 1103761398401058301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b171f1840fa6ca0800000000000000
+      internalID: -6022737359104697466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9fada19519c580800000000000000
+      internalID: -8806483880917885156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b32f9c61f45c10800000000000000
+      internalID: 2041521979934357425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b91c7fc1c2e1840800000000000000
+      internalID: 5196639522959498023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23587ed10bc1ef4e0800000000000000
+      internalID: -1946086446235941582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe13b71409a96a20800000000000000
+      internalID: 3056159657190170362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e392e77b2bd230800000000000000
+      internalID: 3664570515698475216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21dcbab5797c190800000000000000
+      internalID: -7942212997864418646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1fccbe17c95b0f0800000000000000
+      internalID: -1101802520720903748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 98
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a586b50f78ef7f0800000000000000
+      internalID: -576874235861378411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_71
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 98
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9cd3f9ce0916b0800000000000000
+      internalID: -5325208823846363151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b785096e74363820800000000000000
+      internalID: 2897561127791986617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2d7a19dee7f270800000000000000
+      internalID: 8284352655791041628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67197cdd2419b11a0800000000000000
+      internalID: -6837711892857253514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f4e62f19324d00800000000000000
+      internalID: 955388876915274885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17037842f9689a390800000000000000
+      internalID: -7806560460999282575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099bc9858e2091300800000000000000
+      internalID: 223212853473884560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207142af9dc006f70800000000000000
+      internalID: 9178350170925176578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a5054f697446f00800000000000000
+      internalID: 1109090121909557785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af293d0388bb11f0800000000000000
+      internalID: -1073061213195653216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_81
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5501f10fc6ecec70800000000000000
+      internalID: 9001823531971970394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 50
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682bfd53e264475d0800000000000000
+      internalID: -3065748282046172538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_83
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 50
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591623caee2605e0800000000000000
+      internalID: -1943814603332511398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950649ea1b092cb20800000000000000
+      internalID: 3153241781925339225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759fad782582e4030800000000000000
+      internalID: 3480763896935676247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad07ba912849af30800000000000000
+      internalID: 4587277004620369316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a868dba3798eb020800000000000000
+      internalID: 2359474384686049448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af5df8e196c80440800000000000000
+      internalID: 4902386524374261673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_89
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6dbbc60b08204f0800000000000000
+      internalID: -863986683274864908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_90
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222a715131865380800000000000000
+      internalID: -8982850357923536347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ad5db25d6e57c0800000000000000
+      internalID: -4080704010219313233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_92
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4349df741b9dfe0800000000000000
+      internalID: -1163704105943419738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_93
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3e94f99a091fab0800000000000000
+      internalID: -4976037055071394904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_94
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f440d19840530b630800000000000000
+      internalID: 3940707967545705551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest Assets II_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e35532ca5ea017e0800000000000000
+      internalID: -1796744546492263449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
