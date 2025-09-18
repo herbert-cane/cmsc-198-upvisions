@@ -178,7 +178,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -192,7 +192,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -216,7 +216,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jump_0: 7460046300004610927
+      Jump_1: 7034338576483803127
+      Jump_10: 8986021004954451436
+      Jump_11: -7810803537696417755
+      Jump_12: 7239986427860625178
+      Jump_13: -3499918286812187939
+      Jump_14: -141085772950971166
+      Jump_15: -3388347748468855017
+      Jump_16: 8889825631758111734
+      Jump_17: -1196279927365578947
+      Jump_18: -5551465295274767572
+      Jump_19: 2107236255493629774
+      Jump_2: 6054277451648750542
+      Jump_20: 2978651495272330991
+      Jump_21: -5089799229287275800
+      Jump_22: 809149217655420146
+      Jump_23: 3749706016892065170
+      Jump_24: -4556174215301416573
+      Jump_25: 8037438018712698328
+      Jump_26: 3932511825258219018
+      Jump_27: 4432166594215786443
+      Jump_28: -7047773196209826438
+      Jump_29: -290791413259096957
+      Jump_3: 6937500446539429301
+      Jump_30: -9065272056502611161
+      Jump_31: 6269443972071677028
+      Jump_32: 6660022228993050135
+      Jump_33: 4935618517889000731
+      Jump_34: 9031364819276824376
+      Jump_35: -5769841674287665907
+      Jump_36: 62489461259206351
+      Jump_37: 7975743697880590575
+      Jump_38: -598281298711592966
+      Jump_39: -1633270776974985467
+      Jump_4: 3580086529375993838
+      Jump_40: -7366337381979054510
+      Jump_41: 7374490491736339792
+      Jump_42: -8383815656594867783
+      Jump_43: -9077618664680764594
+      Jump_44: 3802042649697943016
+      Jump_45: 7242095713913089146
+      Jump_46: 6392774858891224851
+      Jump_47: -1020732168068131615
+      Jump_5: 3630178267427638470
+      Jump_6: 3900142949445631465
+      Jump_7: 3967418731061993063
+      Jump_8: 3330681223243198311
+      Jump_9: -5679318689324892672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

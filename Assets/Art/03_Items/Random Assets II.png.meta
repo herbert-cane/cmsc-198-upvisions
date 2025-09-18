@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Random Assets II_0: 3091956258742175314
+      Random Assets II_1: -7746811595923472408
+      Random Assets II_10: -1449584762526643175
+      Random Assets II_11: 982850233373078424
+      Random Assets II_12: -6905013550768519577
+      Random Assets II_13: 7543092436057643723
+      Random Assets II_14: 4110404693575892541
+      Random Assets II_2: 1524167321199404264
+      Random Assets II_3: -6745158953946368582
+      Random Assets II_4: 6392849379571136557
+      Random Assets II_5: -6706426639333847279
+      Random Assets II_6: 5247683885677560931
+      Random Assets II_7: -7400166081864258117
+      Random Assets II_8: 3212882629858374623
+      Random Assets II_9: 2879004452947756157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

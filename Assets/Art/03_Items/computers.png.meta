@@ -103,7 +103,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,7 +117,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,7 +141,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -710,7 +710,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      computers_0: -5818930477482097552
+      computers_1: 4128578398903672553
+      computers_10: -660689303233955343
+      computers_11: 1213920961521127640
+      computers_12: -5218904174619802596
+      computers_13: 1669461727534057342
+      computers_14: 2644520042139506505
+      computers_15: -997511173040987841
+      computers_16: 6510493723257922650
+      computers_17: -8650134289439577212
+      computers_18: -8951242403519222163
+      computers_19: 7242312252148165725
+      computers_2: 2498352342279654383
+      computers_20: 6652905708794119811
+      computers_21: -1998457395794507001
+      computers_22: -8747834281755845396
+      computers_3: 6141578434817038264
+      computers_4: -8154774222148614573
+      computers_5: 6556148017670049045
+      computers_6: 8816048600176784228
+      computers_7: -7628038881820512999
+      computers_8: 4043489842876469811
+      computers_9: -4705445711711375037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

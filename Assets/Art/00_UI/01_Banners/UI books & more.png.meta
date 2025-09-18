@@ -837,10 +837,10 @@ TextureImporter:
       name: UI books & more_0
       rect:
         serializedVersion: 2
-        x: 554
-        y: 463
-        width: 35
-        height: 15
+        x: 16
+        y: 400
+        width: 128
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,10 +859,10 @@ TextureImporter:
       name: UI books & more_1
       rect:
         serializedVersion: 2
-        x: 589
-        y: 466
-        width: 26
-        height: 12
+        x: 160
+        y: 368
+        width: 176
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,10 +881,10 @@ TextureImporter:
       name: UI books & more_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 450
-        width: 31
-        height: 12
+        x: 352
+        y: 384
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -903,10 +903,10 @@ TextureImporter:
       name: UI books & more_3
       rect:
         serializedVersion: 2
-        x: 159
-        y: 367
-        width: 178
-        height: 98
+        x: 464
+        y: 401
+        width: 96
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -925,10 +925,10 @@ TextureImporter:
       name: UI books & more_4
       rect:
         serializedVersion: 2
-        x: 351
-        y: 383
-        width: 98
-        height: 82
+        x: 561
+        y: 401
+        width: 46
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,9 +947,9 @@ TextureImporter:
       name: UI books & more_5
       rect:
         serializedVersion: 2
-        x: 463
+        x: 608
         y: 400
-        width: 98
+        width: 96
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -969,10 +969,10 @@ TextureImporter:
       name: UI books & more_6
       rect:
         serializedVersion: 2
-        x: 560
-        y: 400
-        width: 48
-        height: 64
+        x: 721
+        y: 417
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -991,10 +991,10 @@ TextureImporter:
       name: UI books & more_7
       rect:
         serializedVersion: 2
-        x: 607
-        y: 399
-        width: 98
-        height: 66
+        x: 769
+        y: 417
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1013,10 +1013,10 @@ TextureImporter:
       name: UI books & more_8
       rect:
         serializedVersion: 2
-        x: 720
-        y: 416
-        width: 48
-        height: 48
+        x: 464
+        y: 337
+        width: 96
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,10 +1035,10 @@ TextureImporter:
       name: UI books & more_9
       rect:
         serializedVersion: 2
-        x: 768
-        y: 416
-        width: 48
-        height: 48
+        x: 561
+        y: 337
+        width: 46
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1057,10 +1057,10 @@ TextureImporter:
       name: UI books & more_10
       rect:
         serializedVersion: 2
-        x: 15
-        y: 399
-        width: 130
-        height: 50
+        x: 611
+        y: 339
+        width: 42
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: UI books & more_11
       rect:
         serializedVersion: 2
-        x: 463
-        y: 336
-        width: 98
-        height: 64
+        x: 656
+        y: 337
+        width: 48
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1101,10 +1101,10 @@ TextureImporter:
       name: UI books & more_12
       rect:
         serializedVersion: 2
-        x: 560
-        y: 336
-        width: 48
-        height: 64
+        x: 721
+        y: 369
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1123,10 +1123,10 @@ TextureImporter:
       name: UI books & more_13
       rect:
         serializedVersion: 2
-        x: 655
-        y: 336
-        width: 50
-        height: 64
+        x: 768
+        y: 368
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1145,10 +1145,10 @@ TextureImporter:
       name: UI books & more_14
       rect:
         serializedVersion: 2
-        x: 720
-        y: 368
-        width: 48
-        height: 48
+        x: 16
+        y: 256
+        width: 128
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1167,10 +1167,10 @@ TextureImporter:
       name: UI books & more_15
       rect:
         serializedVersion: 2
-        x: 767
-        y: 367
-        width: 50
-        height: 50
+        x: 160
+        y: 256
+        width: 176
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,10 +1189,10 @@ TextureImporter:
       name: UI books & more_16
       rect:
         serializedVersion: 2
-        x: 37
-        y: 354
-        width: 56
-        height: 12
+        x: 357
+        y: 338
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1212,9 +1212,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 367
-        y: 354
-        width: 34
-        height: 12
+        y: 343
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1233,10 +1233,10 @@ TextureImporter:
       name: UI books & more_18
       rect:
         serializedVersion: 2
-        x: 610
-        y: 338
-        width: 44
-        height: 60
+        x: 388
+        y: 322
+        width: 22
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1255,10 +1255,10 @@ TextureImporter:
       name: UI books & more_19
       rect:
         serializedVersion: 2
-        x: 15
-        y: 255
-        width: 130
-        height: 98
+        x: 408
+        y: 344
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1277,10 +1277,10 @@ TextureImporter:
       name: UI books & more_20
       rect:
         serializedVersion: 2
-        x: 159
-        y: 255
-        width: 178
-        height: 98
+        x: 417
+        y: 342
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1299,10 +1299,10 @@ TextureImporter:
       name: UI books & more_21
       rect:
         serializedVersion: 2
-        x: 356
-        y: 337
-        width: 10
-        height: 12
+        x: 435
+        y: 341
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,10 +1321,10 @@ TextureImporter:
       name: UI books & more_22
       rect:
         serializedVersion: 2
-        x: 366
-        y: 342
-        width: 11
-        height: 9
+        x: 353
+        y: 321
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1343,10 +1343,10 @@ TextureImporter:
       name: UI books & more_23
       rect:
         serializedVersion: 2
-        x: 387
-        y: 321
-        width: 24
-        height: 29
+        x: 369
+        y: 322
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1365,10 +1365,10 @@ TextureImporter:
       name: UI books & more_24
       rect:
         serializedVersion: 2
-        x: 407
-        y: 343
-        width: 7
-        height: 7
+        x: 386
+        y: 326
+        width: 5
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1387,10 +1387,10 @@ TextureImporter:
       name: UI books & more_25
       rect:
         serializedVersion: 2
-        x: 416
-        y: 341
-        width: 10
-        height: 10
+        x: 417
+        y: 323
+        width: 12
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1409,10 +1409,10 @@ TextureImporter:
       name: UI books & more_26
       rect:
         serializedVersion: 2
-        x: 416
+        x: 432
         y: 322
-        width: 14
-        height: 22
+        width: 11
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1431,10 +1431,10 @@ TextureImporter:
       name: UI books & more_27
       rect:
         serializedVersion: 2
-        x: 434
-        y: 340
-        width: 9
-        height: 11
+        x: 353
+        y: 307
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1453,10 +1453,10 @@ TextureImporter:
       name: UI books & more_28
       rect:
         serializedVersion: 2
-        x: 352
-        y: 320
-        width: 14
-        height: 13
+        x: 370
+        y: 308
+        width: 11
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1475,10 +1475,10 @@ TextureImporter:
       name: UI books & more_29
       rect:
         serializedVersion: 2
-        x: 368
-        y: 321
-        width: 15
-        height: 15
+        x: 378
+        y: 314
+        width: 5
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,10 +1497,10 @@ TextureImporter:
       name: UI books & more_30
       rect:
         serializedVersion: 2
-        x: 385
-        y: 325
+        x: 386
+        y: 311
         width: 7
-        height: 10
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1519,10 +1519,10 @@ TextureImporter:
       name: UI books & more_31
       rect:
         serializedVersion: 2
-        x: 431
-        y: 321
-        width: 13
-        height: 15
+        x: 388
+        y: 306
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,10 +1541,10 @@ TextureImporter:
       name: UI books & more_32
       rect:
         serializedVersion: 2
-        x: 352
-        y: 306
-        width: 13
-        height: 14
+        x: 402
+        y: 313
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1563,9 +1563,9 @@ TextureImporter:
       name: UI books & more_33
       rect:
         serializedVersion: 2
-        x: 369
+        x: 408
         y: 307
-        width: 13
+        width: 4
         height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1585,10 +1585,10 @@ TextureImporter:
       name: UI books & more_34
       rect:
         serializedVersion: 2
-        x: 377
-        y: 313
-        width: 7
-        height: 6
+        x: 417
+        y: 306
+        width: 29
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1607,10 +1607,10 @@ TextureImporter:
       name: UI books & more_35
       rect:
         serializedVersion: 2
-        x: 385
-        y: 310
-        width: 9
-        height: 7
+        x: 465
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1629,10 +1629,10 @@ TextureImporter:
       name: UI books & more_36
       rect:
         serializedVersion: 2
-        x: 387
-        y: 305
-        width: 17
-        height: 10
+        x: 481
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1651,10 +1651,10 @@ TextureImporter:
       name: UI books & more_37
       rect:
         serializedVersion: 2
-        x: 401
-        y: 312
-        width: 7
-        height: 7
+        x: 497
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1673,10 +1673,10 @@ TextureImporter:
       name: UI books & more_38
       rect:
         serializedVersion: 2
-        x: 407
-        y: 306
-        width: 6
-        height: 13
+        x: 513
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1695,10 +1695,10 @@ TextureImporter:
       name: UI books & more_39
       rect:
         serializedVersion: 2
-        x: 416
-        y: 305
-        width: 31
-        height: 15
+        x: 529
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1717,10 +1717,10 @@ TextureImporter:
       name: UI books & more_40
       rect:
         serializedVersion: 2
-        x: 568
-        y: 306
-        width: 31
-        height: 12
+        x: 545
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1739,10 +1739,10 @@ TextureImporter:
       name: UI books & more_41
       rect:
         serializedVersion: 2
-        x: 354
-        y: 288
-        width: 47
-        height: 15
+        x: 563
+        y: 291
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1761,10 +1761,10 @@ TextureImporter:
       name: UI books & more_42
       rect:
         serializedVersion: 2
-        x: 400
-        y: 288
-        width: 43
-        height: 15
+        x: 577
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1783,10 +1783,10 @@ TextureImporter:
       name: UI books & more_43
       rect:
         serializedVersion: 2
-        x: 464
-        y: 288
-        width: 16
-        height: 16
+        x: 593
+        y: 290
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1805,10 +1805,10 @@ TextureImporter:
       name: UI books & more_44
       rect:
         serializedVersion: 2
-        x: 480
-        y: 288
-        width: 16
-        height: 16
+        x: 611
+        y: 291
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1827,10 +1827,10 @@ TextureImporter:
       name: UI books & more_45
       rect:
         serializedVersion: 2
-        x: 496
-        y: 288
-        width: 16
-        height: 16
+        x: 625
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1849,10 +1849,10 @@ TextureImporter:
       name: UI books & more_46
       rect:
         serializedVersion: 2
-        x: 512
-        y: 288
-        width: 16
-        height: 16
+        x: 641
+        y: 290
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1871,10 +1871,10 @@ TextureImporter:
       name: UI books & more_47
       rect:
         serializedVersion: 2
-        x: 528
-        y: 288
-        width: 16
-        height: 16
+        x: 659
+        y: 291
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1893,10 +1893,10 @@ TextureImporter:
       name: UI books & more_48
       rect:
         serializedVersion: 2
-        x: 544
-        y: 288
-        width: 16
-        height: 16
+        x: 673
+        y: 289
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1915,10 +1915,10 @@ TextureImporter:
       name: UI books & more_49
       rect:
         serializedVersion: 2
-        x: 562
+        x: 689
         y: 290
-        width: 12
-        height: 12
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1937,10 +1937,10 @@ TextureImporter:
       name: UI books & more_50
       rect:
         serializedVersion: 2
-        x: 576
-        y: 288
-        width: 16
-        height: 16
+        x: 707
+        y: 291
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,10 +1959,10 @@ TextureImporter:
       name: UI books & more_51
       rect:
         serializedVersion: 2
-        x: 592
-        y: 289
-        width: 16
-        height: 12
+        x: 723
+        y: 291
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1981,10 +1981,10 @@ TextureImporter:
       name: UI books & more_52
       rect:
         serializedVersion: 2
-        x: 610
-        y: 290
-        width: 12
-        height: 12
+        x: 739
+        y: 291
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2003,10 +2003,10 @@ TextureImporter:
       name: UI books & more_53
       rect:
         serializedVersion: 2
-        x: 624
-        y: 288
-        width: 16
-        height: 16
+        x: 768
+        y: 291
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2025,10 +2025,10 @@ TextureImporter:
       name: UI books & more_54
       rect:
         serializedVersion: 2
-        x: 640
-        y: 289
-        width: 16
-        height: 12
+        x: 785
+        y: 291
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2047,10 +2047,10 @@ TextureImporter:
       name: UI books & more_55
       rect:
         serializedVersion: 2
-        x: 658
-        y: 290
-        width: 12
-        height: 12
+        x: 371
+        y: 274
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2069,10 +2069,10 @@ TextureImporter:
       name: UI books & more_56
       rect:
         serializedVersion: 2
-        x: 672
-        y: 288
-        width: 16
-        height: 16
+        x: 387
+        y: 274
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2091,10 +2091,10 @@ TextureImporter:
       name: UI books & more_57
       rect:
         serializedVersion: 2
-        x: 688
-        y: 289
-        width: 16
-        height: 12
+        x: 403
+        y: 274
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2113,10 +2113,10 @@ TextureImporter:
       name: UI books & more_58
       rect:
         serializedVersion: 2
-        x: 706
-        y: 290
-        width: 12
-        height: 12
+        x: 419
+        y: 274
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2135,10 +2135,10 @@ TextureImporter:
       name: UI books & more_59
       rect:
         serializedVersion: 2
-        x: 722
-        y: 290
-        width: 12
-        height: 12
+        x: 464
+        y: 256
+        width: 96
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2157,8 +2157,8 @@ TextureImporter:
       name: UI books & more_60
       rect:
         serializedVersion: 2
-        x: 738
-        y: 290
+        x: 562
+        y: 274
         width: 12
         height: 12
       alignment: 0
@@ -2179,10 +2179,10 @@ TextureImporter:
       name: UI books & more_61
       rect:
         serializedVersion: 2
-        x: 767
-        y: 290
-        width: 17
-        height: 12
+        x: 576
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2201,9 +2201,9 @@ TextureImporter:
       name: UI books & more_62
       rect:
         serializedVersion: 2
-        x: 784
-        y: 290
-        width: 17
+        x: 610
+        y: 274
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2223,10 +2223,10 @@ TextureImporter:
       name: UI books & more_63
       rect:
         serializedVersion: 2
-        x: 370
-        y: 273
-        width: 12
-        height: 15
+        x: 624
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2245,10 +2245,10 @@ TextureImporter:
       name: UI books & more_64
       rect:
         serializedVersion: 2
-        x: 386
-        y: 273
+        x: 658
+        y: 274
         width: 12
-        height: 15
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2267,10 +2267,10 @@ TextureImporter:
       name: UI books & more_65
       rect:
         serializedVersion: 2
-        x: 402
-        y: 273
-        width: 12
-        height: 15
+        x: 672
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2289,10 +2289,10 @@ TextureImporter:
       name: UI books & more_66
       rect:
         serializedVersion: 2
-        x: 418
-        y: 273
+        x: 706
+        y: 274
         width: 12
-        height: 15
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2311,10 +2311,10 @@ TextureImporter:
       name: UI books & more_67
       rect:
         serializedVersion: 2
-        x: 463
-        y: 255
-        width: 98
-        height: 34
+        x: 722
+        y: 274
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2333,10 +2333,10 @@ TextureImporter:
       name: UI books & more_68
       rect:
         serializedVersion: 2
-        x: 561
-        y: 273
-        width: 14
-        height: 14
+        x: 738
+        y: 274
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2355,10 +2355,10 @@ TextureImporter:
       name: UI books & more_69
       rect:
         serializedVersion: 2
-        x: 575
-        y: 255
-        width: 34
-        height: 34
+        x: 768
+        y: 275
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2377,10 +2377,10 @@ TextureImporter:
       name: UI books & more_70
       rect:
         serializedVersion: 2
-        x: 609
-        y: 273
-        width: 14
-        height: 14
+        x: 785
+        y: 275
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2399,10 +2399,10 @@ TextureImporter:
       name: UI books & more_71
       rect:
         serializedVersion: 2
-        x: 623
-        y: 255
-        width: 34
-        height: 34
+        x: 368
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2421,8 +2421,8 @@ TextureImporter:
       name: UI books & more_72
       rect:
         serializedVersion: 2
-        x: 657
-        y: 273
+        x: 401
+        y: 257
         width: 14
         height: 14
       alignment: 0
@@ -2443,10 +2443,10 @@ TextureImporter:
       name: UI books & more_73
       rect:
         serializedVersion: 2
-        x: 671
-        y: 255
-        width: 34
-        height: 34
+        x: 416
+        y: 240
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2465,10 +2465,10 @@ TextureImporter:
       name: UI books & more_74
       rect:
         serializedVersion: 2
-        x: 705
-        y: 273
-        width: 14
-        height: 14
+        x: 562
+        y: 258
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2487,10 +2487,10 @@ TextureImporter:
       name: UI books & more_75
       rect:
         serializedVersion: 2
-        x: 721
-        y: 273
-        width: 14
-        height: 14
+        x: 610
+        y: 258
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2509,10 +2509,10 @@ TextureImporter:
       name: UI books & more_76
       rect:
         serializedVersion: 2
-        x: 737
-        y: 273
-        width: 14
-        height: 14
+        x: 658
+        y: 258
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2531,9 +2531,9 @@ TextureImporter:
       name: UI books & more_77
       rect:
         serializedVersion: 2
-        x: 767
-        y: 274
-        width: 17
+        x: 706
+        y: 258
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2553,9 +2553,9 @@ TextureImporter:
       name: UI books & more_78
       rect:
         serializedVersion: 2
-        x: 784
-        y: 274
-        width: 17
+        x: 722
+        y: 258
+        width: 12
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2575,10 +2575,10 @@ TextureImporter:
       name: UI books & more_79
       rect:
         serializedVersion: 2
-        x: 367
-        y: 239
-        width: 34
-        height: 34
+        x: 738
+        y: 258
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2597,10 +2597,10 @@ TextureImporter:
       name: UI books & more_80
       rect:
         serializedVersion: 2
-        x: 400
-        y: 256
-        width: 16
-        height: 16
+        x: 770
+        y: 259
+        width: 12
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2619,10 +2619,10 @@ TextureImporter:
       name: UI books & more_81
       rect:
         serializedVersion: 2
-        x: 415
-        y: 239
-        width: 18
-        height: 34
+        x: 786
+        y: 258
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2641,8 +2641,8 @@ TextureImporter:
       name: UI books & more_82
       rect:
         serializedVersion: 2
-        x: 561
-        y: 257
+        x: 401
+        y: 241
         width: 14
         height: 14
       alignment: 0
@@ -2663,8 +2663,8 @@ TextureImporter:
       name: UI books & more_83
       rect:
         serializedVersion: 2
-        x: 609
-        y: 257
+        x: 465
+        y: 241
         width: 14
         height: 14
       alignment: 0
@@ -2685,8 +2685,8 @@ TextureImporter:
       name: UI books & more_84
       rect:
         serializedVersion: 2
-        x: 657
-        y: 257
+        x: 481
+        y: 241
         width: 14
         height: 14
       alignment: 0
@@ -2707,8 +2707,8 @@ TextureImporter:
       name: UI books & more_85
       rect:
         serializedVersion: 2
-        x: 705
-        y: 257
+        x: 497
+        y: 241
         width: 14
         height: 14
       alignment: 0
@@ -2729,8 +2729,8 @@ TextureImporter:
       name: UI books & more_86
       rect:
         serializedVersion: 2
-        x: 721
-        y: 257
+        x: 513
+        y: 241
         width: 14
         height: 14
       alignment: 0
@@ -2751,8 +2751,8 @@ TextureImporter:
       name: UI books & more_87
       rect:
         serializedVersion: 2
-        x: 737
-        y: 257
+        x: 529
+        y: 241
         width: 14
         height: 14
       alignment: 0
@@ -2773,10 +2773,10 @@ TextureImporter:
       name: UI books & more_88
       rect:
         serializedVersion: 2
-        x: 769
-        y: 258
+        x: 545
+        y: 241
         width: 14
-        height: 12
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2795,10 +2795,10 @@ TextureImporter:
       name: UI books & more_89
       rect:
         serializedVersion: 2
-        x: 785
-        y: 257
+        x: 561
+        y: 242
         width: 14
-        height: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2817,10 +2817,10 @@ TextureImporter:
       name: UI books & more_90
       rect:
         serializedVersion: 2
-        x: 400
-        y: 240
-        width: 16
-        height: 16
+        x: 577
+        y: 241
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2839,10 +2839,10 @@ TextureImporter:
       name: UI books & more_91
       rect:
         serializedVersion: 2
-        x: 463
-        y: 207
-        width: 130
-        height: 34
+        x: 594
+        y: 241
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2861,10 +2861,10 @@ TextureImporter:
       name: UI books & more_92
       rect:
         serializedVersion: 2
-        x: 464
-        y: 240
-        width: 16
-        height: 16
+        x: 612
+        y: 243
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2883,10 +2883,10 @@ TextureImporter:
       name: UI books & more_93
       rect:
         serializedVersion: 2
-        x: 480
-        y: 240
-        width: 16
-        height: 16
+        x: 628
+        y: 244
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2905,10 +2905,10 @@ TextureImporter:
       name: UI books & more_94
       rect:
         serializedVersion: 2
-        x: 496
-        y: 240
-        width: 16
-        height: 16
+        x: 644
+        y: 242
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2927,10 +2927,10 @@ TextureImporter:
       name: UI books & more_95
       rect:
         serializedVersion: 2
-        x: 512
-        y: 240
-        width: 16
-        height: 16
+        x: 658
+        y: 241
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2949,10 +2949,10 @@ TextureImporter:
       name: UI books & more_96
       rect:
         serializedVersion: 2
-        x: 528
-        y: 240
-        width: 16
-        height: 16
+        x: 676
+        y: 241
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2971,10 +2971,10 @@ TextureImporter:
       name: UI books & more_97
       rect:
         serializedVersion: 2
-        x: 544
-        y: 240
-        width: 16
-        height: 16
+        x: 691
+        y: 242
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2993,10 +2993,10 @@ TextureImporter:
       name: UI books & more_98
       rect:
         serializedVersion: 2
-        x: 560
-        y: 241
-        width: 16
-        height: 14
+        x: 770
+        y: 243
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3015,10 +3015,10 @@ TextureImporter:
       name: UI books & more_99
       rect:
         serializedVersion: 2
-        x: 576
-        y: 240
-        width: 16
-        height: 16
+        x: 786
+        y: 242
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3037,10 +3037,10 @@ TextureImporter:
       name: UI books & more_100
       rect:
         serializedVersion: 2
-        x: 592
-        y: 207
-        width: 16
-        height: 34
+        x: 501
+        y: 305
+        width: 128
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3060,9 +3060,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 593
-        y: 240
+        y: 208
         width: 14
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3081,10 +3081,10 @@ TextureImporter:
       name: UI books & more_102
       rect:
         serializedVersion: 2
-        x: 610
-        y: 225
-        width: 12
-        height: 15
+        x: 611
+        y: 226
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3103,10 +3103,10 @@ TextureImporter:
       name: UI books & more_103
       rect:
         serializedVersion: 2
-        x: 611
-        y: 242
+        x: 627
+        y: 227
         width: 10
-        height: 13
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3125,10 +3125,10 @@ TextureImporter:
       name: UI books & more_104
       rect:
         serializedVersion: 2
-        x: 627
-        y: 243
+        x: 643
+        y: 225
         width: 10
-        height: 11
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3147,9 +3147,9 @@ TextureImporter:
       name: UI books & more_105
       rect:
         serializedVersion: 2
-        x: 642
+        x: 657
         y: 224
-        width: 12
+        width: 14
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3169,10 +3169,10 @@ TextureImporter:
       name: UI books & more_106
       rect:
         serializedVersion: 2
-        x: 643
-        y: 241
+        x: 675
+        y: 208
         width: 10
-        height: 14
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3191,10 +3191,10 @@ TextureImporter:
       name: UI books & more_107
       rect:
         serializedVersion: 2
-        x: 656
-        y: 223
-        width: 16
-        height: 18
+        x: 690
+        y: 225
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3213,10 +3213,10 @@ TextureImporter:
       name: UI books & more_108
       rect:
         serializedVersion: 2
-        x: 657
-        y: 240
-        width: 14
-        height: 16
+        x: 16
+        y: 128
+        width: 128
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3235,10 +3235,10 @@ TextureImporter:
       name: UI books & more_109
       rect:
         serializedVersion: 2
-        x: 674
-        y: 207
-        width: 12
-        height: 34
+        x: 160
+        y: 128
+        width: 256
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3257,10 +3257,10 @@ TextureImporter:
       name: UI books & more_110
       rect:
         serializedVersion: 2
-        x: 675
-        y: 240
+        x: 611
+        y: 210
         width: 10
-        height: 16
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3279,10 +3279,10 @@ TextureImporter:
       name: UI books & more_111
       rect:
         serializedVersion: 2
-        x: 689
-        y: 224
-        width: 14
-        height: 16
+        x: 627
+        y: 211
+        width: 10
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3301,9 +3301,9 @@ TextureImporter:
       name: UI books & more_112
       rect:
         serializedVersion: 2
-        x: 690
-        y: 241
-        width: 12
+        x: 643
+        y: 209
+        width: 10
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3323,10 +3323,10 @@ TextureImporter:
       name: UI books & more_113
       rect:
         serializedVersion: 2
-        x: 769
-        y: 242
+        x: 657
+        y: 208
         width: 14
-        height: 13
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3345,9 +3345,9 @@ TextureImporter:
       name: UI books & more_114
       rect:
         serializedVersion: 2
-        x: 785
-        y: 241
-        width: 14
+        x: 690
+        y: 209
+        width: 12
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3367,10 +3367,10 @@ TextureImporter:
       name: UI books & more_115
       rect:
         serializedVersion: 2
-        x: 8
-        y: 226
-        width: 94
-        height: 12
+        x: 497
+        y: 178
+        width: 42
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3389,10 +3389,10 @@ TextureImporter:
       name: UI books & more_116
       rect:
         serializedVersion: 2
-        x: 101
-        y: 226
-        width: 24
-        height: 12
+        x: 542
+        y: 178
+        width: 17
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3411,10 +3411,10 @@ TextureImporter:
       name: UI books & more_117
       rect:
         serializedVersion: 2
-        x: 125
-        y: 226
-        width: 62
-        height: 12
+        x: 433
+        y: 161
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3433,10 +3433,10 @@ TextureImporter:
       name: UI books & more_118
       rect:
         serializedVersion: 2
-        x: 224
-        y: 226
-        width: 34
-        height: 12
+        x: 449
+        y: 164
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3455,10 +3455,10 @@ TextureImporter:
       name: UI books & more_119
       rect:
         serializedVersion: 2
-        x: 260
-        y: 226
-        width: 44
-        height: 12
+        x: 465
+        y: 161
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3477,10 +3477,10 @@ TextureImporter:
       name: UI books & more_120
       rect:
         serializedVersion: 2
-        x: 626
-        y: 226
-        width: 12
-        height: 13
+        x: 481
+        y: 162
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3499,10 +3499,10 @@ TextureImporter:
       name: UI books & more_121
       rect:
         serializedVersion: 2
-        x: 15
-        y: 127
-        width: 130
-        height: 98
+        x: 497
+        y: 162
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3521,10 +3521,10 @@ TextureImporter:
       name: UI books & more_122
       rect:
         serializedVersion: 2
-        x: 159
-        y: 127
-        width: 258
-        height: 98
+        x: 513
+        y: 161
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3543,10 +3543,10 @@ TextureImporter:
       name: UI books & more_123
       rect:
         serializedVersion: 2
-        x: 610
-        y: 209
-        width: 12
-        height: 15
+        x: 530
+        y: 161
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3565,10 +3565,10 @@ TextureImporter:
       name: UI books & more_124
       rect:
         serializedVersion: 2
-        x: 626
-        y: 210
-        width: 12
-        height: 13
+        x: 546
+        y: 161
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3587,10 +3587,10 @@ TextureImporter:
       name: UI books & more_125
       rect:
         serializedVersion: 2
-        x: 642
-        y: 208
-        width: 12
-        height: 16
+        x: 561
+        y: 161
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3609,10 +3609,10 @@ TextureImporter:
       name: UI books & more_126
       rect:
         serializedVersion: 2
-        x: 656
-        y: 207
-        width: 16
-        height: 18
+        x: 582
+        y: 161
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3631,10 +3631,10 @@ TextureImporter:
       name: UI books & more_127
       rect:
         serializedVersion: 2
-        x: 689
-        y: 208
-        width: 14
-        height: 16
+        x: 593
+        y: 161
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3653,10 +3653,10 @@ TextureImporter:
       name: UI books & more_128
       rect:
         serializedVersion: 2
-        x: 432
-        y: 160
-        width: 16
-        height: 17
+        x: 611
+        y: 161
+        width: 10
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3675,10 +3675,10 @@ TextureImporter:
       name: UI books & more_129
       rect:
         serializedVersion: 2
-        x: 464
-        y: 160
-        width: 16
-        height: 17
+        x: 644
+        y: 163
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3697,10 +3697,10 @@ TextureImporter:
       name: UI books & more_130
       rect:
         serializedVersion: 2
-        x: 496
-        y: 177
-        width: 44
-        height: 10
+        x: 436
+        y: 145
+        width: 8
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3719,10 +3719,10 @@ TextureImporter:
       name: UI books & more_131
       rect:
         serializedVersion: 2
-        x: 541
-        y: 177
-        width: 19
-        height: 12
+        x: 449
+        y: 145
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3741,10 +3741,10 @@ TextureImporter:
       name: UI books & more_132
       rect:
         serializedVersion: 2
-        x: 448
-        y: 163
-        width: 16
-        height: 11
+        x: 465
+        y: 145
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3763,10 +3763,10 @@ TextureImporter:
       name: UI books & more_133
       rect:
         serializedVersion: 2
-        x: 480
-        y: 161
-        width: 16
-        height: 14
+        x: 483
+        y: 145
+        width: 11
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3785,10 +3785,10 @@ TextureImporter:
       name: UI books & more_134
       rect:
         serializedVersion: 2
-        x: 496
-        y: 161
-        width: 16
-        height: 14
+        x: 499
+        y: 145
+        width: 11
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3807,10 +3807,10 @@ TextureImporter:
       name: UI books & more_135
       rect:
         serializedVersion: 2
-        x: 512
-        y: 160
-        width: 15
-        height: 16
+        x: 513
+        y: 145
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3829,10 +3829,10 @@ TextureImporter:
       name: UI books & more_136
       rect:
         serializedVersion: 2
-        x: 529
-        y: 160
-        width: 15
-        height: 16
+        x: 530
+        y: 145
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3851,10 +3851,10 @@ TextureImporter:
       name: UI books & more_137
       rect:
         serializedVersion: 2
-        x: 545
-        y: 160
-        width: 15
-        height: 16
+        x: 546
+        y: 145
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3873,10 +3873,10 @@ TextureImporter:
       name: UI books & more_138
       rect:
         serializedVersion: 2
-        x: 560
-        y: 160
-        width: 15
-        height: 16
+        x: 561
+        y: 145
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3895,10 +3895,10 @@ TextureImporter:
       name: UI books & more_139
       rect:
         serializedVersion: 2
-        x: 581
-        y: 160
-        width: 11
-        height: 16
+        x: 577
+        y: 145
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3917,10 +3917,10 @@ TextureImporter:
       name: UI books & more_140
       rect:
         serializedVersion: 2
-        x: 592
-        y: 160
-        width: 11
-        height: 16
+        x: 593
+        y: 145
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3939,10 +3939,10 @@ TextureImporter:
       name: UI books & more_141
       rect:
         serializedVersion: 2
-        x: 610
-        y: 160
-        width: 12
-        height: 16
+        x: 609
+        y: 146
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3961,10 +3961,10 @@ TextureImporter:
       name: UI books & more_142
       rect:
         serializedVersion: 2
-        x: 643
-        y: 162
-        width: 10
-        height: 11
+        x: 642
+        y: 153
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3983,10 +3983,10 @@ TextureImporter:
       name: UI books & more_143
       rect:
         serializedVersion: 2
-        x: 435
-        y: 144
-        width: 10
-        height: 17
+        x: 650
+        y: 153
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4005,10 +4005,10 @@ TextureImporter:
       name: UI books & more_144
       rect:
         serializedVersion: 2
-        x: 448
-        y: 144
-        width: 16
-        height: 17
+        x: 642
+        y: 145
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4027,10 +4027,10 @@ TextureImporter:
       name: UI books & more_145
       rect:
         serializedVersion: 2
-        x: 464
-        y: 144
-        width: 16
-        height: 17
+        x: 650
+        y: 145
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4049,10 +4049,10 @@ TextureImporter:
       name: UI books & more_146
       rect:
         serializedVersion: 2
-        x: 482
-        y: 144
-        width: 13
-        height: 17
+        x: 483
+        y: 130
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4072,9 +4072,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 498
-        y: 144
-        width: 13
-        height: 17
+        y: 130
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4093,10 +4093,10 @@ TextureImporter:
       name: UI books & more_148
       rect:
         serializedVersion: 2
-        x: 512
-        y: 144
-        width: 15
-        height: 16
+        x: 513
+        y: 129
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4115,10 +4115,10 @@ TextureImporter:
       name: UI books & more_149
       rect:
         serializedVersion: 2
-        x: 529
-        y: 144
-        width: 15
-        height: 16
+        x: 530
+        y: 129
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4138,9 +4138,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 545
-        y: 144
-        width: 15
-        height: 16
+        y: 129
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4159,10 +4159,10 @@ TextureImporter:
       name: UI books & more_151
       rect:
         serializedVersion: 2
-        x: 560
-        y: 144
-        width: 15
-        height: 16
+        x: 561
+        y: 129
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4181,10 +4181,10 @@ TextureImporter:
       name: UI books & more_152
       rect:
         serializedVersion: 2
-        x: 576
-        y: 144
-        width: 16
-        height: 16
+        x: 577
+        y: 129
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4203,10 +4203,10 @@ TextureImporter:
       name: UI books & more_153
       rect:
         serializedVersion: 2
-        x: 592
-        y: 144
-        width: 16
-        height: 16
+        x: 593
+        y: 129
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4225,10 +4225,10 @@ TextureImporter:
       name: UI books & more_154
       rect:
         serializedVersion: 2
-        x: 608
-        y: 145
-        width: 16
-        height: 13
+        x: 612
+        y: 129
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4247,10 +4247,10 @@ TextureImporter:
       name: UI books & more_155
       rect:
         serializedVersion: 2
-        x: 641
-        y: 152
-        width: 6
-        height: 7
+        x: 640
+        y: 139
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4269,10 +4269,10 @@ TextureImporter:
       name: UI books & more_156
       rect:
         serializedVersion: 2
-        x: 649
-        y: 152
-        width: 6
-        height: 7
+        x: 652
+        y: 139
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4291,10 +4291,10 @@ TextureImporter:
       name: UI books & more_157
       rect:
         serializedVersion: 2
-        x: 512
-        y: 128
-        width: 15
-        height: 16
+        x: 437
+        y: 113
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4313,10 +4313,10 @@ TextureImporter:
       name: UI books & more_158
       rect:
         serializedVersion: 2
-        x: 529
-        y: 128
-        width: 15
-        height: 16
+        x: 530
+        y: 113
+        width: 9
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4335,10 +4335,10 @@ TextureImporter:
       name: UI books & more_159
       rect:
         serializedVersion: 2
-        x: 544
-        y: 128
-        width: 16
-        height: 17
+        x: 545
+        y: 113
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4357,10 +4357,10 @@ TextureImporter:
       name: UI books & more_160
       rect:
         serializedVersion: 2
-        x: 560
-        y: 128
-        width: 16
-        height: 17
+        x: 561
+        y: 113
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4379,10 +4379,10 @@ TextureImporter:
       name: UI books & more_161
       rect:
         serializedVersion: 2
-        x: 576
+        x: 640
         y: 128
-        width: 16
-        height: 16
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4401,10 +4401,10 @@ TextureImporter:
       name: UI books & more_162
       rect:
         serializedVersion: 2
-        x: 592
+        x: 652
         y: 128
-        width: 16
-        height: 16
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4423,10 +4423,10 @@ TextureImporter:
       name: UI books & more_163
       rect:
         serializedVersion: 2
-        x: 611
-        y: 128
-        width: 10
-        height: 16
+        x: 453
+        y: 113
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4445,10 +4445,10 @@ TextureImporter:
       name: UI books & more_164
       rect:
         serializedVersion: 2
-        x: 639
-        y: 138
-        width: 6
-        height: 7
+        x: 466
+        y: 113
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4467,10 +4467,10 @@ TextureImporter:
       name: UI books & more_165
       rect:
         serializedVersion: 2
-        x: 641
-        y: 144
-        width: 6
-        height: 7
+        x: 482
+        y: 113
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4489,10 +4489,10 @@ TextureImporter:
       name: UI books & more_166
       rect:
         serializedVersion: 2
-        x: 649
-        y: 144
-        width: 6
-        height: 7
+        x: 498
+        y: 113
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4511,10 +4511,10 @@ TextureImporter:
       name: UI books & more_167
       rect:
         serializedVersion: 2
-        x: 651
-        y: 138
-        width: 6
-        height: 7
+        x: 515
+        y: 113
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4533,10 +4533,10 @@ TextureImporter:
       name: UI books & more_168
       rect:
         serializedVersion: 2
-        x: 436
-        y: 112
-        width: 11
-        height: 17
+        x: 16
+        y: 16
+        width: 128
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4555,10 +4555,10 @@ TextureImporter:
       name: UI books & more_169
       rect:
         serializedVersion: 2
-        x: 482
-        y: 129
-        width: 13
-        height: 14
+        x: 160
+        y: 16
+        width: 256
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4578,9 +4578,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 497
-        y: 129
-        width: 13
-        height: 14
+        y: 99
+        width: 42
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4599,10 +4599,10 @@ TextureImporter:
       name: UI books & more_171
       rect:
         serializedVersion: 2
-        x: 529
-        y: 112
-        width: 11
-        height: 17
+        x: 542
+        y: 99
+        width: 17
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4621,10 +4621,10 @@ TextureImporter:
       name: UI books & more_172
       rect:
         serializedVersion: 2
-        x: 544
-        y: 112
-        width: 16
-        height: 17
+        x: 433
+        y: 81
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4643,10 +4643,10 @@ TextureImporter:
       name: UI books & more_173
       rect:
         serializedVersion: 2
-        x: 560
-        y: 112
-        width: 16
-        height: 17
+        x: 449
+        y: 84
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4665,10 +4665,10 @@ TextureImporter:
       name: UI books & more_174
       rect:
         serializedVersion: 2
-        x: 639
-        y: 127
-        width: 6
-        height: 7
+        x: 465
+        y: 81
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4687,10 +4687,10 @@ TextureImporter:
       name: UI books & more_175
       rect:
         serializedVersion: 2
-        x: 651
-        y: 127
-        width: 6
-        height: 7
+        x: 481
+        y: 82
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4709,10 +4709,10 @@ TextureImporter:
       name: UI books & more_176
       rect:
         serializedVersion: 2
-        x: 15
-        y: 15
-        width: 130
-        height: 98
+        x: 497
+        y: 82
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4731,10 +4731,10 @@ TextureImporter:
       name: UI books & more_177
       rect:
         serializedVersion: 2
-        x: 159
-        y: 15
-        width: 258
-        height: 98
+        x: 513
+        y: 81
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4753,10 +4753,10 @@ TextureImporter:
       name: UI books & more_178
       rect:
         serializedVersion: 2
-        x: 452
-        y: 112
-        width: 10
-        height: 15
+        x: 530
+        y: 81
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4775,10 +4775,10 @@ TextureImporter:
       name: UI books & more_179
       rect:
         serializedVersion: 2
-        x: 465
-        y: 112
-        width: 14
-        height: 15
+        x: 546
+        y: 81
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4797,10 +4797,10 @@ TextureImporter:
       name: UI books & more_180
       rect:
         serializedVersion: 2
-        x: 481
-        y: 112
-        width: 14
-        height: 15
+        x: 561
+        y: 81
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4819,10 +4819,10 @@ TextureImporter:
       name: UI books & more_181
       rect:
         serializedVersion: 2
-        x: 497
-        y: 112
-        width: 14
-        height: 15
+        x: 582
+        y: 81
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4841,10 +4841,10 @@ TextureImporter:
       name: UI books & more_182
       rect:
         serializedVersion: 2
-        x: 514
-        y: 112
-        width: 10
-        height: 15
+        x: 593
+        y: 81
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4863,10 +4863,10 @@ TextureImporter:
       name: UI books & more_183
       rect:
         serializedVersion: 2
-        x: 496
-        y: 98
-        width: 44
-        height: 10
+        x: 611
+        y: 81
+        width: 10
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4885,10 +4885,10 @@ TextureImporter:
       name: UI books & more_184
       rect:
         serializedVersion: 2
-        x: 541
-        y: 98
-        width: 19
-        height: 12
+        x: 644
+        y: 84
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4907,10 +4907,10 @@ TextureImporter:
       name: UI books & more_185
       rect:
         serializedVersion: 2
-        x: 432
-        y: 80
-        width: 16
-        height: 16
+        x: 436
+        y: 65
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4929,10 +4929,10 @@ TextureImporter:
       name: UI books & more_186
       rect:
         serializedVersion: 2
-        x: 448
-        y: 83
-        width: 16
-        height: 10
+        x: 449
+        y: 65
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4951,10 +4951,10 @@ TextureImporter:
       name: UI books & more_187
       rect:
         serializedVersion: 2
-        x: 464
-        y: 80
-        width: 16
-        height: 16
+        x: 465
+        y: 65
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4973,10 +4973,10 @@ TextureImporter:
       name: UI books & more_188
       rect:
         serializedVersion: 2
-        x: 480
-        y: 81
-        width: 16
-        height: 13
+        x: 483
+        y: 65
+        width: 11
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4995,10 +4995,10 @@ TextureImporter:
       name: UI books & more_189
       rect:
         serializedVersion: 2
-        x: 496
-        y: 81
-        width: 16
-        height: 13
+        x: 499
+        y: 65
+        width: 11
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5017,10 +5017,10 @@ TextureImporter:
       name: UI books & more_190
       rect:
         serializedVersion: 2
-        x: 512
-        y: 80
-        width: 15
-        height: 15
+        x: 513
+        y: 65
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5039,10 +5039,10 @@ TextureImporter:
       name: UI books & more_191
       rect:
         serializedVersion: 2
-        x: 529
-        y: 80
-        width: 15
-        height: 15
+        x: 530
+        y: 65
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5061,10 +5061,10 @@ TextureImporter:
       name: UI books & more_192
       rect:
         serializedVersion: 2
-        x: 545
-        y: 80
-        width: 15
-        height: 15
+        x: 546
+        y: 65
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5083,10 +5083,10 @@ TextureImporter:
       name: UI books & more_193
       rect:
         serializedVersion: 2
-        x: 560
-        y: 80
-        width: 15
-        height: 15
+        x: 561
+        y: 65
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5105,10 +5105,10 @@ TextureImporter:
       name: UI books & more_194
       rect:
         serializedVersion: 2
-        x: 581
-        y: 80
-        width: 11
-        height: 15
+        x: 577
+        y: 65
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5127,10 +5127,10 @@ TextureImporter:
       name: UI books & more_195
       rect:
         serializedVersion: 2
-        x: 592
-        y: 80
-        width: 11
-        height: 15
+        x: 593
+        y: 65
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5149,10 +5149,10 @@ TextureImporter:
       name: UI books & more_196
       rect:
         serializedVersion: 2
-        x: 610
-        y: 80
-        width: 12
-        height: 16
+        x: 609
+        y: 67
+        width: 14
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5171,10 +5171,10 @@ TextureImporter:
       name: UI books & more_197
       rect:
         serializedVersion: 2
-        x: 643
-        y: 83
-        width: 10
-        height: 10
+        x: 642
+        y: 74
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5193,10 +5193,10 @@ TextureImporter:
       name: UI books & more_198
       rect:
         serializedVersion: 2
-        x: 435
-        y: 64
-        width: 10
-        height: 16
+        x: 650
+        y: 74
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5215,10 +5215,10 @@ TextureImporter:
       name: UI books & more_199
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 16
-        height: 16
+        x: 642
+        y: 66
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5237,10 +5237,10 @@ TextureImporter:
       name: UI books & more_200
       rect:
         serializedVersion: 2
-        x: 464
-        y: 64
-        width: 16
-        height: 16
+        x: 650
+        y: 66
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5259,10 +5259,10 @@ TextureImporter:
       name: UI books & more_201
       rect:
         serializedVersion: 2
-        x: 482
-        y: 64
-        width: 13
-        height: 16
+        x: 483
+        y: 50
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5282,9 +5282,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 498
-        y: 64
-        width: 13
-        height: 16
+        y: 50
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5303,10 +5303,10 @@ TextureImporter:
       name: UI books & more_203
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 15
-        height: 15
+        x: 513
+        y: 49
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5325,10 +5325,10 @@ TextureImporter:
       name: UI books & more_204
       rect:
         serializedVersion: 2
-        x: 529
-        y: 64
-        width: 15
-        height: 15
+        x: 530
+        y: 49
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5348,9 +5348,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 545
-        y: 64
-        width: 15
-        height: 15
+        y: 49
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5369,10 +5369,10 @@ TextureImporter:
       name: UI books & more_206
       rect:
         serializedVersion: 2
-        x: 560
-        y: 64
-        width: 15
-        height: 15
+        x: 561
+        y: 49
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5391,10 +5391,10 @@ TextureImporter:
       name: UI books & more_207
       rect:
         serializedVersion: 2
-        x: 576
-        y: 64
-        width: 16
-        height: 15
+        x: 577
+        y: 49
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5413,10 +5413,10 @@ TextureImporter:
       name: UI books & more_208
       rect:
         serializedVersion: 2
-        x: 592
-        y: 64
-        width: 16
-        height: 15
+        x: 593
+        y: 49
+        width: 9
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5435,10 +5435,10 @@ TextureImporter:
       name: UI books & more_209
       rect:
         serializedVersion: 2
-        x: 608
-        y: 66
-        width: 16
-        height: 12
+        x: 602
+        y: 53
+        width: 5
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5457,10 +5457,10 @@ TextureImporter:
       name: UI books & more_210
       rect:
         serializedVersion: 2
-        x: 641
-        y: 73
-        width: 6
-        height: 6
+        x: 612
+        y: 49
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5479,10 +5479,10 @@ TextureImporter:
       name: UI books & more_211
       rect:
         serializedVersion: 2
-        x: 649
-        y: 73
-        width: 6
-        height: 6
+        x: 640
+        y: 60
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5501,10 +5501,10 @@ TextureImporter:
       name: UI books & more_212
       rect:
         serializedVersion: 2
-        x: 639
-        y: 59
-        width: 6
-        height: 6
+        x: 652
+        y: 60
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5523,10 +5523,10 @@ TextureImporter:
       name: UI books & more_213
       rect:
         serializedVersion: 2
-        x: 641
-        y: 65
-        width: 6
-        height: 6
+        x: 640
+        y: 48
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5545,10 +5545,10 @@ TextureImporter:
       name: UI books & more_214
       rect:
         serializedVersion: 2
-        x: 649
-        y: 65
-        width: 6
-        height: 6
+        x: 652
+        y: 48
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5567,10 +5567,10 @@ TextureImporter:
       name: UI books & more_215
       rect:
         serializedVersion: 2
-        x: 651
-        y: 59
-        width: 6
-        height: 6
+        x: 437
+        y: 33
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5589,10 +5589,10 @@ TextureImporter:
       name: UI books & more_216
       rect:
         serializedVersion: 2
-        x: 482
-        y: 49
-        width: 13
-        height: 13
+        x: 453
+        y: 34
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5611,10 +5611,10 @@ TextureImporter:
       name: UI books & more_217
       rect:
         serializedVersion: 2
-        x: 497
-        y: 49
-        width: 13
-        height: 13
+        x: 466
+        y: 34
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5633,10 +5633,10 @@ TextureImporter:
       name: UI books & more_218
       rect:
         serializedVersion: 2
-        x: 512
-        y: 48
-        width: 15
-        height: 15
+        x: 482
+        y: 34
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5655,10 +5655,10 @@ TextureImporter:
       name: UI books & more_219
       rect:
         serializedVersion: 2
-        x: 529
-        y: 48
-        width: 15
-        height: 15
+        x: 498
+        y: 34
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5677,10 +5677,10 @@ TextureImporter:
       name: UI books & more_220
       rect:
         serializedVersion: 2
-        x: 544
-        y: 48
-        width: 16
-        height: 16
+        x: 515
+        y: 34
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5699,10 +5699,10 @@ TextureImporter:
       name: UI books & more_221
       rect:
         serializedVersion: 2
-        x: 560
-        y: 48
-        width: 16
-        height: 16
+        x: 530
+        y: 33
+        width: 9
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5721,10 +5721,10 @@ TextureImporter:
       name: UI books & more_222
       rect:
         serializedVersion: 2
-        x: 576
-        y: 48
-        width: 16
-        height: 15
+        x: 545
+        y: 33
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5743,10 +5743,10 @@ TextureImporter:
       name: UI books & more_223
       rect:
         serializedVersion: 2
-        x: 592
-        y: 48
-        width: 11
-        height: 15
+        x: 561
+        y: 33
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5761,297 +5761,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: UI books & more_224
-      rect:
-        serializedVersion: 2
-        x: 601
-        y: 52
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56aa33c06992c5660800000000000000
-      internalID: 7375816014152575589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_225
-      rect:
-        serializedVersion: 2
-        x: 611
-        y: 48
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91dbd7542b0b1a4f0800000000000000
-      internalID: -819179377488184039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_226
-      rect:
-        serializedVersion: 2
-        x: 639
-        y: 47
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b22b121d96290cd20800000000000000
-      internalID: 3296795910413070891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_227
-      rect:
-        serializedVersion: 2
-        x: 651
-        y: 47
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2675339d880f5b460800000000000000
-      internalID: 7256970845127661410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_228
-      rect:
-        serializedVersion: 2
-        x: 436
-        y: 32
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f8af1746de2d9ec0800000000000000
-      internalID: -3558636632701687568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_229
-      rect:
-        serializedVersion: 2
-        x: 452
-        y: 33
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd0fbf1fbf569ef00800000000000000
-      internalID: 1146559712913518812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_230
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 33
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94396ec0727e73cb0800000000000000
-      internalID: -4884181115953835191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_231
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 33
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: accca9d43c445fcb0800000000000000
-      internalID: -4830879419673686838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_232
-      rect:
-        serializedVersion: 2
-        x: 497
-        y: 33
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e37c6e4192f33120800000000000000
-      internalID: 2392522532963775464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_233
-      rect:
-        serializedVersion: 2
-        x: 514
-        y: 33
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 733c429076f67bb30800000000000000
-      internalID: 4303030457301517111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_234
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 32
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ddd822ded148fb8a0800000000000000
-      internalID: -6287161290718540323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_235
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 078b23ccdbf37e340800000000000000
-      internalID: 4892949604568578160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI books & more_236
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a02851b6120dba00800000000000000
-      internalID: 773777007465472167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6be48bddec4d860468eb41d855b15a1b
     internalID: 0
     vertices: []
     indices: 
@@ -6201,20 +5915,7 @@ TextureImporter:
       UI books & more_221: 7189398623139211837
       UI books & more_222: -4898731416590593078
       UI books & more_223: -1090804398580981829
-      UI books & more_224: 7375816014152575589
-      UI books & more_225: -819179377488184039
-      UI books & more_226: 3296795910413070891
-      UI books & more_227: 7256970845127661410
-      UI books & more_228: -3558636632701687568
-      UI books & more_229: 1146559712913518812
       UI books & more_23: 2230185814778447186
-      UI books & more_230: -4884181115953835191
-      UI books & more_231: -4830879419673686838
-      UI books & more_232: 2392522532963775464
-      UI books & more_233: 4303030457301517111
-      UI books & more_234: -6287161290718540323
-      UI books & more_235: 4892949604568578160
-      UI books & more_236: 773777007465472167
       UI books & more_24: 3783645329634328529
       UI books & more_25: 8309000872551644823
       UI books & more_26: 526508308369210386

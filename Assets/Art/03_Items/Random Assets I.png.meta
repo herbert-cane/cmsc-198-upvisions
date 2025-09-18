@@ -226,7 +226,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -240,7 +240,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -264,7 +264,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1735,7 +1735,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Random Assets I_0: -3664559174733641056
+      Random Assets I_1: -5257005396186996078
+      Random Assets I_10: -5748839270902531042
+      Random Assets I_11: -703764669700659500
+      Random Assets I_12: 4535420106949230336
+      Random Assets I_13: -5314597050646674042
+      Random Assets I_14: -6205174514431065530
+      Random Assets I_15: -2549142049951217458
+      Random Assets I_16: 4121652128597010306
+      Random Assets I_17: -1722126012937932659
+      Random Assets I_18: 452229318680382889
+      Random Assets I_19: -7967215053833457683
+      Random Assets I_2: -2712855848604722644
+      Random Assets I_20: 8661084030598408850
+      Random Assets I_21: 4391137929065983409
+      Random Assets I_22: 2338689141304808440
+      Random Assets I_23: -5916651572233458199
+      Random Assets I_24: -6872378820909897939
+      Random Assets I_25: -2290426781946671090
+      Random Assets I_26: -1361743993863003217
+      Random Assets I_27: 1456445807889908614
+      Random Assets I_28: -1127745739948907229
+      Random Assets I_29: -9068955091648700648
+      Random Assets I_3: -8310876532398622131
+      Random Assets I_30: 7377047641338902482
+      Random Assets I_31: -153758884457212803
+      Random Assets I_32: 2709747506164454152
+      Random Assets I_33: -7207597661133600272
+      Random Assets I_34: -2857705216774048274
+      Random Assets I_35: -5025356028872066259
+      Random Assets I_36: -6796508858389605257
+      Random Assets I_37: 8688371698234603199
+      Random Assets I_38: 8805992381504153015
+      Random Assets I_39: -888390876753160777
+      Random Assets I_4: 2642361294704415486
+      Random Assets I_40: 7786839844779626500
+      Random Assets I_41: 3663524793956145690
+      Random Assets I_42: -3427880844111390308
+      Random Assets I_43: -4834427212367445198
+      Random Assets I_44: -3264176166306423578
+      Random Assets I_45: 2016060601458618407
+      Random Assets I_46: -7789217299939611089
+      Random Assets I_47: -8501658665854104082
+      Random Assets I_48: 604584647830120258
+      Random Assets I_49: -3253352340042627643
+      Random Assets I_5: -6909475389792765098
+      Random Assets I_50: -7975385223695746955
+      Random Assets I_51: -6776745706814830503
+      Random Assets I_52: 2394109592340779696
+      Random Assets I_53: 5750831999116917067
+      Random Assets I_54: -3684209105143358744
+      Random Assets I_55: 8910579697904421417
+      Random Assets I_56: 1115678838890939334
+      Random Assets I_57: 1902516093283220815
+      Random Assets I_58: -2458192976764707463
+      Random Assets I_59: 5557370740879096073
+      Random Assets I_6: -4533061733156000407
+      Random Assets I_60: -6701240132317588090
+      Random Assets I_61: -7649331177847818701
+      Random Assets I_62: -5988755783151310864
+      Random Assets I_63: 137515612566670829
+      Random Assets I_7: 2891035436531013215
+      Random Assets I_8: -7450724158218772873
+      Random Assets I_9: 27087170494370737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
