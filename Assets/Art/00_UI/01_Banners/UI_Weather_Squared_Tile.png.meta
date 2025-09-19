@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 83b644c99d5488341bcb39ba3fd635a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2964366884556019309
+    second: UI_Weather_Squared_Tile_0
+  - first:
+      213: -792915242257792722
+    second: UI_Weather_Squared_Tile_1
+  - first:
+      213: -329240006291251664
+    second: UI_Weather_Squared_Tile_2
+  - first:
+      213: -5670603687184482275
+    second: UI_Weather_Squared_Tile_3
+  - first:
+      213: -8066887094995513853
+    second: UI_Weather_Squared_Tile_4
+  - first:
+      213: -9091818499430902211
+    second: UI_Weather_Squared_Tile_5
+  - first:
+      213: 1696828090094356188
+    second: UI_Weather_Squared_Tile_6
+  - first:
+      213: -5542583983185536430
+    second: UI_Weather_Squared_Tile_7
+  - first:
+      213: -8822858899270777213
+    second: UI_Weather_Squared_Tile_8
+  - first:
+      213: -5297218858166784552
+    second: UI_Weather_Squared_Tile_9
+  - first:
+      213: -8859331925900335982
+    second: UI_Weather_Squared_Tile_10
+  - first:
+      213: 205301758918481153
+    second: UI_Weather_Squared_Tile_11
+  - first:
+      213: -3287188251928972267
+    second: UI_Weather_Squared_Tile_12
+  - first:
+      213: -926705511617510967
+    second: UI_Weather_Squared_Tile_13
+  - first:
+      213: 3874942792608453665
+    second: UI_Weather_Squared_Tile_14
+  - first:
+      213: 6708075058841195996
+    second: UI_Weather_Squared_Tile_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 277
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3996b1e36047cd6d0800000000000000
+      internalID: -2964366884556019309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e214b38c9cffef4f0800000000000000
+      internalID: -792915242257792722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 223
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e992b65fd4e6bf0800000000000000
+      internalID: -329240006291251664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 223
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10495b9df7fd41b0800000000000000
+      internalID: -5670603687184482275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0c936de8ac0090800000000000000
+      internalID: -8066887094995513853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 171
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36981bce3f53d180800000000000000
+      internalID: -9091818499430902211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 171
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd68af268285c8710800000000000000
+      internalID: 1696828090094356188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ad470bb39c413b0800000000000000
+      internalID: -5542583983185536430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386429d9398ee8580800000000000000
+      internalID: -8822858899270777213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde77da38f7c76b0800000000000000
+      internalID: -5297218858166784552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294ee695d845d0580800000000000000
+      internalID: -8859331925900335982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105591cacd069d200800000000000000
+      internalID: 205301758918481153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514bfed73bf8162d0800000000000000
+      internalID: -3287188251928972267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c144a04f3ea323f0800000000000000
+      internalID: -926705511617510967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124136680ff86c530800000000000000
+      internalID: 3874942792608453665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Weather_Squared_Tile_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd513e0a9bed71d50800000000000000
+      internalID: 6708075058841195996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Weather_Squared_Tile_0: -2964366884556019309
+      UI_Weather_Squared_Tile_1: -792915242257792722
+      UI_Weather_Squared_Tile_10: -8859331925900335982
+      UI_Weather_Squared_Tile_11: 205301758918481153
+      UI_Weather_Squared_Tile_12: -3287188251928972267
+      UI_Weather_Squared_Tile_13: -926705511617510967
+      UI_Weather_Squared_Tile_14: 3874942792608453665
+      UI_Weather_Squared_Tile_15: 6708075058841195996
+      UI_Weather_Squared_Tile_2: -329240006291251664
+      UI_Weather_Squared_Tile_3: -5670603687184482275
+      UI_Weather_Squared_Tile_4: -8066887094995513853
+      UI_Weather_Squared_Tile_5: -9091818499430902211
+      UI_Weather_Squared_Tile_6: 1696828090094356188
+      UI_Weather_Squared_Tile_7: -5542583983185536430
+      UI_Weather_Squared_Tile_8: -8822858899270777213
+      UI_Weather_Squared_Tile_9: -5297218858166784552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -169,7 +169,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -207,7 +207,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1260,7 +1260,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI inventory_0: -3809298899462160870
+      UI inventory_1: 7812276201894216902
+      UI inventory_10: -2763441783745926612
+      UI inventory_11: -3204623555036208247
+      UI inventory_12: -1715472033456891060
+      UI inventory_13: 5880493602523154775
+      UI inventory_14: -2000566836090834270
+      UI inventory_15: -7039369514949426334
+      UI inventory_16: 4331001884986372235
+      UI inventory_17: -1449072423642264732
+      UI inventory_18: 2390043171396423806
+      UI inventory_19: -2783577716412570305
+      UI inventory_2: 1847078919194625573
+      UI inventory_20: 7371853182497640265
+      UI inventory_21: 4515507522639024138
+      UI inventory_22: -6585875013429391688
+      UI inventory_23: 2302268957668177818
+      UI inventory_24: -6872737043218258434
+      UI inventory_25: 6568993582640927502
+      UI inventory_26: 7728189379349974048
+      UI inventory_27: 6399374986927887530
+      UI inventory_28: 4685755576376514202
+      UI inventory_29: 455000215080890151
+      UI inventory_3: 3947959970451890301
+      UI inventory_30: -4278326704090751242
+      UI inventory_31: 4747577919801562163
+      UI inventory_32: 8899383725357064156
+      UI inventory_33: 2339378890488766996
+      UI inventory_34: 2374101457873910707
+      UI inventory_35: 2171533805676067968
+      UI inventory_36: 8138350774851381951
+      UI inventory_37: -6728595391695954135
+      UI inventory_38: -6844109055253412969
+      UI inventory_39: 6912645100898959426
+      UI inventory_4: -2763257970710805373
+      UI inventory_40: -9208254902269279590
+      UI inventory_41: -1920141908232641534
+      UI inventory_42: -7976351716968417420
+      UI inventory_43: -2969549885698325185
+      UI inventory_44: -3589634414225756520
+      UI inventory_5: -7640251761758078022
+      UI inventory_6: -2434887375940236860
+      UI inventory_7: 450350493841016405
+      UI inventory_8: 3474507868644473914
+      UI inventory_9: 3239169923284138905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

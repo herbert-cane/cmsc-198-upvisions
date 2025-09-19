@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - NPC
   - 0
   - 1
   - 2
@@ -38,17 +39,26 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: UI
-    uniqueID: 731655681
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Shadow
-    uniqueID: 763839149
+  - name: Ground
+    uniqueID: 1109443163
+    locked: 0
+  - name: WalkInFront
+    uniqueID: 982637505
+    locked: 0
+  - name: Collision
+    uniqueID: 710723557
     locked: 0
   - name: Player
-    uniqueID: 2522801439
+    uniqueID: 2341272357
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 4233818749
+    locked: 0
+  - name: Decor
+    uniqueID: 4267347439
     locked: 0
   m_RenderingLayers:
   - Default

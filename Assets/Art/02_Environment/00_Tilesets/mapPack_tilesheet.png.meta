@@ -286,7 +286,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -300,7 +300,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -324,7 +324,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -2235,7 +2235,91 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mapPack_tilesheet_0: -7044917685448657711
+      mapPack_tilesheet_1: 8512824633209715007
+      mapPack_tilesheet_10: -8006055660580523413
+      mapPack_tilesheet_11: -2874588773698479618
+      mapPack_tilesheet_12: 8900709907085755334
+      mapPack_tilesheet_13: 2679273440043182721
+      mapPack_tilesheet_14: 49192934287988161
+      mapPack_tilesheet_15: 465069377555959483
+      mapPack_tilesheet_16: 4164053817109324011
+      mapPack_tilesheet_17: -7572752776614404324
+      mapPack_tilesheet_18: -4051494838662579468
+      mapPack_tilesheet_19: -9141330682628224966
+      mapPack_tilesheet_2: 467861764554073618
+      mapPack_tilesheet_20: -681468599836685108
+      mapPack_tilesheet_21: 524684639630387310
+      mapPack_tilesheet_22: 5123915007619161159
+      mapPack_tilesheet_23: 909336095751614239
+      mapPack_tilesheet_24: -3978999627455419254
+      mapPack_tilesheet_25: -5165602462151666454
+      mapPack_tilesheet_26: -3754293081890018315
+      mapPack_tilesheet_27: 2435772617193579762
+      mapPack_tilesheet_28: -2142471670087783329
+      mapPack_tilesheet_29: -4369322519011317946
+      mapPack_tilesheet_3: 2356874237578838987
+      mapPack_tilesheet_30: 6122902466233328001
+      mapPack_tilesheet_31: -8645069850514114811
+      mapPack_tilesheet_32: 2512461723186736132
+      mapPack_tilesheet_33: 3992742049983014741
+      mapPack_tilesheet_34: -2694732944006768077
+      mapPack_tilesheet_35: -5616024361141282891
+      mapPack_tilesheet_36: 2777935059669213298
+      mapPack_tilesheet_37: -3624250150313492820
+      mapPack_tilesheet_38: -8548979097262221004
+      mapPack_tilesheet_39: -7832704645509343457
+      mapPack_tilesheet_4: -8783330758507847203
+      mapPack_tilesheet_40: 5776819589286551170
+      mapPack_tilesheet_41: 372253045537223808
+      mapPack_tilesheet_42: 1005541815151736409
+      mapPack_tilesheet_43: -1210131037280451313
+      mapPack_tilesheet_44: 178487227146014339
+      mapPack_tilesheet_45: 8501070656054085080
+      mapPack_tilesheet_46: 4541003197135382415
+      mapPack_tilesheet_47: -7692411365274689559
+      mapPack_tilesheet_48: 1510370646520758778
+      mapPack_tilesheet_49: -3397421575538593234
+      mapPack_tilesheet_5: -7163738378771001093
+      mapPack_tilesheet_50: 4476752817962398738
+      mapPack_tilesheet_51: 6873223218956088347
+      mapPack_tilesheet_52: -6216113630314887305
+      mapPack_tilesheet_53: -5820679604055940148
+      mapPack_tilesheet_54: -3464262310782556215
+      mapPack_tilesheet_55: 8944212238290916630
+      mapPack_tilesheet_56: -8292582779300839796
+      mapPack_tilesheet_57: -2013094399781677840
+      mapPack_tilesheet_58: -4947026157624616404
+      mapPack_tilesheet_59: 3956293253380286403
+      mapPack_tilesheet_6: 1033340503603277743
+      mapPack_tilesheet_60: -7057353127369370619
+      mapPack_tilesheet_61: -3629459361330797787
+      mapPack_tilesheet_62: 6756807859986901067
+      mapPack_tilesheet_63: -731218305434755984
+      mapPack_tilesheet_64: -7371736114338630221
+      mapPack_tilesheet_65: 514898018490828000
+      mapPack_tilesheet_66: -8022905043391395431
+      mapPack_tilesheet_67: 1514449799375941093
+      mapPack_tilesheet_68: 6948931225430540841
+      mapPack_tilesheet_69: 6687076222384158894
+      mapPack_tilesheet_7: -5011655102105193288
+      mapPack_tilesheet_70: 1424341452717181560
+      mapPack_tilesheet_71: -8548571458816721046
+      mapPack_tilesheet_72: -6716046596745271772
+      mapPack_tilesheet_73: -2782313291887468390
+      mapPack_tilesheet_74: -8745237623240095393
+      mapPack_tilesheet_75: -1001407301798351332
+      mapPack_tilesheet_76: -6234928822689195787
+      mapPack_tilesheet_77: -7507044968195316695
+      mapPack_tilesheet_78: 7476316033284041335
+      mapPack_tilesheet_79: 3531886904441367069
+      mapPack_tilesheet_8: -2927249745009564812
+      mapPack_tilesheet_80: -1635812303248686125
+      mapPack_tilesheet_81: -9097287790467534870
+      mapPack_tilesheet_82: -5690707292968341994
+      mapPack_tilesheet_83: -4531005122712699221
+      mapPack_tilesheet_9: 8567652918735143526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
