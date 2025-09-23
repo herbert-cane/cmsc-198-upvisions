@@ -23,7 +23,9 @@ public class MenuController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Tab)) // Check if the Tab key is pressed
         {
+            if (!menuUI.activeSelf && PauseController.isGamePaused) return; // Prevent opening menu if game is paused
             ToggleMenu(); // Toggle the menu UI
+            PauseController.setPause(menuUI.activeSelf); // Update the pause state based on menu visibility 
         }
     }
 

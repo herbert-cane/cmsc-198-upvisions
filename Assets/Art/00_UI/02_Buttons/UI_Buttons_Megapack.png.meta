@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 22f856838d902b14386b1f2a8976baa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -601241371837467789
+    second: UI_Buttons_Megapack_0
+  - first:
+      213: 6535014249698175569
+    second: UI_Buttons_Megapack_1
+  - first:
+      213: 7444674342096030721
+    second: UI_Buttons_Megapack_2
+  - first:
+      213: 6261037444310531977
+    second: UI_Buttons_Megapack_3
+  - first:
+      213: -5285664980303564992
+    second: UI_Buttons_Megapack_4
+  - first:
+      213: 6078779001983148386
+    second: UI_Buttons_Megapack_5
+  - first:
+      213: 1490080895106881569
+    second: UI_Buttons_Megapack_6
+  - first:
+      213: 3849087654561070123
+    second: UI_Buttons_Megapack_7
+  - first:
+      213: 7262056885651024691
+    second: UI_Buttons_Megapack_8
+  - first:
+      213: 4339455794746829523
+    second: UI_Buttons_Megapack_9
+  - first:
+      213: 4684823372266197229
+    second: UI_Buttons_Megapack_10
+  - first:
+      213: 3942409775184901551
+    second: UI_Buttons_Megapack_11
+  - first:
+      213: 2402170916375057319
+    second: UI_Buttons_Megapack_12
+  - first:
+      213: -5740082371249303630
+    second: UI_Buttons_Megapack_13
+  - first:
+      213: 4771858605811725920
+    second: UI_Buttons_Megapack_14
+  - first:
+      213: 3838579431479980150
+    second: UI_Buttons_Megapack_15
+  - first:
+      213: 3609470827385753551
+    second: UI_Buttons_Megapack_16
+  - first:
+      213: 27982972679194443
+    second: UI_Buttons_Megapack_17
+  - first:
+      213: 1510035208016999287
+    second: UI_Buttons_Megapack_18
+  - first:
+      213: 4000754176676750509
+    second: UI_Buttons_Megapack_19
+  - first:
+      213: -3763809408129636157
+    second: UI_Buttons_Megapack_20
+  - first:
+      213: 2309591569419707806
+    second: UI_Buttons_Megapack_21
+  - first:
+      213: -5024873451457687549
+    second: UI_Buttons_Megapack_22
+  - first:
+      213: -6105483597799591125
+    second: UI_Buttons_Megapack_23
+  - first:
+      213: -1705172597773358181
+    second: UI_Buttons_Megapack_24
+  - first:
+      213: 1103425468543630006
+    second: UI_Buttons_Megapack_25
+  - first:
+      213: 5864547217123914115
+    second: UI_Buttons_Megapack_26
+  - first:
+      213: 8431639155230702933
+    second: UI_Buttons_Megapack_27
+  - first:
+      213: -6880821800792361625
+    second: UI_Buttons_Megapack_28
+  - first:
+      213: 4233836068082865609
+    second: UI_Buttons_Megapack_29
+  - first:
+      213: -9113994948774153065
+    second: UI_Buttons_Megapack_30
+  - first:
+      213: 6203152757017491782
+    second: UI_Buttons_Megapack_31
+  - first:
+      213: 2867620638273529832
+    second: UI_Buttons_Megapack_32
+  - first:
+      213: 5276866672398643601
+    second: UI_Buttons_Megapack_33
+  - first:
+      213: -3469824865881503536
+    second: UI_Buttons_Megapack_34
+  - first:
+      213: -4190102606355560886
+    second: UI_Buttons_Megapack_35
+  - first:
+      213: 1055825994570878069
+    second: UI_Buttons_Megapack_36
+  - first:
+      213: 8461084894312676715
+    second: UI_Buttons_Megapack_37
+  - first:
+      213: 971418793818085507
+    second: UI_Buttons_Megapack_38
+  - first:
+      213: -324841387211882807
+    second: UI_Buttons_Megapack_39
+  - first:
+      213: 397121971678228719
+    second: UI_Buttons_Megapack_40
+  - first:
+      213: -5816121489362027126
+    second: UI_Buttons_Megapack_41
+  - first:
+      213: 5382678007896418429
+    second: UI_Buttons_Megapack_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 198
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373fb576826f7a7f0800000000000000
+      internalID: -601241371837467789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a206b06d801ba50800000000000000
+      internalID: 6535014249698175569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c491ddedbc05760800000000000000
+      internalID: 7444674342096030721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 198
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7c89126ca3e650800000000000000
+      internalID: 6261037444310531977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 198
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa84f74bb85a6b0800000000000000
+      internalID: -5285664980303564992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 198
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2612f49ab492c5450800000000000000
+      internalID: 6078779001983148386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1281177eda4dda410800000000000000
+      internalID: 1490080895106881569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 198
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c347714d4ba6530800000000000000
+      internalID: 3849087654561070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 186
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba8efe24208c460800000000000000
+      internalID: 7262056885651024691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 187
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da256ccd08d83c30800000000000000
+      internalID: 4339455794746829523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 183
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0df5b2906d30140800000000000000
+      internalID: 4684823372266197229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57ce08dc046b630800000000000000
+      internalID: 3942409775184901551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a35f40a8b9365120800000000000000
+      internalID: 2402170916375057319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 165
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf0430ee712750b0800000000000000
+      internalID: -5740082371249303630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 166
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0667ccd9e1c093240800000000000000
+      internalID: 4771858605811725920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6703c7fb7af554530800000000000000
+      internalID: 3838579431479980150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 135
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf867df79a671230800000000000000
+      internalID: 3609470827385753551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 140
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b478d4a8d5a636000800000000000000
+      internalID: 27982972679194443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 58
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773bf2c6509b4f410800000000000000
+      internalID: 1510035208016999287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da46a7e0ab8858730800000000000000
+      internalID: 4000754176676750509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 58
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8e82ae84344cbc0800000000000000
+      internalID: -3763809408129636157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95af7fab415d0020800000000000000
+      internalID: 2309591569419707806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 56
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d2940830144ab0800000000000000
+      internalID: -5024873451457687549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b237e2b1407f44ba0800000000000000
+      internalID: -6105483597799591125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b2df48e820658e0800000000000000
+      internalID: -1705172597773358181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba79a01e97205f00800000000000000
+      internalID: 1103425468543630006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813d2d4f9e036150800000000000000
+      internalID: 5864547217123914115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dfcc19323330570800000000000000
+      internalID: 8431639155230702933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f10147096280a0800000000000000
+      internalID: -6880821800792361625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d05bd87b91ca30800000000000000
+      internalID: 4233836068082865609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794bc91d1e5948180800000000000000
+      internalID: -9113994948774153065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64933891196061650800000000000000
+      internalID: 6203152757017491782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e76fd6f6c5dbc720800000000000000
+      internalID: 2867620638273529832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913b6fc7423b3940800000000000000
+      internalID: 5276866672398643601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c05c1ba4b8dfc0800000000000000
+      internalID: -3469824865881503536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a460dbf21e3c9d5c0800000000000000
+      internalID: -4190102606355560886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 21
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c4507e52c07ae00800000000000000
+      internalID: 1055825994570878069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3ee3f1efcb6570800000000000000
+      internalID: 8461084894312676715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 19
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3885aa50f3c2b7d00800000000000000
+      internalID: 971418793818085507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cef3eaba7eed7bf0800000000000000
+      internalID: -324841387211882807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe03266445cd28500800000000000000
+      internalID: 397121971678228719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d7f00125cf84fa0800000000000000
+      internalID: -5816121489362027126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_Megapack_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7829f8212d13ba40800000000000000
+      internalID: 5382678007896418429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Buttons_Megapack_0: -601241371837467789
+      UI_Buttons_Megapack_1: 6535014249698175569
+      UI_Buttons_Megapack_10: 4684823372266197229
+      UI_Buttons_Megapack_11: 3942409775184901551
+      UI_Buttons_Megapack_12: 2402170916375057319
+      UI_Buttons_Megapack_13: -5740082371249303630
+      UI_Buttons_Megapack_14: 4771858605811725920
+      UI_Buttons_Megapack_15: 3838579431479980150
+      UI_Buttons_Megapack_16: 3609470827385753551
+      UI_Buttons_Megapack_17: 27982972679194443
+      UI_Buttons_Megapack_18: 1510035208016999287
+      UI_Buttons_Megapack_19: 4000754176676750509
+      UI_Buttons_Megapack_2: 7444674342096030721
+      UI_Buttons_Megapack_20: -3763809408129636157
+      UI_Buttons_Megapack_21: 2309591569419707806
+      UI_Buttons_Megapack_22: -5024873451457687549
+      UI_Buttons_Megapack_23: -6105483597799591125
+      UI_Buttons_Megapack_24: -1705172597773358181
+      UI_Buttons_Megapack_25: 1103425468543630006
+      UI_Buttons_Megapack_26: 5864547217123914115
+      UI_Buttons_Megapack_27: 8431639155230702933
+      UI_Buttons_Megapack_28: -6880821800792361625
+      UI_Buttons_Megapack_29: 4233836068082865609
+      UI_Buttons_Megapack_3: 6261037444310531977
+      UI_Buttons_Megapack_30: -9113994948774153065
+      UI_Buttons_Megapack_31: 6203152757017491782
+      UI_Buttons_Megapack_32: 2867620638273529832
+      UI_Buttons_Megapack_33: 5276866672398643601
+      UI_Buttons_Megapack_34: -3469824865881503536
+      UI_Buttons_Megapack_35: -4190102606355560886
+      UI_Buttons_Megapack_36: 1055825994570878069
+      UI_Buttons_Megapack_37: 8461084894312676715
+      UI_Buttons_Megapack_38: 971418793818085507
+      UI_Buttons_Megapack_39: -324841387211882807
+      UI_Buttons_Megapack_4: -5285664980303564992
+      UI_Buttons_Megapack_40: 397121971678228719
+      UI_Buttons_Megapack_41: -5816121489362027126
+      UI_Buttons_Megapack_42: 5382678007896418429
+      UI_Buttons_Megapack_5: 6078779001983148386
+      UI_Buttons_Megapack_6: 1490080895106881569
+      UI_Buttons_Megapack_7: 3849087654561070123
+      UI_Buttons_Megapack_8: 7262056885651024691
+      UI_Buttons_Megapack_9: 4339455794746829523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

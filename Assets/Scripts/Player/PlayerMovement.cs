@@ -21,13 +21,19 @@ public class PlayerController2D : MonoBehaviour
     public float dashDuration = 0.2f;
     private Vector2 input;
     private Vector2 lastMoveDirection = Vector2.down;
-
     private Animator anim;
     private SpriteRenderer sr;
-
     public bool isJumping = false;
     public bool isDashing = false;
     public bool isJumpDashing = false;
+    public bool isInteracting = false;
+
+    // Sound Effects
+    public AudioClip jumpSound;
+    public AudioClip dashSound;
+    public AudioClip walkSound;
+    public AudioClip jumpDashSound;
+    public AudioSource audioSource; // Reference to the AudioSource
     private Coroutine currentAction;
 
     // Reference to the PlayerStatsTracker script
@@ -43,11 +49,19 @@ public class PlayerController2D : MonoBehaviour
 
         // Get the PlayerStatsTracker component to track energy
         statsTracker = GetComponent<PlayerStatsTracker>();
+        audioSource = FindFirstObjectByType<AudioSource>();
     }
 
     void Update()
     {
-        ProcessInputs(); // ✅ Always read WASD
+        if (PauseController.isGamePaused || isInteracting)
+        {
+            rb.linearVelocity = Vector2.zero;
+            anim.SetFloat("MoveMagnitude", 0f);
+            return;
+        } // Skip all input if game is paused
+
+        ProcessInputs(); //  Always read WASD
 
         // JumpDash (Space + Shift)
         if (Input.GetKeyDown(KeyCode.Space) && Input.GetKey(KeyCode.LeftShift) && !isJumpDashing)
@@ -57,6 +71,7 @@ public class PlayerController2D : MonoBehaviour
             {
                 if (currentAction != null) StopCoroutine(currentAction);
                 currentAction = StartCoroutine(DoJumpDash());
+                PlaySFX(jumpDashSound);
             }
             else
             {
@@ -71,6 +86,7 @@ public class PlayerController2D : MonoBehaviour
             {
                 if (currentAction != null) StopCoroutine(currentAction);
                 currentAction = StartCoroutine(DoJump());
+                PlaySFX(jumpSound);
             }
             else
             {
@@ -87,6 +103,7 @@ public class PlayerController2D : MonoBehaviour
                 {
                     if (currentAction != null) StopCoroutine(currentAction);
                     currentAction = StartCoroutine(DoJumpDash());
+                    PlaySFX(jumpDashSound);
                 }
                 else
                 {
@@ -100,6 +117,7 @@ public class PlayerController2D : MonoBehaviour
                 {
                     if (currentAction != null) StopCoroutine(currentAction);
                     currentAction = StartCoroutine(DoDash());
+                    PlaySFX(dashSound);
                 }
                 else
                 {
@@ -113,9 +131,18 @@ public class PlayerController2D : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (PauseController.isGamePaused || isInteracting)
+        {
+            return;
+        } // Skip all movement if game is paused
         if (!isJumping && !isDashing && !isJumpDashing)
         {
             rb.linearVelocity = input * moveSpeed; // normal movement
+            if (input.sqrMagnitude > 0.01f && !audioSource.isPlaying) // Play walk sound when moving
+            {
+                PlaySFX(walkSound); // Play walking sound
+            }
+            audioSource.pitch = 1 + (input.magnitude * 0.5f); // Adjust pitch based on speed
         }
         else if (isJumping && !isJumpDashing)
         {
@@ -126,6 +153,12 @@ public class PlayerController2D : MonoBehaviour
 
     void ProcessInputs()
     {
+        if (PauseController.isGamePaused)
+        {
+            input = Vector2.zero;
+            return;
+        } // Skip all input if game is paused
+
         float moveX = Input.GetAxis("Horizontal");
         float moveY = Input.GetAxis("Vertical");
 
@@ -230,8 +263,8 @@ public class PlayerController2D : MonoBehaviour
         rb.linearVelocity = Vector2.zero;
         visual.localPosition = Vector3.zero;
         jumpShadow.localScale = Vector3.one;
-        var finalC = jumpShadowRenderer.color; 
-        finalC.a = 1f; 
+        var finalC = jumpShadowRenderer.color;
+        finalC.a = 1f;
         jumpShadowRenderer.color = finalC;
 
         // ✅ Reset all flags
@@ -256,5 +289,14 @@ public class PlayerController2D : MonoBehaviour
 
         anim.SetFloat("LastMoveX", lastMoveDirection.x);
         anim.SetFloat("LastMoveY", lastMoveDirection.y);
+    }
+    
+        // Method to play sound effects
+    void PlaySFX(AudioClip clip)
+    {
+        if (audioSource && clip)
+        {
+            audioSource.PlayOneShot(clip);
+        }
     }
 }
