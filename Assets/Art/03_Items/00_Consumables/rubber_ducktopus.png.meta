@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rubber_ducktopus_0: 4243177308984857290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

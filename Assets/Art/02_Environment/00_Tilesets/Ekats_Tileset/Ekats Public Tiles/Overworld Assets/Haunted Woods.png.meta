@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Haunted Woods_0: -4908768594216883623
+      Haunted Woods_1: 7325495373779904531
+      Haunted Woods_2: -5045412898996470094
+      Haunted Woods_3: -6006818647599614981
+      Haunted Woods_4: -5052936960202682782
+      Haunted Woods_5: -2928989185521669821
+      Haunted Woods_6: 2137211650147021809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

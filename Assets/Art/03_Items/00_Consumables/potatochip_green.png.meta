@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      potatochip_green_0: -4103076112595400683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

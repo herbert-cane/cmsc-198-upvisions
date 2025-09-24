@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      4 ocean back mountain_0: 2708793650832648767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

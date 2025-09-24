@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bathroom_cleaner_0: 1083822586872065390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

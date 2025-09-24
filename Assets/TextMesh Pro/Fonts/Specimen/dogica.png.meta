@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dogica_0: 7993835092931228229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

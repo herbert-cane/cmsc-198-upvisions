@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hot_cocoa_mix_0: 3361052858993100627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

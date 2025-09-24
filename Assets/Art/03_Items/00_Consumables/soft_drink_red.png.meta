@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soft_drink_red_0: -1021786942601955692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      overworld_tileset_grass_0: 7071876222525385644
+      overworld_tileset_grass_1: 6710157128828571947
+      overworld_tileset_grass_2: 3201338548061570042
+      overworld_tileset_grass_3: -4247494604676578814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

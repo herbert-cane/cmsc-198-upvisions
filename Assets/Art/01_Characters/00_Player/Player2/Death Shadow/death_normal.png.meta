@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_normal_0: -2571574930277118276
+      death_normal_1: 4663125310067496003
+      death_normal_10: -4911739412438092235
+      death_normal_11: 6566837028944456950
+      death_normal_12: -7759131672552722818
+      death_normal_13: -2526479192243053578
+      death_normal_14: 6967581454387727691
+      death_normal_15: -2746672437914596923
+      death_normal_16: -1269210129333754375
+      death_normal_17: 1519141520777339288
+      death_normal_18: 6402870975457057755
+      death_normal_19: 3585387114367526786
+      death_normal_2: 8553028940876905719
+      death_normal_20: -1407190560016235958
+      death_normal_21: 2818314077733476747
+      death_normal_22: 2740888728808522218
+      death_normal_23: -7061195212172340483
+      death_normal_24: 5739905614746807809
+      death_normal_25: -8862706637236665816
+      death_normal_26: 6810489836283456345
+      death_normal_27: 6666265180152878729
+      death_normal_28: -7859361480663794196
+      death_normal_29: -6630328945244803840
+      death_normal_3: 3336747899367958368
+      death_normal_30: 736926065478779309
+      death_normal_31: -1702860518153825291
+      death_normal_32: 8256174860225495278
+      death_normal_33: 7929756579467177883
+      death_normal_34: -1999069427060946292
+      death_normal_35: -443350828190331516
+      death_normal_36: 776466701921862762
+      death_normal_37: -5379591707380471267
+      death_normal_38: 5756304938498960520
+      death_normal_39: 8956093671289277226
+      death_normal_4: 4083793666567895289
+      death_normal_40: -2172293973138940192
+      death_normal_41: 6166413289314976117
+      death_normal_42: -701213129314272275
+      death_normal_43: -57637164264820343
+      death_normal_44: -3825292062058440747
+      death_normal_45: 3119617825422456106
+      death_normal_46: 555857998674316345
+      death_normal_47: 516171028876046769
+      death_normal_5: 4574167260683697232
+      death_normal_6: 7424326016117044285
+      death_normal_7: 6670525916656837925
+      death_normal_8: -5382923083864340531
+      death_normal_9: 8314590929576215738
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Future Verdanturf Town_0: 7149061588861555320
+      Future Verdanturf Town_1: 2914615082201978231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

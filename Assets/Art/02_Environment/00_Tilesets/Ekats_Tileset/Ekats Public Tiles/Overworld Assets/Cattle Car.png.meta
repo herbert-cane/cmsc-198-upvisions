@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cattle Car_0: 5401194457228201248
+      Cattle Car_1: -5280659630436410883
+      Cattle Car_2: 5070342519220948240
+      Cattle Car_3: 8002150920286895093
+      Cattle Car_4: -4632893385690182876
+      Cattle Car_5: -6251505371898726287
+      Cattle Car_6: -8134813597198748428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

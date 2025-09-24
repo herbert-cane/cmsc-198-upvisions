@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Flat_IconCheck01c_0: -2128271328733695902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

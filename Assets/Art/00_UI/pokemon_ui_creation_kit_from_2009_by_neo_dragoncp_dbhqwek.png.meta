@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pokemon_ui_creation_kit_from_2009_by_neo_dragoncp_dbhqwek_0: -1840651670102277044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

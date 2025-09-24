@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Haunted House_0: 7803645721182130402
+      Haunted House_1: 1307458450493724283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

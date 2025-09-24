@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick City_0: 8078024866757977473
+      Brick City_1: -6012422848844829430
+      Brick City_2: -1076139180476689389
+      Brick City_3: -101268196173159357
+      Brick City_4: -2912511134971964231
+      Brick City_5: 3669736869218142841
+      Brick City_6: 8490878028764425464
+      Brick City_7: 596076741671723759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating Cliffs_0: 6617255023823682893
+      Floating Cliffs_1: -9115927530362427669
+      Floating Cliffs_2: -3511026164171080955
+      Floating Cliffs_3: 3457950227538925307
+      Floating Cliffs_4: -5281317665075284510
+      Floating Cliffs_5: -270498703579957710
+      Floating Cliffs_6: -2396897566519772281
+      Floating Cliffs_7: -7504690102307586526
+      Floating Cliffs_8: -2135532385120438625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

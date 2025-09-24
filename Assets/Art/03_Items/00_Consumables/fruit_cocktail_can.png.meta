@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fruit_cocktail_can_0: 8989816755327674316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

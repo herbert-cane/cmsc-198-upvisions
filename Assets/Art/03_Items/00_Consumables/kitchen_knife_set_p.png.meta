@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kitchen_knife_set_p_0: -2715242935107811000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
