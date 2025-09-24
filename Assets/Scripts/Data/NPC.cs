@@ -11,9 +11,7 @@ public class NPC : MonoBehaviour, IInteractable
     public Image portraitImage; // UI image component for portrait  
     private int dialogueIndex; // Current index in the dialogue
     private bool isTyping, isDialogueActive; // Flags for typing effect and dialogue state
-
-    // public Quest quest;         // NPC's quest
-    // private bool hasAcceptedQuest = false; // Flag to track quest acceptance
+    private AudioSource audioSource; // AudioSource for playing sound effects
 
     // Method to check if the NPC can be interacted with
     public bool CanInteract()
@@ -21,6 +19,14 @@ public class NPC : MonoBehaviour, IInteractable
         return !isDialogueActive;
     }
 
+    void Awake()
+    {
+        GameObject sfxObject = GameObject.FindGameObjectWithTag("SFX");
+        if (sfxObject != null)
+        {
+            audioSource = sfxObject.GetComponent<AudioSource>();
+        }
+    }
     void Update()
     {
         // Only check for key press if dialogue is active and the game is paused
@@ -99,9 +105,17 @@ public class NPC : MonoBehaviour, IInteractable
     {
         isTyping = true;
         dialogueText.text = ""; // Clear the text at the start of typing
+
+        
         foreach (char letter in dialogue.dialogueLines[dialogueIndex])
         {
             dialogueText.text += letter;
+            if (audioSource != null && dialogue.voiceSound != null)
+            {
+                audioSource.pitch = dialogue.voicePitch;
+                audioSource.PlayOneShot(dialogue.voiceSound);
+            }
+
             yield return new WaitForSeconds(dialogue.typingSpeed);
         }
         isTyping = false;

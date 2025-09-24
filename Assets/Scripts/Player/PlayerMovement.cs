@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PlayerController2D : MonoBehaviour
 {
@@ -33,7 +34,8 @@ public class PlayerController2D : MonoBehaviour
     public AudioClip dashSound;
     public AudioClip walkSound;
     public AudioClip jumpDashSound;
-    public AudioSource audioSource; // Reference to the AudioSource
+    public AudioSource sfxSource; // Reference to the AudioSource
+    public AudioSource musicSource; // Reference to the Music AudioSource
     private Coroutine currentAction;
 
     // Reference to the PlayerStatsTracker script
@@ -49,7 +51,8 @@ public class PlayerController2D : MonoBehaviour
 
         // Get the PlayerStatsTracker component to track energy
         statsTracker = GetComponent<PlayerStatsTracker>();
-        audioSource = FindFirstObjectByType<AudioSource>();
+        sfxSource = GameObject.FindWithTag("SFX").GetComponent<AudioSource>();
+        musicSource = GameObject.FindWithTag("Music").GetComponent<AudioSource>();
     }
 
     void Update()
@@ -138,11 +141,11 @@ public class PlayerController2D : MonoBehaviour
         if (!isJumping && !isDashing && !isJumpDashing)
         {
             rb.linearVelocity = input * moveSpeed; // normal movement
-            if (input.sqrMagnitude > 0.01f && !audioSource.isPlaying) // Play walk sound when moving
+            if (input.sqrMagnitude > 0.01f && !sfxSource.isPlaying) // Play walk sound when moving
             {
                 PlaySFX(walkSound); // Play walking sound
             }
-            audioSource.pitch = 1 + (input.magnitude * 0.5f); // Adjust pitch based on speed
+            sfxSource.pitch = 1 + (input.magnitude * 0.5f); // Adjust pitch based on speed
         }
         else if (isJumping && !isJumpDashing)
         {
@@ -294,9 +297,9 @@ public class PlayerController2D : MonoBehaviour
         // Method to play sound effects
     void PlaySFX(AudioClip clip)
     {
-        if (audioSource && clip)
+        if (sfxSource && clip)
         {
-            audioSource.PlayOneShot(clip);
+            sfxSource.PlayOneShot(clip);
         }
     }
 }

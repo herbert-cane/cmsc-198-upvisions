@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "cmsc-198-upvisions.sln"
+    "dotnet.defaultSolution": "cmsc-198-upvisions.sln",
+    "git.ignoreLimitWarning": true
 }
