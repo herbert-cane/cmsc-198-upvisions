@@ -560,7 +560,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      textureBricks_0: 5833688686336684429
+      textureBricks_1: 2169361659212762667
+      textureBricks_10: -8046921371082034389
+      textureBricks_11: -8600602470640335500
+      textureBricks_12: -7476566619451513165
+      textureBricks_13: -230975515561351656
+      textureBricks_14: 1748455231346394262
+      textureBricks_15: -4611035480413431656
+      textureBricks_16: 2772188538772723632
+      textureBricks_2: 5648763746470223466
+      textureBricks_3: -9052635922561701728
+      textureBricks_4: -2440825717916448668
+      textureBricks_5: -7790004166031578423
+      textureBricks_6: 7674096764026023110
+      textureBricks_7: 156206088429263405
+      textureBricks_8: -7577094113696061709
+      textureBricks_9: 2078519434440003454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

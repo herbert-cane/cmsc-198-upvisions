@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cleaning_gloves_p_0: -6341583641051329248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

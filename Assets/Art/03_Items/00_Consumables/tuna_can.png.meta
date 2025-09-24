@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tuna_can_0: -8226805019780089580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      4-icebergreflex_0: -6102921214930300178
+      4-icebergreflex_1: -3275103035339453082
+      4-icebergreflex_2: -2790504211932228773
+      4-icebergreflex_3: -9172850385654287782
+      4-icebergreflex_4: 5048394013520881002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

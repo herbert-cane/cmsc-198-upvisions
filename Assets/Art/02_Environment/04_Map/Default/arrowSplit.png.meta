@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arrowSplit_0: 5415519187169737054
+      arrowSplit_1: 3091905890948768052
+      arrowSplit_2: 3886888911704504966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      toothpaste_box_0: -5746756152963530176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

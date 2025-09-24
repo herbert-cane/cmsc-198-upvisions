@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Flat_Banner03a_0: 4191020062159096160
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      white_cheese_piece_p_0: 7166686020961174116
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2-2-water reflex back_0: 60971883285743445
+      2-2-water reflex back_1: 4570807029246652602
+      2-2-water reflex back_10: 8623532100994512522
+      2-2-water reflex back_2: 5274037099546986572
+      2-2-water reflex back_3: -8287339586075089001
+      2-2-water reflex back_4: -2384828853513456474
+      2-2-water reflex back_5: -1973308718418045856
+      2-2-water reflex back_6: -3726605055515651164
+      2-2-water reflex back_7: -3670998113806753485
+      2-2-water reflex back_8: -8828760924525329373
+      2-2-water reflex back_9: 1252577589295378182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

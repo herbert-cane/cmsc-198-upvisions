@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Flat_ButtonArrow01a_0: 6899802188202083506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

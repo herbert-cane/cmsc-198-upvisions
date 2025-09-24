@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2 ocean sun light_0: 6476368555279529831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

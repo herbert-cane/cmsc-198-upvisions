@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      water_waves_16x16_0: -6537708284995984610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

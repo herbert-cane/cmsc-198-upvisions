@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grocery Tiles_0: 979433907643663133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dry_dog_food_0: -7468074111918136111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

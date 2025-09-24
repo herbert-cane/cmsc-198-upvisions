@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cleaning_brush_0: 5294559025197755861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

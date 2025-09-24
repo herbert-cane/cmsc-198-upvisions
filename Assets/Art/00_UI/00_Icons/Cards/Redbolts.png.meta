@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Redbolts_0: 4643546268576796692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

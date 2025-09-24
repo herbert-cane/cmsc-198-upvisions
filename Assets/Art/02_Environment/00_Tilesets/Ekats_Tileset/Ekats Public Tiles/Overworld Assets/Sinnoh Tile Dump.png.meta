@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sinnoh Tile Dump_0: -2332103209828744041
+      Sinnoh Tile Dump_1: -6906805365530587296
+      Sinnoh Tile Dump_2: 7352076250193521326
+      Sinnoh Tile Dump_3: -5960191767320346144
+      Sinnoh Tile Dump_4: 6420083757825950341
+      Sinnoh Tile Dump_5: -2455228508254912532
+      Sinnoh Tile Dump_6: 6775439645125803743
+      Sinnoh Tile Dump_7: 5883042227302333411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

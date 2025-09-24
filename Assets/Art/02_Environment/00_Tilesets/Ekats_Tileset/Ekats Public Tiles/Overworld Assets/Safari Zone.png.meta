@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Safari Zone_0: -2608061192778554
+      Safari Zone_1: 4301016924974206267
+      Safari Zone_2: 5230908538713306013
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

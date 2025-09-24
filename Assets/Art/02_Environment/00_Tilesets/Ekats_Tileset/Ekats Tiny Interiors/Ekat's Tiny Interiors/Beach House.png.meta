@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beach House_0: -6729042932487836060
+      Beach House_1: 6800865749381987469
+      Beach House_2: 935158027772074483
+      Beach House_3: 3036038546696420503
+      Beach House_4: -4748802679063601887
+      Beach House_5: -7639677764263719089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

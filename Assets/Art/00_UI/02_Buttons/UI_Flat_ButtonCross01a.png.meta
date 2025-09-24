@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Flat_ButtonCross01a_0: 6946377052981140189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

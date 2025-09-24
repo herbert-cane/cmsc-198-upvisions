@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sun_cream_tube_0: 6063257027739483136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

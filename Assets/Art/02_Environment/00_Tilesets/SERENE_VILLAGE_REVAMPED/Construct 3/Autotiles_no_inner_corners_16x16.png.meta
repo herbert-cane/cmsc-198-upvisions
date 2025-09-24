@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Autotiles_no_inner_corners_16x16_0: -3381774712059725824
+      Autotiles_no_inner_corners_16x16_1: 945536635295669795
+      Autotiles_no_inner_corners_16x16_2: -815657342431794610
+      Autotiles_no_inner_corners_16x16_3: 1562675667801573286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

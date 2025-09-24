@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Patio Objects_0: 2119736540988430499
+      Patio Objects_1: 7021855344786890989
+      Patio Objects_2: 3693233120824664737
+      Patio Objects_3: -6777478492352759561
+      Patio Objects_4: -2865297410043559239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

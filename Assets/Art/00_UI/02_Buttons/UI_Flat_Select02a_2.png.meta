@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Flat_Select02a_2_0: -5645653155853026443
+      UI_Flat_Select02a_2_1: -6376849733933859854
+      UI_Flat_Select02a_2_2: -7271203498226421044
+      UI_Flat_Select02a_2_3: -7754023258796944672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
