@@ -3,15 +3,24 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine.UI;
 using System.Collections;
+
 public class NPC : MonoBehaviour, IInteractable
 {
     public DialogueSO dialogue;   // NPC's dialogue
-    public GameObject dialoguePanel; // UI panel for dialogue
-    public TMP_Text dialogueText, nameText; // UI text components for dialogue and name
-    public Image portraitImage; // UI image component for portrait  
+    private DialogueController dialogueUI; // Reference to the DialogueController
     private int dialogueIndex; // Current index in the dialogue
     private bool isTyping, isDialogueActive; // Flags for typing effect and dialogue state
     private AudioSource audioSource; // AudioSource for playing sound effects
+
+    private ToggleVisibility toggleVisibility; // Reference to the ToggleVisibility script
+
+    private void Start()
+    {
+        dialogueUI = DialogueController.Instance;
+
+        // Initialize ToggleVisibility instance
+        toggleVisibility = ToggleVisibility.Instance;
+    }
 
     // Method to check if the NPC can be interacted with
     public bool CanInteract()
@@ -27,17 +36,19 @@ public class NPC : MonoBehaviour, IInteractable
             audioSource = sfxObject.GetComponent<AudioSource>();
         }
     }
+
     void Update()
     {
         // Only check for key press if dialogue is active and the game is paused
         if (isDialogueActive && !isTyping)
         {
-            if (Input.GetMouseButtonDown(0)) // Left mouse button to advance dialogue
+            if (Input.GetKey(KeyCode.F)) // F key to advance dialogue
             {
                 NextLine();
             }
         }
     }
+
     // Method to handle interaction with the NPC
     public void Interact()
     {
@@ -57,6 +68,7 @@ public class NPC : MonoBehaviour, IInteractable
             StartDialogue();
         }
     }
+
     // Method to start the dialogue with the player
     public void StartDialogue()
     {
@@ -64,14 +76,18 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueIndex = 0;
 
         // Safely set the NPC's name in the UI (TMP_Text). Use the dialogue name if available.
-        nameText.SetText(dialogue.npcName);
-        portraitImage.sprite = dialogue.npcPortrait;
+        dialogueUI.SetNPCInfo(dialogue.npcName, dialogue.npcPortrait);
 
-        dialoguePanel.SetActive(true); // Show the dialogue panel
+        dialogueUI.ShowDialoguePanel(true);
         PauseController.setPause(true); // Pause the game
 
-        StartCoroutine(TypeLine()); // Start typing the first line
+        // Toggle other objects (for example, hide the UI panels)
+        if (toggleVisibility != null)
+        {
+            toggleVisibility.ToggleObjects(); // Toggle visibility of objects
+        }
 
+        DisplayCurrentLine();
     }
 
     void NextLine()
@@ -80,12 +96,34 @@ public class NPC : MonoBehaviour, IInteractable
         {
             // If typing, stop the typing coroutine and show the full line immediately
             StopAllCoroutines();
-            dialogueText.text = dialogue.dialogueLines[dialogueIndex];
+            dialogueUI.SetDialogueText(dialogue.dialogueLines[dialogueIndex]);
             isTyping = false;
         }
-        else if (++dialogueIndex < dialogue.dialogueLines.Length)
+
+        // Clear previous choices
+        dialogueUI.ClearChoices();
+
+        // Check for dialogue choices at the current index
+        if (dialogue.endDialogueLines.Length > dialogueIndex && dialogue.endDialogueLines[dialogueIndex])
         {
-            StartCoroutine(TypeLine());
+            EndDialogue();
+            return;
+        }
+
+        // Check if choices and display them
+        foreach (DialogueChoice choice in dialogue.dialogueChoices)
+        {
+            if (choice.dialogueIndex == dialogueIndex)
+            {
+                // Display Choices
+                DisplayChoices(choice);
+                return; // Exit to wait for player choice
+            }
+        }
+
+        if (++dialogueIndex < dialogue.dialogueLines.Length)
+        {
+            DisplayCurrentLine();
         }
         else
         {
@@ -93,23 +131,52 @@ public class NPC : MonoBehaviour, IInteractable
         }
     }
 
+    void DisplayChoices(DialogueChoice choice)
+    {
+        for (int i = 0; i < choice.choices.Length; i++)
+        {
+            int nextIndex = choice.nextDialogueIndexes[i];
+            dialogueUI.CreateChoiceButton(choice.choices[i], () => ChooseOption(nextIndex));
+        }
+    }
+
+    void ChooseOption(int nextIndex)
+    {
+        dialogueIndex = nextIndex;
+        dialogueUI.ClearChoices();
+        DisplayCurrentLine();
+    }
+
+    void DisplayCurrentLine()
+    {
+        StopAllCoroutines();
+        StartCoroutine(TypeLine());
+    }
+
     public void EndDialogue()
     {
         StopAllCoroutines();
         isDialogueActive = false;
-        dialogueText.text = "";
-        dialoguePanel.SetActive(false); // Hide the dialogue panel
+        dialogueUI.SetDialogueText("");
+        dialogueUI.ShowDialoguePanel(false);
+
+        // Toggle visibility of the UI objects when the dialogue ends
+        if (toggleVisibility != null)
+        {
+            toggleVisibility.ToggleObjects(); // Toggle visibility of objects
+        }
+
         PauseController.setPause(false); // Unpause the game
     }
+
     IEnumerator TypeLine()
     {
         isTyping = true;
-        dialogueText.text = ""; // Clear the text at the start of typing
+        dialogueUI.SetDialogueText(""); // Clear the text at the start of typing
 
-        
         foreach (char letter in dialogue.dialogueLines[dialogueIndex])
         {
-            dialogueText.text += letter;
+            dialogueUI.SetDialogueText(dialogueUI.dialogueText.text + letter);
             if (audioSource != null && dialogue.voiceSound != null)
             {
                 audioSource.pitch = dialogue.voicePitch;
@@ -121,7 +188,7 @@ public class NPC : MonoBehaviour, IInteractable
         isTyping = false;
 
         // If auto-progress is enabled, move to the next line after the delay
-        if(dialogue.autoProgressLines.Length > dialogueIndex && dialogue.autoProgressLines[dialogueIndex])
+        if (dialogue.autoProgressLines.Length > dialogueIndex && dialogue.autoProgressLines[dialogueIndex])
         {
             yield return new WaitForSeconds(dialogue.autoProgressDelay);
             NextLine();

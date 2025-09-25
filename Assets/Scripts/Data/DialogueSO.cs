@@ -9,9 +9,20 @@ public class DialogueSO : ScriptableObject
     public Sprite npcPortrait;                  // NPC Portrait
     public string[] dialogueLines;              // Array of dialogue lines
     public bool[] autoProgressLines;            // Array indicating which lines auto-progress
-    public float  autoProgressDelay = 1.5f;     // Delay before auto-progressing
+    public bool[] endDialogueLines;            // Array indicating which lines end the dialogue
+    public float autoProgressDelay = 1.5f;     // Delay before auto-progressing
     public float typingSpeed = 0.05f;           // Speed of the typing effect
     public AudioClip voiceSound;                // Sound played during typing
     public float voicePitch = 1f;                // Pitch of the voice sound
 
+    public DialogueChoice[] dialogueChoices; // Array of dialogue choices
+
 }
+
+[System.Serializable]
+public class DialogueChoice
+{
+    public int dialogueIndex; // Index of the dialogue line
+    public string[] choices; // Array of choices for the player
+    public int[] nextDialogueIndexes; // Corresponding next dialogue indices for each choice
+} 

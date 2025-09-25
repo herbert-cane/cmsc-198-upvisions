@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 public class PlayerController2D : MonoBehaviour
 {
     [Header("Movement")]
-    public float moveSpeed = 5f;
+    public float moveSpeed = 2f;
     public Rigidbody2D rb;
 
     [Header("Visual Layers")]
@@ -20,10 +20,12 @@ public class PlayerController2D : MonoBehaviour
     [Header("Dash Settings")]
     public float dashSpeed = 5f;
     public float dashDuration = 0.2f;
+
     private Vector2 input;
     private Vector2 lastMoveDirection = Vector2.down;
     private Animator anim;
     private SpriteRenderer sr;
+
     public bool isJumping = false;
     public bool isDashing = false;
     public bool isJumpDashing = false;
@@ -36,6 +38,7 @@ public class PlayerController2D : MonoBehaviour
     public AudioClip jumpDashSound;
     public AudioSource sfxSource; // Reference to the AudioSource
     public AudioSource musicSource; // Reference to the Music AudioSource
+
     private Coroutine currentAction;
 
     // Reference to the PlayerStatsTracker script
@@ -64,12 +67,25 @@ public class PlayerController2D : MonoBehaviour
             return;
         } // Skip all input if game is paused
 
-        ProcessInputs(); //  Always read WASD
+        ProcessInputs(); // Always read WASD
+
+        // Run function: Holding "R" boosts movement speed
+        if (Input.GetKey(KeyCode.R))
+        {
+            moveSpeed = 4f; // 2x the normal speed (boosting to 4 when "R" is held)
+            anim.SetFloat("moveSpeed", 4f); // Adjust animation speed for running
+            sfxSource.pitch = 1.5f; // Adjust the walk sound pitch for faster movement
+        }
+        else
+        {
+            moveSpeed = 2f; // Reset back to normal speed
+            anim.SetFloat("moveSpeed", 1f); // Set animation speed to normal
+            sfxSource.pitch = 1f; // Reset pitch to normal speed
+        }
 
         // JumpDash (Space + Shift)
         if (Input.GetKeyDown(KeyCode.Space) && Input.GetKey(KeyCode.LeftShift) && !isJumpDashing)
         {
-            // Spend energy before starting coroutine
             if (statsTracker != null && statsTracker.TrySpend(statsTracker.drainOnJumpDash))
             {
                 if (currentAction != null) StopCoroutine(currentAction);
@@ -84,7 +100,6 @@ public class PlayerController2D : MonoBehaviour
         // Jump
         else if (Input.GetKeyDown(KeyCode.Space) && !isJumping && !isDashing && !isJumpDashing)
         {
-            // Spend energy before starting coroutine
             if (statsTracker != null && statsTracker.TrySpend(statsTracker.drainOnJump))
             {
                 if (currentAction != null) StopCoroutine(currentAction);
@@ -101,7 +116,6 @@ public class PlayerController2D : MonoBehaviour
         {
             if (isJumping && !isJumpDashing)
             {
-                // Spend energy before starting coroutine
                 if (statsTracker != null && statsTracker.TrySpend(statsTracker.drainOnJumpDash))
                 {
                     if (currentAction != null) StopCoroutine(currentAction);
@@ -115,7 +129,6 @@ public class PlayerController2D : MonoBehaviour
             }
             else if (!isDashing && !isJumpDashing)
             {
-                // Spend energy before starting coroutine
                 if (statsTracker != null && statsTracker.TrySpend(statsTracker.drainOnDash))
                 {
                     if (currentAction != null) StopCoroutine(currentAction);
@@ -138,6 +151,7 @@ public class PlayerController2D : MonoBehaviour
         {
             return;
         } // Skip all movement if game is paused
+
         if (!isJumping && !isDashing && !isJumpDashing)
         {
             rb.linearVelocity = input * moveSpeed; // normal movement
@@ -188,18 +202,10 @@ public class PlayerController2D : MonoBehaviour
             float jumpOffset = Mathf.Sin(t * Mathf.PI) * jumpHeight;
             visual.localPosition = new Vector3(0, jumpOffset, 0);
 
-            float squash = Mathf.Lerp(1f, 0.6f, Mathf.Sin(t * Mathf.PI));
-            float alpha = Mathf.Lerp(1f, 0.4f, Mathf.Sin(t * Mathf.PI));
-            jumpShadow.localScale = new Vector3(squash, squash, 1f);
-            var c = jumpShadowRenderer.color; c.a = alpha; jumpShadowRenderer.color = c;
-
             yield return null;
         }
 
         visual.localPosition = Vector3.zero;
-        jumpShadow.localScale = Vector3.one;
-        var finalC = jumpShadowRenderer.color; finalC.a = 1f; jumpShadowRenderer.color = finalC;
-
         anim.SetBool("IsJumping", false);
         isJumping = false;
     }
@@ -209,7 +215,6 @@ public class PlayerController2D : MonoBehaviour
         isDashing = true;
         anim.SetBool("IsDashing", true);
 
-        // Use current input if moving, otherwise last direction
         Vector2 dashDir = (input.sqrMagnitude > 0.01f) ? input.normalized : lastMoveDirection;
 
         float elapsed = 0f;
@@ -249,28 +254,17 @@ public class PlayerController2D : MonoBehaviour
             elapsed += Time.deltaTime;
             float t = elapsed / duration;
 
-            // Dash movement
             rb.linearVelocity = dashDir * dashSpeed;
 
-            // Jump vertical arc
             float jumpOffset = Mathf.Sin(t * Mathf.PI) * jumpHeight;
             visual.localPosition = new Vector3(0, jumpOffset, 0);
-
-            float squash = Mathf.Lerp(1f, 0.6f, Mathf.Sin(t * Mathf.PI));
-            float alpha = Mathf.Lerp(1f, 0.4f, Mathf.Sin(t * Mathf.PI));
-            jumpShadow.localScale = new Vector3(squash, squash, 1f);
-            var c = jumpShadowRenderer.color; c.a = alpha; jumpShadowRenderer.color = c;
 
             yield return null;
         }
         rb.linearVelocity = Vector2.zero;
         visual.localPosition = Vector3.zero;
-        jumpShadow.localScale = Vector3.one;
-        var finalC = jumpShadowRenderer.color;
-        finalC.a = 1f;
-        jumpShadowRenderer.color = finalC;
 
-        // ✅ Reset all flags
+        // Reset all flags
         isJumping = false;
         isDashing = false;
         isJumpDashing = false;
@@ -293,8 +287,8 @@ public class PlayerController2D : MonoBehaviour
         anim.SetFloat("LastMoveX", lastMoveDirection.x);
         anim.SetFloat("LastMoveY", lastMoveDirection.y);
     }
-    
-        // Method to play sound effects
+
+    // Method to play sound effects
     void PlaySFX(AudioClip clip)
     {
         if (sfxSource && clip)

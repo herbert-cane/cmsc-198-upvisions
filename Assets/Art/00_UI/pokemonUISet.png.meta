@@ -1,0 +1,5043 @@
+fileFormatVersion: 2
+guid: bb93c10f06c34074da3c2010109c0820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3169857983706004036
+    second: pokemonUISet_0
+  - first:
+      213: 1293629746047621778
+    second: pokemonUISet_1
+  - first:
+      213: 4815813672959793931
+    second: pokemonUISet_2
+  - first:
+      213: 1881473988380628242
+    second: pokemonUISet_3
+  - first:
+      213: -2854685085550465143
+    second: pokemonUISet_4
+  - first:
+      213: 881236109728556790
+    second: pokemonUISet_5
+  - first:
+      213: -325481631595116461
+    second: pokemonUISet_6
+  - first:
+      213: 6698230476621811553
+    second: pokemonUISet_7
+  - first:
+      213: -3471864300225160075
+    second: pokemonUISet_8
+  - first:
+      213: -5993775131185112
+    second: pokemonUISet_9
+  - first:
+      213: -2212807774655888312
+    second: pokemonUISet_10
+  - first:
+      213: 6529278919825723739
+    second: pokemonUISet_11
+  - first:
+      213: 8136673191079082086
+    second: pokemonUISet_12
+  - first:
+      213: -8372041992174038339
+    second: pokemonUISet_13
+  - first:
+      213: -6688211970464157906
+    second: pokemonUISet_14
+  - first:
+      213: -6814218096594953595
+    second: pokemonUISet_15
+  - first:
+      213: 656759948643107656
+    second: pokemonUISet_16
+  - first:
+      213: 3200689011956393557
+    second: pokemonUISet_17
+  - first:
+      213: -6841221238899010543
+    second: pokemonUISet_18
+  - first:
+      213: -2684298277008294692
+    second: pokemonUISet_19
+  - first:
+      213: -2952875010559858617
+    second: pokemonUISet_20
+  - first:
+      213: 3653028884330444634
+    second: pokemonUISet_21
+  - first:
+      213: 3751326301625339150
+    second: pokemonUISet_22
+  - first:
+      213: 7822057580760911018
+    second: pokemonUISet_23
+  - first:
+      213: -2495647086813610350
+    second: pokemonUISet_24
+  - first:
+      213: -9102319483265793307
+    second: pokemonUISet_25
+  - first:
+      213: 4345268438432492070
+    second: pokemonUISet_26
+  - first:
+      213: 2798817233079170093
+    second: pokemonUISet_27
+  - first:
+      213: -2674683886148087454
+    second: pokemonUISet_28
+  - first:
+      213: -7489407574025193483
+    second: pokemonUISet_29
+  - first:
+      213: 4158184950707921330
+    second: pokemonUISet_30
+  - first:
+      213: -1863501277797264598
+    second: pokemonUISet_31
+  - first:
+      213: -549242656330844474
+    second: pokemonUISet_32
+  - first:
+      213: 8675658842652151976
+    second: pokemonUISet_33
+  - first:
+      213: 8072739804146228603
+    second: pokemonUISet_34
+  - first:
+      213: 3640675346013762410
+    second: pokemonUISet_35
+  - first:
+      213: 7119380709918368304
+    second: pokemonUISet_36
+  - first:
+      213: 760840221287284842
+    second: pokemonUISet_37
+  - first:
+      213: -1504671387038235798
+    second: pokemonUISet_38
+  - first:
+      213: 1494250581661168018
+    second: pokemonUISet_39
+  - first:
+      213: 7933706255576428503
+    second: pokemonUISet_40
+  - first:
+      213: 4312835940690816967
+    second: pokemonUISet_41
+  - first:
+      213: -2362728724100560311
+    second: pokemonUISet_42
+  - first:
+      213: -128761907584188199
+    second: pokemonUISet_43
+  - first:
+      213: -1241737459771414739
+    second: pokemonUISet_44
+  - first:
+      213: 7864681068507883976
+    second: pokemonUISet_45
+  - first:
+      213: -2701803057519207205
+    second: pokemonUISet_46
+  - first:
+      213: 1860296759728851614
+    second: pokemonUISet_47
+  - first:
+      213: 9028196066058449601
+    second: pokemonUISet_48
+  - first:
+      213: -8038178089068247545
+    second: pokemonUISet_49
+  - first:
+      213: -2248375064361128821
+    second: pokemonUISet_50
+  - first:
+      213: 5444536969548051378
+    second: pokemonUISet_51
+  - first:
+      213: -5669145149921963435
+    second: pokemonUISet_52
+  - first:
+      213: 7620207274104277087
+    second: pokemonUISet_53
+  - first:
+      213: 4809049724522890929
+    second: pokemonUISet_54
+  - first:
+      213: 6035678932959945167
+    second: pokemonUISet_55
+  - first:
+      213: -4552496930533339244
+    second: pokemonUISet_56
+  - first:
+      213: -6338072111613537965
+    second: pokemonUISet_57
+  - first:
+      213: -8007372116095829524
+    second: pokemonUISet_58
+  - first:
+      213: -2830972482703849467
+    second: pokemonUISet_59
+  - first:
+      213: -6988419274106210217
+    second: pokemonUISet_60
+  - first:
+      213: -3543635301820906607
+    second: pokemonUISet_61
+  - first:
+      213: 3874163465416630517
+    second: pokemonUISet_62
+  - first:
+      213: 1226945126677917967
+    second: pokemonUISet_63
+  - first:
+      213: -5451635684573795545
+    second: pokemonUISet_64
+  - first:
+      213: -1520174363010396058
+    second: pokemonUISet_65
+  - first:
+      213: 1318864992833562554
+    second: pokemonUISet_66
+  - first:
+      213: 6890495103254784596
+    second: pokemonUISet_67
+  - first:
+      213: 2671580407542868071
+    second: pokemonUISet_68
+  - first:
+      213: 4893271018954574696
+    second: pokemonUISet_69
+  - first:
+      213: -343621519686675486
+    second: pokemonUISet_70
+  - first:
+      213: -7906784186729568658
+    second: pokemonUISet_71
+  - first:
+      213: -8814619327656288433
+    second: pokemonUISet_72
+  - first:
+      213: 8837318670420214644
+    second: pokemonUISet_73
+  - first:
+      213: -4254040996086630403
+    second: pokemonUISet_74
+  - first:
+      213: 5607420054191723877
+    second: pokemonUISet_75
+  - first:
+      213: 4109445797031237853
+    second: pokemonUISet_76
+  - first:
+      213: -5196467658564176826
+    second: pokemonUISet_77
+  - first:
+      213: -8465661730401309178
+    second: pokemonUISet_78
+  - first:
+      213: 2532860562816220812
+    second: pokemonUISet_79
+  - first:
+      213: 3679853231251022806
+    second: pokemonUISet_80
+  - first:
+      213: -7998037633341406389
+    second: pokemonUISet_81
+  - first:
+      213: 2145463615342332414
+    second: pokemonUISet_82
+  - first:
+      213: 601225147529522017
+    second: pokemonUISet_83
+  - first:
+      213: 774154887540501952
+    second: pokemonUISet_84
+  - first:
+      213: -5921297374388505789
+    second: pokemonUISet_85
+  - first:
+      213: 2491874138874529179
+    second: pokemonUISet_86
+  - first:
+      213: -4929189825410306108
+    second: pokemonUISet_87
+  - first:
+      213: 4735139171548191018
+    second: pokemonUISet_88
+  - first:
+      213: -3369512048882272345
+    second: pokemonUISet_89
+  - first:
+      213: -9172441210579885431
+    second: pokemonUISet_90
+  - first:
+      213: -3734195458137248875
+    second: pokemonUISet_91
+  - first:
+      213: -7983657063104308917
+    second: pokemonUISet_92
+  - first:
+      213: -6639577588550326618
+    second: pokemonUISet_93
+  - first:
+      213: 7610401832553892760
+    second: pokemonUISet_94
+  - first:
+      213: 3294332840711966951
+    second: pokemonUISet_95
+  - first:
+      213: -9061663946411778258
+    second: pokemonUISet_96
+  - first:
+      213: -8696986317311280808
+    second: pokemonUISet_97
+  - first:
+      213: -2829988171684290922
+    second: pokemonUISet_98
+  - first:
+      213: 5673486742124413576
+    second: pokemonUISet_99
+  - first:
+      213: 3393760298152573535
+    second: pokemonUISet_100
+  - first:
+      213: -7364813644576263196
+    second: pokemonUISet_101
+  - first:
+      213: 7842028560336075725
+    second: pokemonUISet_102
+  - first:
+      213: 5466449894615929564
+    second: pokemonUISet_103
+  - first:
+      213: 7663044735247297063
+    second: pokemonUISet_104
+  - first:
+      213: -814093036648976947
+    second: pokemonUISet_105
+  - first:
+      213: 2661056649845334943
+    second: pokemonUISet_106
+  - first:
+      213: -9014701312540637809
+    second: pokemonUISet_107
+  - first:
+      213: 6481799320887549402
+    second: pokemonUISet_108
+  - first:
+      213: 4665057782428558561
+    second: pokemonUISet_109
+  - first:
+      213: -6737280919038171716
+    second: pokemonUISet_110
+  - first:
+      213: -8172910376402995639
+    second: pokemonUISet_111
+  - first:
+      213: -4817510532613394657
+    second: pokemonUISet_112
+  - first:
+      213: 6444304623215795655
+    second: pokemonUISet_113
+  - first:
+      213: 7837214555467703883
+    second: pokemonUISet_114
+  - first:
+      213: -2820125825802982222
+    second: pokemonUISet_115
+  - first:
+      213: -384117570592030750
+    second: pokemonUISet_116
+  - first:
+      213: -4577717493776555672
+    second: pokemonUISet_117
+  - first:
+      213: -798505154711213778
+    second: pokemonUISet_118
+  - first:
+      213: -1417995749862561165
+    second: pokemonUISet_119
+  - first:
+      213: -3059238773631356813
+    second: pokemonUISet_120
+  - first:
+      213: 6326530400054662964
+    second: pokemonUISet_121
+  - first:
+      213: 8173425451830783655
+    second: pokemonUISet_122
+  - first:
+      213: 2470259325836916211
+    second: pokemonUISet_123
+  - first:
+      213: -8797230607810582373
+    second: pokemonUISet_124
+  - first:
+      213: -4283675998180488705
+    second: pokemonUISet_125
+  - first:
+      213: 5691011970519078706
+    second: pokemonUISet_126
+  - first:
+      213: -2137203989934622546
+    second: pokemonUISet_127
+  - first:
+      213: -942421984441724081
+    second: pokemonUISet_128
+  - first:
+      213: -6924347140794279268
+    second: pokemonUISet_129
+  - first:
+      213: -8304118638547510808
+    second: pokemonUISet_130
+  - first:
+      213: -507794719090727019
+    second: pokemonUISet_131
+  - first:
+      213: -5035179987930147293
+    second: pokemonUISet_132
+  - first:
+      213: 103696746608623985
+    second: pokemonUISet_133
+  - first:
+      213: -8340393897769614655
+    second: pokemonUISet_134
+  - first:
+      213: 2889831754134162008
+    second: pokemonUISet_135
+  - first:
+      213: -8857384223684272921
+    second: pokemonUISet_136
+  - first:
+      213: -4732555096638761052
+    second: pokemonUISet_137
+  - first:
+      213: 8094061111366124263
+    second: pokemonUISet_138
+  - first:
+      213: 6200435490090054380
+    second: pokemonUISet_139
+  - first:
+      213: 5475778585966138452
+    second: pokemonUISet_140
+  - first:
+      213: -1147809805472924063
+    second: pokemonUISet_141
+  - first:
+      213: 1739615684764172701
+    second: pokemonUISet_142
+  - first:
+      213: -2853896966498711493
+    second: pokemonUISet_143
+  - first:
+      213: 7513395012566662983
+    second: pokemonUISet_144
+  - first:
+      213: 4785071978165430389
+    second: pokemonUISet_145
+  - first:
+      213: -8535877857251898978
+    second: pokemonUISet_146
+  - first:
+      213: -4964126884160554099
+    second: pokemonUISet_147
+  - first:
+      213: -1480284561882794198
+    second: pokemonUISet_148
+  - first:
+      213: -7318540493719462151
+    second: pokemonUISet_149
+  - first:
+      213: 1211033561585034775
+    second: pokemonUISet_150
+  - first:
+      213: -6697368915368946414
+    second: pokemonUISet_151
+  - first:
+      213: 1434858441354922533
+    second: pokemonUISet_152
+  - first:
+      213: 94822241332217347
+    second: pokemonUISet_153
+  - first:
+      213: -3258038900829046773
+    second: pokemonUISet_154
+  - first:
+      213: -2245823473229880216
+    second: pokemonUISet_155
+  - first:
+      213: 3784035567525077220
+    second: pokemonUISet_156
+  - first:
+      213: -483388992723289835
+    second: pokemonUISet_157
+  - first:
+      213: 6775298454794831959
+    second: pokemonUISet_158
+  - first:
+      213: 8055367079275651988
+    second: pokemonUISet_159
+  - first:
+      213: -3148251372144993804
+    second: pokemonUISet_160
+  - first:
+      213: 6913020361045418818
+    second: pokemonUISet_161
+  - first:
+      213: -5303976232063283735
+    second: pokemonUISet_162
+  - first:
+      213: -159434135228504209
+    second: pokemonUISet_163
+  - first:
+      213: 5211644493102279149
+    second: pokemonUISet_164
+  - first:
+      213: -1166726104659187381
+    second: pokemonUISet_165
+  - first:
+      213: 6395365038461520060
+    second: pokemonUISet_166
+  - first:
+      213: 8607787314863480744
+    second: pokemonUISet_167
+  - first:
+      213: -9114253216080866314
+    second: pokemonUISet_168
+  - first:
+      213: -3249945601801719492
+    second: pokemonUISet_169
+  - first:
+      213: 4372408068447449262
+    second: pokemonUISet_170
+  - first:
+      213: -2532368304316326400
+    second: pokemonUISet_171
+  - first:
+      213: -6080217411592669082
+    second: pokemonUISet_172
+  - first:
+      213: 6674946845488560745
+    second: pokemonUISet_173
+  - first:
+      213: -4635741353871051873
+    second: pokemonUISet_174
+  - first:
+      213: 7675491918662148112
+    second: pokemonUISet_175
+  - first:
+      213: 2771556211527120673
+    second: pokemonUISet_176
+  - first:
+      213: 2216859984779712428
+    second: pokemonUISet_177
+  - first:
+      213: -8776920822683993547
+    second: pokemonUISet_178
+  - first:
+      213: -5679943840369821459
+    second: pokemonUISet_179
+  - first:
+      213: -7553494721019202823
+    second: pokemonUISet_180
+  - first:
+      213: -8273366356434883570
+    second: pokemonUISet_181
+  - first:
+      213: 4937501477976097305
+    second: pokemonUISet_182
+  - first:
+      213: 5846384804148358725
+    second: pokemonUISet_183
+  - first:
+      213: 8232825577829246653
+    second: pokemonUISet_184
+  - first:
+      213: 9177496361727350576
+    second: pokemonUISet_185
+  - first:
+      213: 2638236195942531654
+    second: pokemonUISet_186
+  - first:
+      213: 5126126641553883273
+    second: pokemonUISet_187
+  - first:
+      213: -7291642004387142228
+    second: pokemonUISet_188
+  - first:
+      213: -8822518808174157122
+    second: pokemonUISet_189
+  - first:
+      213: 7817970336376419389
+    second: pokemonUISet_190
+  - first:
+      213: -6600029374153970947
+    second: pokemonUISet_191
+  - first:
+      213: 5421914442283985820
+    second: pokemonUISet_192
+  - first:
+      213: -7260210215539889825
+    second: pokemonUISet_193
+  - first:
+      213: 2917691542221411428
+    second: pokemonUISet_194
+  - first:
+      213: 7569404437385272229
+    second: pokemonUISet_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemonUISet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 739
+        width: 244
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb584cc55f66204d0800000000000000
+      internalID: -3169857983706004036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 822
+        width: 232
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1c0c6665e3f110800000000000000
+      internalID: 1293629746047621778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 903
+        width: 150
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bdc31350535d240800000000000000
+      internalID: 4815813672959793931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 910
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215909bbf965c1a10800000000000000
+      internalID: 1881473988380628242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 910
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fa82a1a0f1268d0800000000000000
+      internalID: -2854685085550465143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 910
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f62e93a297ca3c00800000000000000
+      internalID: 881236109728556790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_6
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 910
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358cbd73e28ab7bf0800000000000000
+      internalID: -325481631595116461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_7
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 910
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0db63125e4fc50800000000000000
+      internalID: 6698230476621811553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 910
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c18bc40d571dfc0800000000000000
+      internalID: -3471864300225160075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 910
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820317a71b4baeff0800000000000000
+      internalID: -5993775131185112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_10
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 910
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c96b8d078a41e0800000000000000
+      internalID: -2212807774655888312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_11
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5198af7598ac9a50800000000000000
+      internalID: 6529278919825723739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_12
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66876b748254be070800000000000000
+      internalID: 8136673191079082086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_13
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db210d34a2880db80800000000000000
+      internalID: -8372041992174038339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_14
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fe7f506a2be23a0800000000000000
+      internalID: -6688211970464157906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a5b629eb80f61a0800000000000000
+      internalID: -6814218096594953595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_16
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 906
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843839191b74d1900800000000000000
+      internalID: 656759948643107656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_17
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556282ac2b12b6c20800000000000000
+      internalID: 3200689011956393557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_18
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114119197891f01a0800000000000000
+      internalID: -6841221238899010543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_19
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 906
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc3ab760f47fbad0800000000000000
+      internalID: -2684298277008294692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 891
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748a379a2d74507d0800000000000000
+      internalID: -2952875010559858617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 891
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57f1cc6a6a22b230800000000000000
+      internalID: 3653028884330444634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 891
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d45fc55636f0430800000000000000
+      internalID: 3751326301625339150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 866
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc7e93de78d8c60800000000000000
+      internalID: 7822057580760911018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_24
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 866
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7cb1723ead5dd0800000000000000
+      internalID: -2495647086813610350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_25
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e243d7f7a01ea180800000000000000
+      internalID: -9102319483265793307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_26
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a2c7e5f9e7d4c30800000000000000
+      internalID: 4345268438432492070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_27
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24fce8d17567d620800000000000000
+      internalID: 2798817233079170093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_28
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619ea73d2d91ead0800000000000000
+      internalID: -2674683886148087454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_29
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7bb14fd77401890800000000000000
+      internalID: -7489407574025193483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_30
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b122518e27d4b930800000000000000
+      internalID: 4158184950707921330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_31
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 885
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23586a06738326e0800000000000000
+      internalID: -1863501277797264598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 870
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c678edc6b2b068f0800000000000000
+      internalID: -549242656330844474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 870
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a012c470c1266870800000000000000
+      internalID: 8675658842652151976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 870
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dda46a412280070800000000000000
+      internalID: 8072739804146228603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_35
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 848
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633ca520f6468230800000000000000
+      internalID: 3640675346013762410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_36
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 848
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e37b190f1dc260800000000000000
+      internalID: 7119380709918368304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_37
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 848
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6088a0762c0f8a00800000000000000
+      internalID: 760840221287284842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 848
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6344e778555e1be0800000000000000
+      internalID: -1504671387038235798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_39
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 867
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b555bcf4acb410800000000000000
+      internalID: 1494250581661168018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_40
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df6deb0ecf2a1e60800000000000000
+      internalID: 7933706255576428503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_41
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfe96b00754adb30800000000000000
+      internalID: 4312835940690816967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_42
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94acf536eb6e53fd0800000000000000
+      internalID: -2362728724100560311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_43
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0c7dd2abb863ef0800000000000000
+      internalID: -128761907584188199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_44
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27670efb5674cee0800000000000000
+      internalID: -1241737459771414739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_45
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 867
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9e62053c5f42d60800000000000000
+      internalID: 7864681068507883976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 851
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd0871f64418ad0800000000000000
+      internalID: -2701803057519207205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 851
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac274fb0a11d910800000000000000
+      internalID: 1860296759728851614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 851
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c23ef71d789a4d70800000000000000
+      internalID: 9028196066058449601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 851
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70642c7bd97a27090800000000000000
+      internalID: -8038178089068247545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 851
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca8e69aca2cc0e0800000000000000
+      internalID: -2248375064361128821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 832
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3b4640781ee8b40800000000000000
+      internalID: 5444536969548051378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_52
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 832
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d5c6c5862351b0800000000000000
+      internalID: -5669145149921963435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_53
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5845d7642a60c960800000000000000
+      internalID: 7620207274104277087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_54
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b68069be3d2db240800000000000000
+      internalID: 4809049724522890929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_55
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1e269d20a03c350800000000000000
+      internalID: 6035678932959945167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_56
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f018e692842d0c0800000000000000
+      internalID: -4552496930533339244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_57
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351177abef4aa08a0800000000000000
+      internalID: -6338072111613537965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_58
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97dbb3c7910e090800000000000000
+      internalID: -8007372116095829524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_59
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 852
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508088fa68d56b8d0800000000000000
+      internalID: -2830972482703849467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_60
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 818
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f76942b5240f90800000000000000
+      internalID: -6988419274106210217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_61
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 822
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934e6dc77a72dec0800000000000000
+      internalID: -3543635301820906607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_62
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 822
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f064f5452bc3c530800000000000000
+      internalID: 3874163465416630517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_63
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 822
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b882971cf60110800000000000000
+      internalID: 1226945126677917967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_64
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 822
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ba2289a36e754b0800000000000000
+      internalID: -5451635684573795545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_65
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 798
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601c18987147eae0800000000000000
+      internalID: -1520174363010396058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_66
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 798
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ea8c29bc8d4210800000000000000
+      internalID: 1318864992833562554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_67
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae11cf9c4ff9f50800000000000000
+      internalID: 6890495103254784596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_68
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686c7cd93c531520800000000000000
+      internalID: 2671580407542868071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_69
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b408ae01468e340800000000000000
+      internalID: 4893271018954574696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_70
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 832
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e355e56c063b3bf0800000000000000
+      internalID: -343621519686675486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_71
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ee429ca5754290800000000000000
+      internalID: -7906784186729568658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_72
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f11c06c6e2ca580800000000000000
+      internalID: -8814619327656288433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_73
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 832
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4730355328674aa70800000000000000
+      internalID: 8837318670420214644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_74
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7be40c04c96f4c0800000000000000
+      internalID: -4254040996086630403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_75
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565df7474de81dd40800000000000000
+      internalID: 5607420054191723877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_76
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 832
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d4cbfd2fa70930800000000000000
+      internalID: 4109445797031237853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_77
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f974523072e7b0800000000000000
+      internalID: -5196467658564176826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_78
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eafca528de38a80800000000000000
+      internalID: -8465661730401309178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_79
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb1402347862320800000000000000
+      internalID: 2532860562816220812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_80
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d36a426407711330800000000000000
+      internalID: 3679853231251022806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_81
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 832
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ca7cd523410190800000000000000
+      internalID: -7998037633341406389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 787
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9410f7ac736cd10800000000000000
+      internalID: 2145463615342332414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_83
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 787
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b6784161bf75800800000000000000
+      internalID: 601225147529522017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 787
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdebf0c4c95eba00800000000000000
+      internalID: 774154887540501952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_85
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 794
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343be1e096353dda0800000000000000
+      internalID: -5921297374388505789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_86
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 794
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954998a35ae49220800000000000000
+      internalID: 2491874138874529179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_87
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 794
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe2f148fff79bb0800000000000000
+      internalID: -4929189825410306108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_88
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29da2a1df796b140800000000000000
+      internalID: 4735139171548191018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_89
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a739fbd4a61d31d0800000000000000
+      internalID: -3369512048882272345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_90
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826b301151f4b080800000000000000
+      internalID: -9172441210579885431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_91
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2ad3f3097d2cc0800000000000000
+      internalID: -3734195458137248875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_92
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491129433a543190800000000000000
+      internalID: -7983657063104308917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_93
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a620d77c5b7bd3a0800000000000000
+      internalID: -6639577588550326618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_94
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b4b5325249d9960800000000000000
+      internalID: 7610401832553892760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_95
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e05a86b342d7bd20800000000000000
+      internalID: 3294332840711966951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_96
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 776
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f5928c6a08e3280800000000000000
+      internalID: -9061663946411778258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_97
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 776
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8597a34e5091e4780800000000000000
+      internalID: -8696986317311280808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_98
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 776
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e533470ccd9b8d0800000000000000
+      internalID: -2829988171684290922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_99
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 776
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882c63ee1264cbe40800000000000000
+      internalID: 5673486742124413576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_100
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 764
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a3530a20f091f20800000000000000
+      internalID: 3393760298152573535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_101
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 764
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3f41eb20deac990800000000000000
+      internalID: -7364813644576263196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_102
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbbc414d6b74dc60800000000000000
+      internalID: 7842028560336075725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_103
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2dd07773bbcdb40800000000000000
+      internalID: 5466449894615929564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_104
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aa75e069a985a60800000000000000
+      internalID: 7663044735247297063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_105
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 793
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd2b6842b2c3b4f0800000000000000
+      internalID: -814093036648976947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_106
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93e8359ce8fde420800000000000000
+      internalID: 2661056649845334943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_107
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8584cd0be855e280800000000000000
+      internalID: -9014701312540637809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_108
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 793
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adddedae32af3f950800000000000000
+      internalID: 6481799320887549402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_109
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 750
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4635a265d9db040800000000000000
+      internalID: 4665057782428558561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_110
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 750
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb566b423be5082a0800000000000000
+      internalID: -6737280919038171716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_111
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 750
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9463569805df39e80800000000000000
+      internalID: -8172910376402995639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_112
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 750
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f20e1e1b3c42db0800000000000000
+      internalID: -4817510532613394657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_113
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd5f2359e4ce6950800000000000000
+      internalID: 6444304623215795655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_114
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b466c276d1163cc60800000000000000
+      internalID: 7837214555467703883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_115
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcab1bc086ecd8d0800000000000000
+      internalID: -2820125825802982222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_116
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef30ecca175baaf0800000000000000
+      internalID: -384117570592030750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_117
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8616b55713ea870c0800000000000000
+      internalID: -4577717493776555672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_118
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ae1edac32be4f0800000000000000
+      internalID: -798505154711213778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_119
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aad6cd064425ce0800000000000000
+      internalID: -1417995749862561165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_120
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 775
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370f99e3b866b85d0800000000000000
+      internalID: -3059238773631356813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_121
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 689
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d7f321e95cc750800000000000000
+      internalID: 6326530400054662964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_122
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 689
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea28ec427dd6170800000000000000
+      internalID: 8173425451830783655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 689
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5fa93d4cf184220800000000000000
+      internalID: 2470259325836916211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_124
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 687
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a1463f55f9e580800000000000000
+      internalID: -8797230607810582373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_125
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 687
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9c59320635d84c0800000000000000
+      internalID: -4283675998180488705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 677
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23719432c398afe40800000000000000
+      internalID: 5691011970519078706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_127
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 714
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea836676b402752e0800000000000000
+      internalID: -2137203989934622546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_128
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 688
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4315d4c238dbe2f0800000000000000
+      internalID: -942421984441724081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_129
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 714
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a177356f6c7ef90800000000000000
+      internalID: -6924347140794279268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_130
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 688
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9dca86818d1cc80800000000000000
+      internalID: -8304118638547510808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_131
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 714
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59727c5b463f3f8f0800000000000000
+      internalID: -507794719090727019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_132
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 688
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326944f7a727f1ab0800000000000000
+      internalID: -5035179987930147293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_133
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 714
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17188f144a7607100800000000000000
+      internalID: 103696746608623985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_134
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 652
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c24b9470f7f04c80800000000000000
+      internalID: -8340393897769614655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_135
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 652
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8fcd5baeba1820800000000000000
+      internalID: 2889831754134162008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 652
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec562c1aff341580800000000000000
+      internalID: -8857384223684272921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 650
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d1e8b636925eb0800000000000000
+      internalID: -4732555096638761052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 650
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2084552b1e35070800000000000000
+      internalID: 8094061111366124263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 678
+        width: 102
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2fa871a3f5c0650800000000000000
+      internalID: 6200435490090054380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_140
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 602
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d33dac9fddfb40800000000000000
+      internalID: 5475778585966138452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_141
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 646
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e731330192210f0800000000000000
+      internalID: -1147809805472924063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_142
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 378
+        width: 342
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9101189f3b542810800000000000000
+      internalID: 1739615684764172701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_143
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 559
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38874e54dbe468d0800000000000000
+      internalID: -2853896966498711493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_144
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 625
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f3a3dc4f0f44860800000000000000
+      internalID: 7513395012566662983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_145
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 625
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578e93b9c9df76240800000000000000
+      internalID: 4785071978165430389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_146
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 625
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c06850587a8980800000000000000
+      internalID: -8535877857251898978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_147
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 625
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb4a166e0eb1bb0800000000000000
+      internalID: -4964126884160554099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_148
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 630
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a273b7aa809f47be0800000000000000
+      internalID: -1480284561882794198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_149
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 597
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1a8d32325f6a90800000000000000
+      internalID: -7318540493719462151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_150
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 603
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7162a51ab947ec010800000000000000
+      internalID: 1211033561585034775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_151
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 596
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d0b5a47a2e03a0800000000000000
+      internalID: -6697368915368946414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_152
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a4ee37624a9e310800000000000000
+      internalID: 1434858441354922533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_153
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 597
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c96b7350e05100800000000000000
+      internalID: 94822241332217347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_154
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 598
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083eaba1ee19c2d0800000000000000
+      internalID: -3258038900829046773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_155
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 576
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86426e1337b35d0e0800000000000000
+      internalID: -2245823473229880216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_156
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 575
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0a6cbcc48938430800000000000000
+      internalID: 3784035567525077220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_157
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 552
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519f460b548aa49f0800000000000000
+      internalID: -483388992723289835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_158
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 548
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588c4d2c02b60e50800000000000000
+      internalID: 6775298454794831959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_159
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 522
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493e99feda96acf60800000000000000
+      internalID: 8055367079275651988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_160
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 521
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f959a3ae0a2f44d0800000000000000
+      internalID: -3148251372144993804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_161
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 515
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a721446bffef50800000000000000
+      internalID: 6913020361045418818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_162
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 503
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc0c6f7bd7466b0800000000000000
+      internalID: -5303976232063283735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_163
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 500
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6722acaf7399cdf0800000000000000
+      internalID: -159434135228504209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_164
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 495
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de96bf2dd0b735840800000000000000
+      internalID: 5211644493102279149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_165
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 495
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b492d951ac4fecfe0800000000000000
+      internalID: -1166726104659187381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_166
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 449
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8837e4e96e0c850800000000000000
+      internalID: 6395365038461520060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_167
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 449
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1d84f4f0057770800000000000000
+      internalID: 8607787314863480744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_168
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 440
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3d9864dfaa38180800000000000000
+      internalID: -9114253216080866314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_169
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 440
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31f341b1bfd5e2d0800000000000000
+      internalID: -3249945601801719492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_170
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 385
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0bcd4e8f9edac30800000000000000
+      internalID: 4372408068447449262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_171
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 385
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e54ccb1783bdcd0800000000000000
+      internalID: -2532368304316326400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_172
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 336
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bfd08a7abe9ba0800000000000000
+      internalID: -6080217411592669082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_173
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab5f36acc22ac50800000000000000
+      internalID: 6674946845488560745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_174
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937de3ccc98aafb0800000000000000
+      internalID: -4635741353871051873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_175
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 336
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0102d38cb33d48a60800000000000000
+      internalID: 7675491918662148112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_176
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 336
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f917a0bb867620800000000000000
+      internalID: 2771556211527120673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_177
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79295296ed3ce10800000000000000
+      internalID: 2216859984779712428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_178
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 336
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af03e830d123680800000000000000
+      internalID: -8776920822683993547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_179
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 336
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8b69abb29cc21b0800000000000000
+      internalID: -5679943840369821459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_180
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2bcd442989c2790800000000000000
+      internalID: -7553494721019202823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ce70c02291f2d80800000000000000
+      internalID: -8273366356434883570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124bb82f67858440800000000000000
+      internalID: 4937501477976097305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_183
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 246
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e218ff008822150800000000000000
+      internalID: 5846384804148358725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_184
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 294
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db623406e3fd04270800000000000000
+      internalID: 8232825577829246653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_185
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 244
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d23801540d5f70800000000000000
+      internalID: 9177496361727350576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_186
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 246
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6428bbc97d5ec9420800000000000000
+      internalID: 2638236195942531654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_187
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804c776509a32740800000000000000
+      internalID: 5126126641553883273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_188
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ef23da32eeca90800000000000000
+      internalID: -7291642004387142228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_189
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 56
+        width: 244
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a39e33ed109580800000000000000
+      internalID: -8822518808174157122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_190
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 183
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f14c79920f7c60800000000000000
+      internalID: 7817970336376419389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_191
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 184
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa86ea04cf764a0800000000000000
+      internalID: -6600029374153970947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_192
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba5ee65728e3b40800000000000000
+      internalID: 5421914442283985820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_193
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f592514764d8e3b90800000000000000
+      internalID: -7260210215539889825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_194
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464d442cff8bd7820800000000000000
+      internalID: 2917691542221411428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonUISet_195
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5d9b3b3deb0960800000000000000
+      internalID: 7569404437385272229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
