@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 0f9e2f0843e922b4fb37281e2d8fa930
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7812584676427347459
+    second: galarian_form_sprites_by_leparagon_dddkkfh_0
+  - first:
+      213: 30889548947558355
+    second: galarian_form_sprites_by_leparagon_dddkkfh_1
+  - first:
+      213: 2596274122196112179
+    second: galarian_form_sprites_by_leparagon_dddkkfh_2
+  - first:
+      213: 1891375609414305008
+    second: galarian_form_sprites_by_leparagon_dddkkfh_3
+  - first:
+      213: -5240479038363297630
+    second: galarian_form_sprites_by_leparagon_dddkkfh_4
+  - first:
+      213: 2615679963216689178
+    second: galarian_form_sprites_by_leparagon_dddkkfh_5
+  - first:
+      213: -3719188923013835837
+    second: galarian_form_sprites_by_leparagon_dddkkfh_6
+  - first:
+      213: -7756467564387932212
+    second: galarian_form_sprites_by_leparagon_dddkkfh_7
+  - first:
+      213: 3926897677052089192
+    second: galarian_form_sprites_by_leparagon_dddkkfh_8
+  - first:
+      213: 4344870210657959661
+    second: galarian_form_sprites_by_leparagon_dddkkfh_9
+  - first:
+      213: -6838893790248318813
+    second: galarian_form_sprites_by_leparagon_dddkkfh_10
+  - first:
+      213: -1563931024089629515
+    second: galarian_form_sprites_by_leparagon_dddkkfh_11
+  - first:
+      213: -548368924102388589
+    second: galarian_form_sprites_by_leparagon_dddkkfh_12
+  - first:
+      213: -3487162778094933756
+    second: galarian_form_sprites_by_leparagon_dddkkfh_13
+  - first:
+      213: 5957235550457019397
+    second: galarian_form_sprites_by_leparagon_dddkkfh_14
+  - first:
+      213: 6104712743619717511
+    second: galarian_form_sprites_by_leparagon_dddkkfh_15
+  - first:
+      213: 7207892364090539885
+    second: galarian_form_sprites_by_leparagon_dddkkfh_16
+  - first:
+      213: -6392709818022353812
+    second: galarian_form_sprites_by_leparagon_dddkkfh_17
+  - first:
+      213: -12807694725629227
+    second: galarian_form_sprites_by_leparagon_dddkkfh_18
+  - first:
+      213: 4785837834477401784
+    second: galarian_form_sprites_by_leparagon_dddkkfh_19
+  - first:
+      213: -5513275394486298846
+    second: galarian_form_sprites_by_leparagon_dddkkfh_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 308
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df943ef21af149390800000000000000
+      internalID: -7812584676427347459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 306
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df8a4091edbd6000800000000000000
+      internalID: 30889548947558355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 296
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d909fe81d70420800000000000000
+      internalID: 2596274122196112179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 321
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f44af788148f3a10800000000000000
+      internalID: 1891375609414305008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 305
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8997174141647b0800000000000000
+      internalID: -5240479038363297630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 215
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1833ad6113cc4420800000000000000
+      internalID: 2615679963216689178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 235
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3513f2169c26cc0800000000000000
+      internalID: -3719188923013835837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 193
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc761d088dd7b5490800000000000000
+      internalID: -7756467564387932212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 212
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8631ff5b1a42f7630800000000000000
+      internalID: 3926897677052089192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 207
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb17dbf641c4c30800000000000000
+      internalID: 4344870210657959661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 205
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8cf9fe45e5711a0800000000000000
+      internalID: -6838893790248318813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcbce7050dcb4ae0800000000000000
+      internalID: -1563931024089629515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39493017e5dc368f0800000000000000
+      internalID: -548368924102388589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 124
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409efa9ddeb1b9fc0800000000000000
+      internalID: -3487162778094933756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 120
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb15c9b2a5ca250800000000000000
+      internalID: 5957235550457019397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 126
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e04b65eb48b450800000000000000
+      internalID: 6104712743619717511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ffdd48ae3970460800000000000000
+      internalID: 7207892364090539885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6420a06a488847a0800000000000000
+      internalID: -6392709818022353812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 25
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dabc71387f72dff0800000000000000
+      internalID: -12807694725629227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 25
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b676ac6726ba6240800000000000000
+      internalID: 4785837834477401784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galarian_form_sprites_by_leparagon_dddkkfh_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 28
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2271eb24d39ec73b0800000000000000
+      internalID: -5513275394486298846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

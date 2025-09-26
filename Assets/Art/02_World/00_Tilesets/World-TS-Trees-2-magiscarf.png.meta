@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 45b33d87f1f4a1043a3e1d7618c1c9ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4255886879789894792
+    second: World-TS-Trees-2-magiscarf_0
+  - first:
+      213: -5343117193313764517
+    second: World-TS-Trees-2-magiscarf_1
+  - first:
+      213: -7287896454315743336
+    second: World-TS-Trees-2-magiscarf_2
+  - first:
+      213: 3720170875417773225
+    second: World-TS-Trees-2-magiscarf_3
+  - first:
+      213: 2931785976019782389
+    second: World-TS-Trees-2-magiscarf_4
+  - first:
+      213: 815853401139032903
+    second: World-TS-Trees-2-magiscarf_5
+  - first:
+      213: 4238634039051457250
+    second: World-TS-Trees-2-magiscarf_6
+  - first:
+      213: -3726160598732369474
+    second: World-TS-Trees-2-magiscarf_7
+  - first:
+      213: 7931909147996711684
+    second: World-TS-Trees-2-magiscarf_8
+  - first:
+      213: 7962040775757950123
+    second: World-TS-Trees-2-magiscarf_9
+  - first:
+      213: -7554476620215766296
+    second: World-TS-Trees-2-magiscarf_10
+  - first:
+      213: 5552586901602038253
+    second: World-TS-Trees-2-magiscarf_11
+  - first:
+      213: -6935065840705033828
+    second: World-TS-Trees-2-magiscarf_12
+  - first:
+      213: -2737634219067532928
+    second: World-TS-Trees-2-magiscarf_13
+  - first:
+      213: 9199487624416121860
+    second: World-TS-Trees-2-magiscarf_14
+  - first:
+      213: 3447923081301666001
+    second: World-TS-Trees-2-magiscarf_15
+  - first:
+      213: 6298013371158425133
+    second: World-TS-Trees-2-magiscarf_16
+  - first:
+      213: 6341886446110303624
+    second: World-TS-Trees-2-magiscarf_17
+  - first:
+      213: 7719875575943872259
+    second: World-TS-Trees-2-magiscarf_18
+  - first:
+      213: -2650681167265835593
+    second: World-TS-Trees-2-magiscarf_19
+  - first:
+      213: 2494002736920328306
+    second: World-TS-Trees-2-magiscarf_20
+  - first:
+      213: 496219214625362190
+    second: World-TS-Trees-2-magiscarf_21
+  - first:
+      213: 1675396370176015247
+    second: World-TS-Trees-2-magiscarf_22
+  - first:
+      213: 3982966613566634404
+    second: World-TS-Trees-2-magiscarf_23
+  - first:
+      213: -5413797085304555678
+    second: World-TS-Trees-2-magiscarf_24
+  - first:
+      213: 3115224601265252646
+    second: World-TS-Trees-2-magiscarf_25
+  - first:
+      213: 4577050928264581496
+    second: World-TS-Trees-2-magiscarf_26
+  - first:
+      213: -2452722304167299707
+    second: World-TS-Trees-2-magiscarf_27
+  - first:
+      213: -1943391527812464943
+    second: World-TS-Trees-2-magiscarf_28
+  - first:
+      213: -2345194735228367917
+    second: World-TS-Trees-2-magiscarf_29
+  - first:
+      213: -3116769609231271024
+    second: World-TS-Trees-2-magiscarf_30
+  - first:
+      213: -6459421920412188098
+    second: World-TS-Trees-2-magiscarf_31
+  - first:
+      213: 4358125572377570707
+    second: World-TS-Trees-2-magiscarf_32
+  - first:
+      213: 400762998772531502
+    second: World-TS-Trees-2-magiscarf_33
+  - first:
+      213: 2985002962608798496
+    second: World-TS-Trees-2-magiscarf_34
+  - first:
+      213: 8912111389009109770
+    second: World-TS-Trees-2-magiscarf_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4f1a8192ff0b30800000000000000
+      internalID: 4255886879789894792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3043c83f69d5b0800000000000000
+      internalID: -5343117193313764517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 288
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976ea8a9c03cda90800000000000000
+      internalID: -7287896454315743336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c70d63b3b0a330800000000000000
+      internalID: 3720170875417773225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 320
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa812adfcbcfa820800000000000000
+      internalID: 2931785976019782389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743bfa3885e725b00800000000000000
+      internalID: 815853401139032903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 288
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e29a868337a2da30800000000000000
+      internalID: 4238634039051457250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb110807da40a4cc0800000000000000
+      internalID: -3726160598732369474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40be305585dc31e60800000000000000
+      internalID: 7931909147996711684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac6a3e96e9de7e60800000000000000
+      internalID: 7962040775757950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2bb0c0a8b192790800000000000000
+      internalID: -7554476620215766296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f97e3e50ce0d40800000000000000
+      internalID: 5552586901602038253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99a4d68c52b1cf90800000000000000
+      internalID: -6935065840705033828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089968fae28f10ad0800000000000000
+      internalID: -2737634219067532928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404dce0e0452baf70800000000000000
+      internalID: 9199487624416121860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82bd946cb79df20800000000000000
+      internalID: 3447923081301666001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 192
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eee82fac9076750800000000000000
+      internalID: 6298013371158425133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885e44a3f18e20850800000000000000
+      internalID: 6341886446110303624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f39564fe1822b60800000000000000
+      internalID: 7719875575943872259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55d44b583e63bd0800000000000000
+      internalID: -2650681167265835593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278fcf2864a7c9220800000000000000
+      internalID: 2494002736920328306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01d7722fbce2e600800000000000000
+      internalID: 496219214625362190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 96
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bf15e3f14304710800000000000000
+      internalID: 1675396370176015247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a931e94807564730800000000000000
+      internalID: 3982966613566634404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 128
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26770640c345ed4b0800000000000000
+      internalID: -5413797085304555678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62929f905408b3b20800000000000000
+      internalID: 3115224601265252646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 96
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871151aa193f48f30800000000000000
+      internalID: 4577050928264581496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5853e673f0e26fdd0800000000000000
+      internalID: -2452722304167299707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1defb35b3bfa705e0800000000000000
+      internalID: -1943391527812464943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc89d40d1347fd0800000000000000
+      internalID: -2345194735228367917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 209
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7903cd820fb4d0800000000000000
+      internalID: -3116769609231271024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c573acf58b56a0800000000000000
+      internalID: -6459421920412188098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d6c142e1c2b7c30800000000000000
+      internalID: 4358125572377570707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2105f4f2dbcf8500800000000000000
+      internalID: 400762998772531502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b39c7116cdc6920800000000000000
+      internalID: 2985002962608798496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Trees-2-magiscarf_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e994071e2eab70800000000000000
+      internalID: 8912111389009109770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

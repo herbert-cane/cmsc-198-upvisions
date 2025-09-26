@@ -1,0 +1,1943 @@
+fileFormatVersion: 2
+guid: aef21f221dc1c8346a96c261f8d9e2b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3829228886793083583
+    second: World-TrainerSheet_0
+  - first:
+      213: -6707805280636931252
+    second: World-TrainerSheet_1
+  - first:
+      213: -501227383890537715
+    second: World-TrainerSheet_2
+  - first:
+      213: -7663320226786202801
+    second: World-TrainerSheet_3
+  - first:
+      213: -4525753039362044601
+    second: World-TrainerSheet_4
+  - first:
+      213: 8556036221151168430
+    second: World-TrainerSheet_5
+  - first:
+      213: -2343649075844766365
+    second: World-TrainerSheet_6
+  - first:
+      213: 7128253159322406335
+    second: World-TrainerSheet_7
+  - first:
+      213: -2585840924556767692
+    second: World-TrainerSheet_8
+  - first:
+      213: -8922733289766590958
+    second: World-TrainerSheet_9
+  - first:
+      213: 7849741123602218340
+    second: World-TrainerSheet_10
+  - first:
+      213: -8209591524698721368
+    second: World-TrainerSheet_11
+  - first:
+      213: 5490651647172236983
+    second: World-TrainerSheet_12
+  - first:
+      213: -235615601688762593
+    second: World-TrainerSheet_13
+  - first:
+      213: -7548191045534710516
+    second: World-TrainerSheet_14
+  - first:
+      213: 8485229712658699909
+    second: World-TrainerSheet_15
+  - first:
+      213: -7298752390774610912
+    second: World-TrainerSheet_16
+  - first:
+      213: 9217364289328125645
+    second: World-TrainerSheet_17
+  - first:
+      213: 8718033993455960164
+    second: World-TrainerSheet_18
+  - first:
+      213: 399589538071556970
+    second: World-TrainerSheet_19
+  - first:
+      213: -5849260100582310425
+    second: World-TrainerSheet_20
+  - first:
+      213: 767992594683611369
+    second: World-TrainerSheet_21
+  - first:
+      213: 5490654795997697789
+    second: World-TrainerSheet_22
+  - first:
+      213: -6542361432246952774
+    second: World-TrainerSheet_23
+  - first:
+      213: 6186177491952213934
+    second: World-TrainerSheet_24
+  - first:
+      213: 5676682330591478557
+    second: World-TrainerSheet_25
+  - first:
+      213: 3311601194840083621
+    second: World-TrainerSheet_26
+  - first:
+      213: 4889975644512619866
+    second: World-TrainerSheet_27
+  - first:
+      213: 8318419897822918286
+    second: World-TrainerSheet_28
+  - first:
+      213: 9064055006364802353
+    second: World-TrainerSheet_29
+  - first:
+      213: -1020430388876393721
+    second: World-TrainerSheet_30
+  - first:
+      213: -3046386965650367842
+    second: World-TrainerSheet_31
+  - first:
+      213: -4400852367904921410
+    second: World-TrainerSheet_32
+  - first:
+      213: -6444620166386773854
+    second: World-TrainerSheet_33
+  - first:
+      213: 75890358564494381
+    second: World-TrainerSheet_34
+  - first:
+      213: -5638177616259103765
+    second: World-TrainerSheet_35
+  - first:
+      213: 5258136475985586546
+    second: World-TrainerSheet_36
+  - first:
+      213: -8693930101474294154
+    second: World-TrainerSheet_37
+  - first:
+      213: -9109695507036898771
+    second: World-TrainerSheet_38
+  - first:
+      213: -4734225456094848478
+    second: World-TrainerSheet_39
+  - first:
+      213: -4968063458074482258
+    second: World-TrainerSheet_40
+  - first:
+      213: -7316473036265932886
+    second: World-TrainerSheet_41
+  - first:
+      213: -4271734735606430620
+    second: World-TrainerSheet_42
+  - first:
+      213: -4139913260191874531
+    second: World-TrainerSheet_43
+  - first:
+      213: 1741579662230530410
+    second: World-TrainerSheet_44
+  - first:
+      213: 6924807875320013216
+    second: World-TrainerSheet_45
+  - first:
+      213: -773504096766129367
+    second: World-TrainerSheet_46
+  - first:
+      213: 859151371447128615
+    second: World-TrainerSheet_47
+  - first:
+      213: 5131163073635866619
+    second: World-TrainerSheet_48
+  - first:
+      213: 4909564405074309896
+    second: World-TrainerSheet_49
+  - first:
+      213: -1098009697410857448
+    second: World-TrainerSheet_50
+  - first:
+      213: -8432667762709606450
+    second: World-TrainerSheet_51
+  - first:
+      213: -5651772965181233040
+    second: World-TrainerSheet_52
+  - first:
+      213: -5359249103594558466
+    second: World-TrainerSheet_53
+  - first:
+      213: -5804428098300309017
+    second: World-TrainerSheet_54
+  - first:
+      213: 8309957512215104094
+    second: World-TrainerSheet_55
+  - first:
+      213: 7462573209997557977
+    second: World-TrainerSheet_56
+  - first:
+      213: 8917442553834442359
+    second: World-TrainerSheet_57
+  - first:
+      213: -3369143733996201478
+    second: World-TrainerSheet_58
+  - first:
+      213: 2452832429071841560
+    second: World-TrainerSheet_59
+  - first:
+      213: 2624769481694600069
+    second: World-TrainerSheet_60
+  - first:
+      213: 7219395480782677695
+    second: World-TrainerSheet_61
+  - first:
+      213: -5286849798107444692
+    second: World-TrainerSheet_62
+  - first:
+      213: -624965454186872050
+    second: World-TrainerSheet_63
+  - first:
+      213: -7622630463384021590
+    second: World-TrainerSheet_64
+  - first:
+      213: 1112226485454780888
+    second: World-TrainerSheet_65
+  - first:
+      213: 4466701792680486782
+    second: World-TrainerSheet_66
+  - first:
+      213: -8338094944073128681
+    second: World-TrainerSheet_67
+  - first:
+      213: 1234893011219835625
+    second: World-TrainerSheet_68
+  - first:
+      213: 5808443705539482807
+    second: World-TrainerSheet_69
+  - first:
+      213: 5746066902532718525
+    second: World-TrainerSheet_70
+  - first:
+      213: 7689887743137576467
+    second: World-TrainerSheet_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World-TrainerSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a8079d98dbdac0800000000000000
+      internalID: -3829228886793083583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43752103a619e2a0800000000000000
+      internalID: -6707805280636931252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03918799584b09f0800000000000000
+      internalID: -501227383890537715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba7521bda66a590800000000000000
+      internalID: -7663320226786202801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d4ea3d69b4131c0800000000000000
+      internalID: -4525753039362044601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7471f7c952db670800000000000000
+      internalID: 8556036221151168430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a91c259fa97fd0800000000000000
+      internalID: -2343649075844766365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdc7763b74ace260800000000000000
+      internalID: 7128253159322406335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 176
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e4026216f3d1cd0800000000000000
+      internalID: -2585840924556767692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e8edf8551c2480800000000000000
+      internalID: -8922733289766590958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df51356f1efec60800000000000000
+      internalID: 7849741123602218340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3764b210ca11e80800000000000000
+      internalID: -8209591524698721368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65d171596b23c40800000000000000
+      internalID: 5490651647172236983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172dcdcbdceabcf0800000000000000
+      internalID: -235615601688762593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058e127c307f3790800000000000000
+      internalID: -7548191045534710516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5869c9c877791c570800000000000000
+      internalID: 8485229712658699909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024a85cfe5f95ba90800000000000000
+      internalID: -7298752390774610912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 176
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc616c64cf7aaef70800000000000000
+      internalID: 9217364289328125645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46009b71abdacf870800000000000000
+      internalID: 8718033993455960164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63b7b85190ab8500800000000000000
+      internalID: 399589538071556970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edfce1ede043dea0800000000000000
+      internalID: -5849260100582310425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84f34223578aa00800000000000000
+      internalID: 767992594683611369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6dcbb3279b23c40800000000000000
+      internalID: 5490654795997697789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc54b6b0fcd435a0800000000000000
+      internalID: -6542361432246952774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf145537a7b9d550800000000000000
+      internalID: 6186177491952213934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1344a9d080a7ce40800000000000000
+      internalID: 5676682330591478557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acc338bdbb25fd20800000000000000
+      internalID: 3311601194840083621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8c73c0feacd340800000000000000
+      internalID: 4889975644512619866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b64ef2d6f07370800000000000000
+      internalID: 8318419897822918286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 141
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d99fe310ef9cd70800000000000000
+      internalID: 9064055006364802353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7034201c7f3b6d1f0800000000000000
+      internalID: -1020430388876393721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a9708f13f09b5d0800000000000000
+      internalID: -3046386965650367842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 141
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8271e86180de2c0800000000000000
+      internalID: -4400852367904921410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0923e8a1c1096a0800000000000000
+      internalID: -6444620166386773854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1d1801ed9d0100800000000000000
+      internalID: 75890358564494381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34152945b21c1b0800000000000000
+      internalID: -5638177616259103765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27925af1447a8f840800000000000000
+      internalID: 5258136475985586546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6768c8792a4f85780800000000000000
+      internalID: -8693930101474294154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af71b933cd39180800000000000000
+      internalID: -9109695507036898771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 141
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22adadad707ac4eb0800000000000000
+      internalID: -4734225456094848478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92fd75b94ed0bb0800000000000000
+      internalID: -4968063458074482258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 141
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa735a0b98aa67a90800000000000000
+      internalID: -7316473036265932886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 106
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4644b7df3efb7b4c0800000000000000
+      internalID: -4271734735606430620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 141
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d128555f2d21c86c0800000000000000
+      internalID: -4139913260191874531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 106
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69ab4bb9755b2810800000000000000
+      internalID: 1741579662230530410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e64ac21cd91060800000000000000
+      internalID: 6924807875320013216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b02f74f16f345f0800000000000000
+      internalID: -773504096766129367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 71
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722556fce915ceb00800000000000000
+      internalID: 859151371447128615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7daa021ad853740800000000000000
+      internalID: 5131163073635866619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 71
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8033b5e70d6422440800000000000000
+      internalID: 4909564405074309896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81644e96ff513c0f0800000000000000
+      internalID: -1098009697410857448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 71
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4ec6195529fa80800000000000000
+      internalID: -8432667762709606450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078673bbe6ed091b0800000000000000
+      internalID: -5651772965181233040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6a65b55f10a5b0800000000000000
+      internalID: -5359249103594558466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19384d567827fa0800000000000000
+      internalID: -5804428098300309017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8b2e4456e25370800000000000000
+      internalID: 8309957512215104094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0404ccbc2609760800000000000000
+      internalID: 7462573209997557977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e014e81ce11cb70800000000000000
+      internalID: 8917442553834442359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af95ce9df956e31d0800000000000000
+      internalID: -3369143733996201478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 30
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819b26c39163a0220800000000000000
+      internalID: 2452832429071841560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b51bddfed0d6420800000000000000
+      internalID: 2624769481694600069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 30
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ac1590f1703460800000000000000
+      internalID: 7219395480782677695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_62
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac5fa9e1651a6b0800000000000000
+      internalID: -5286849798107444692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 30
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e030d4a0b3da357f0800000000000000
+      internalID: -624965454186872050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_64
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa59cefdaf9f63690800000000000000
+      internalID: -7622630463384021590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 30
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9305f781c6f6f00800000000000000
+      internalID: 1112226485454780888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7722566d99ecfd30800000000000000
+      internalID: 4466701792680486782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 30
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7156a0353d2294c80800000000000000
+      internalID: -8338094944073128681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_68
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaee55a6a8332110800000000000000
+      internalID: 1234893011219835625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_69
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 30
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d88696ccbb9050800000000000000
+      internalID: 5808443705539482807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf771567612ebf40800000000000000
+      internalID: 5746066902532718525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TrainerSheet_71
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316785cd828f7ba60800000000000000
+      internalID: 7689887743137576467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

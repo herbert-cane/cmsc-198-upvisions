@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: edd8ce84f932bdc46b144cf24943b5ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6490065879889726034
+    second: World-TS-Sacred_Phoenix_anarlaurendil_0
+  - first:
+      213: 353604319375456394
+    second: World-TS-Sacred_Phoenix_anarlaurendil_1
+  - first:
+      213: -898853546819702610
+    second: World-TS-Sacred_Phoenix_anarlaurendil_2
+  - first:
+      213: -6276036176288181740
+    second: World-TS-Sacred_Phoenix_anarlaurendil_3
+  - first:
+      213: 6708008755100491699
+    second: World-TS-Sacred_Phoenix_anarlaurendil_4
+  - first:
+      213: -3939694933325373314
+    second: World-TS-Sacred_Phoenix_anarlaurendil_5
+  - first:
+      213: 4716483473897563032
+    second: World-TS-Sacred_Phoenix_anarlaurendil_6
+  - first:
+      213: -2807209972913878513
+    second: World-TS-Sacred_Phoenix_anarlaurendil_7
+  - first:
+      213: 3947718771648867582
+    second: World-TS-Sacred_Phoenix_anarlaurendil_8
+  - first:
+      213: -940817806161533050
+    second: World-TS-Sacred_Phoenix_anarlaurendil_9
+  - first:
+      213: -9009491760031761219
+    second: World-TS-Sacred_Phoenix_anarlaurendil_10
+  - first:
+      213: 2188921594569823794
+    second: World-TS-Sacred_Phoenix_anarlaurendil_11
+  - first:
+      213: 8064985845128763972
+    second: World-TS-Sacred_Phoenix_anarlaurendil_12
+  - first:
+      213: -5026691259991278145
+    second: World-TS-Sacred_Phoenix_anarlaurendil_13
+  - first:
+      213: -2178556048591918962
+    second: World-TS-Sacred_Phoenix_anarlaurendil_14
+  - first:
+      213: -3333677027842833244
+    second: World-TS-Sacred_Phoenix_anarlaurendil_15
+  - first:
+      213: -5054129509465220310
+    second: World-TS-Sacred_Phoenix_anarlaurendil_16
+  - first:
+      213: 8985942616506847070
+    second: World-TS-Sacred_Phoenix_anarlaurendil_17
+  - first:
+      213: -2722878607052794529
+    second: World-TS-Sacred_Phoenix_anarlaurendil_18
+  - first:
+      213: -1248828736536926993
+    second: World-TS-Sacred_Phoenix_anarlaurendil_19
+  - first:
+      213: -1267134715511388049
+    second: World-TS-Sacred_Phoenix_anarlaurendil_20
+  - first:
+      213: -6848640160544246419
+    second: World-TS-Sacred_Phoenix_anarlaurendil_21
+  - first:
+      213: -4673099267456227877
+    second: World-TS-Sacred_Phoenix_anarlaurendil_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1951
+        width: 225
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53a44d777aee5a0800000000000000
+      internalID: -6490065879889726034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1743
+        width: 435
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88fa67414148e400800000000000000
+      internalID: 353604319375456394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1871
+        width: 47
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea036b42671a683f0800000000000000
+      internalID: -898853546819702610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1935
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41297da795a07e8a0800000000000000
+      internalID: -6276036176288181740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1827
+        width: 251
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf99f51c62a71d50800000000000000
+      internalID: 6708008755100491699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1935
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702cbfd4546359c0800000000000000
+      internalID: -3939694933325373314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1926
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8932aa20bb0547140800000000000000
+      internalID: 4716483473897563032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1936
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac8822769ca09d0800000000000000
+      internalID: -2807209972913878513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1927
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca5419e4d19c630800000000000000
+      internalID: 3947718771648867582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1936
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6872161a03b81f2f0800000000000000
+      internalID: -940817806161533050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1927
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7f748afad7f280800000000000000
+      internalID: -9009491760031761219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1855
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361485c79c906e10800000000000000
+      internalID: 2188921594569823794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 893
+        height: 1921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a147165e59cef60800000000000000
+      internalID: 8064985845128763972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1748
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdb8ac7eea9d3ab0800000000000000
+      internalID: -5026691259991278145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_14
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1599
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886668f0d634c1e0800000000000000
+      internalID: -2178556048591918962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1567
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a44c8fd7666cb1d0800000000000000
+      internalID: -3333677027842833244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1151
+        width: 257
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b91833dff1cd9b0800000000000000
+      internalID: -5054129509465220310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1137
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f4fec333b74bc70800000000000000
+      internalID: 8985942616506847070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1087
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559b145554663ad0800000000000000
+      internalID: -2722878607052794529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1073
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4aa6571e44baee0800000000000000
+      internalID: -1248828736536926993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_20
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 959
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68c06790bb3a6ee0800000000000000
+      internalID: -1267134715511388049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1023
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6539444f0eb4f0a0800000000000000
+      internalID: -6848640160544246419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Sacred_Phoenix_anarlaurendil_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 943
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd52223b9f0d52fb0800000000000000
+      internalID: -4673099267456227877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

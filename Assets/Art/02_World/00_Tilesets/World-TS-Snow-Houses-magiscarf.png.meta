@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: a8ee1133c379503499c6084dff22cf07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3572689868260722880
+    second: World-TS-Snow-Houses-magiscarf_0
+  - first:
+      213: -7093822542017419716
+    second: World-TS-Snow-Houses-magiscarf_1
+  - first:
+      213: -6112783132581875946
+    second: World-TS-Snow-Houses-magiscarf_2
+  - first:
+      213: 7985147206802600528
+    second: World-TS-Snow-Houses-magiscarf_3
+  - first:
+      213: 4734285853116402528
+    second: World-TS-Snow-Houses-magiscarf_4
+  - first:
+      213: 7712831043779414037
+    second: World-TS-Snow-Houses-magiscarf_5
+  - first:
+      213: 7445807561150418484
+    second: World-TS-Snow-Houses-magiscarf_6
+  - first:
+      213: 1697881809472385119
+    second: World-TS-Snow-Houses-magiscarf_7
+  - first:
+      213: -4014131354427632033
+    second: World-TS-Snow-Houses-magiscarf_8
+  - first:
+      213: 2779418282082255102
+    second: World-TS-Snow-Houses-magiscarf_9
+  - first:
+      213: 8470356784813940621
+    second: World-TS-Snow-Houses-magiscarf_10
+  - first:
+      213: 8298041287433737922
+    second: World-TS-Snow-Houses-magiscarf_11
+  - first:
+      213: 1622195915714648976
+    second: World-TS-Snow-Houses-magiscarf_12
+  - first:
+      213: 4461723921513642054
+    second: World-TS-Snow-Houses-magiscarf_13
+  - first:
+      213: -2731723685053322091
+    second: World-TS-Snow-Houses-magiscarf_14
+  - first:
+      213: -6322788739015625670
+    second: World-TS-Snow-Houses-magiscarf_15
+  - first:
+      213: 5913992441585855596
+    second: World-TS-Snow-Houses-magiscarf_16
+  - first:
+      213: -1376719449049908941
+    second: World-TS-Snow-Houses-magiscarf_17
+  - first:
+      213: -4634440516403284931
+    second: World-TS-Snow-Houses-magiscarf_18
+  - first:
+      213: -6489981663717966293
+    second: World-TS-Snow-Houses-magiscarf_19
+  - first:
+      213: 7534067433492059661
+    second: World-TS-Snow-Houses-magiscarf_20
+  - first:
+      213: -6331244620871816782
+    second: World-TS-Snow-Houses-magiscarf_21
+  - first:
+      213: 416972577386477603
+    second: World-TS-Snow-Houses-magiscarf_22
+  - first:
+      213: 465599134163357708
+    second: World-TS-Snow-Houses-magiscarf_23
+  - first:
+      213: 6915321112214307206
+    second: World-TS-Snow-Houses-magiscarf_24
+  - first:
+      213: 123014963052158527
+    second: World-TS-Snow-Houses-magiscarf_25
+  - first:
+      213: -7011220697947472906
+    second: World-TS-Snow-Houses-magiscarf_26
+  - first:
+      213: 7280567234745945772
+    second: World-TS-Snow-Houses-magiscarf_27
+  - first:
+      213: 5158880384310813248
+    second: World-TS-Snow-Houses-magiscarf_28
+  - first:
+      213: 3751669127794863193
+    second: World-TS-Snow-Houses-magiscarf_29
+  - first:
+      213: -3784565019834803200
+    second: World-TS-Snow-Houses-magiscarf_30
+  - first:
+      213: 6730431529539569827
+    second: World-TS-Snow-Houses-magiscarf_31
+  - first:
+      213: 7896261618410315402
+    second: World-TS-Snow-Houses-magiscarf_32
+  - first:
+      213: 2044787838752638787
+    second: World-TS-Snow-Houses-magiscarf_33
+  - first:
+      213: -9152296082392621380
+    second: World-TS-Snow-Houses-magiscarf_34
+  - first:
+      213: -8167228704361757328
+    second: World-TS-Snow-Houses-magiscarf_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8415a918eb49130800000000000000
+      internalID: 3572689868260722880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 191
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36a4639bfdad8d90800000000000000
+      internalID: -7093822542017419716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 159
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f2579b0280b2ba0800000000000000
+      internalID: -6112783132581875946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 201
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052fba4d311f0de60800000000000000
+      internalID: 7985147206802600528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 201
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b092c66ef83b140800000000000000
+      internalID: 4734285853116402528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 201
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518c31158fa790b60800000000000000
+      internalID: 7712831043779414037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec94cf682d45760800000000000000
+      internalID: 7445807561150418484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 143
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50f23c8286109710800000000000000
+      internalID: 1697881809472385119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 105
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5655990dc0fa48c0800000000000000
+      internalID: -4014131354427632033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 160
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04db9933a729620800000000000000
+      internalID: 2779418282082255102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 111
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f97af2e90cc8570800000000000000
+      internalID: 8470356784813940621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c653050690982370800000000000000
+      internalID: 8298041287433737922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd2403792338610800000000000000
+      internalID: 1622195915714648976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 82
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fea3744a3bed30800000000000000
+      internalID: 4461723921513642054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 112
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c20ef18c7f61ad0800000000000000
+      internalID: -2731723685053322091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3432253421f048a0800000000000000
+      internalID: -6322788739015625670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 84
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce11dbac8b21250800000000000000
+      internalID: 5913992441585855596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 84
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339320c84f8e4ece0800000000000000
+      internalID: -1376719449049908941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 86
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ba1797e82fafb0800000000000000
+      internalID: -4634440516403284931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eba4fef04fee5a0800000000000000
+      internalID: -6489981663717966293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_20
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06122fd9626e8860800000000000000
+      internalID: 7534067433492059661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 41
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b925dacf86e228a0800000000000000
+      internalID: -6331244620871816782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283334995269c500800000000000000
+      internalID: 416972577386477603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00598712f3267600800000000000000
+      internalID: 465599134163357708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 69
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6810b41a9e728ff50800000000000000
+      internalID: 6915321112214307206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e18c6057905b100800000000000000
+      internalID: 123014963052158527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 19
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb79f81ce323be90800000000000000
+      internalID: -7011220697947472906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae416e6355c90560800000000000000
+      internalID: 7280567234745945772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a3996066089740800000000000000
+      internalID: 5158880384310813248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 17
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c230dc13b901430800000000000000
+      internalID: 3751669127794863193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 9
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c906b7a268a7bc0800000000000000
+      internalID: -3784565019834803200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a88b4711db476d50800000000000000
+      internalID: 6730431529539569827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 9
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed5e21b18259d60800000000000000
+      internalID: 7896261618410315402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347c3e1a4bb806c10800000000000000
+      internalID: 2044787838752638787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed9c934338cf080800000000000000
+      internalID: -9152296082392621380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-Snow-Houses-magiscarf_35
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c425e3cc28ae80800000000000000
+      internalID: -8167228704361757328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

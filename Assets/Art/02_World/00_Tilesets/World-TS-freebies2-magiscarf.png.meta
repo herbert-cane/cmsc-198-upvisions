@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 784226225f0227c4483db2f4f1e68cc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6793045049537384015
+    second: World-TS-freebies2-magiscarf_0
+  - first:
+      213: 6596901341621128321
+    second: World-TS-freebies2-magiscarf_1
+  - first:
+      213: 3637312989617897412
+    second: World-TS-freebies2-magiscarf_2
+  - first:
+      213: -8691446368120602557
+    second: World-TS-freebies2-magiscarf_3
+  - first:
+      213: -3991365865920987820
+    second: World-TS-freebies2-magiscarf_4
+  - first:
+      213: -6949026690998122081
+    second: World-TS-freebies2-magiscarf_5
+  - first:
+      213: -5942822682266875565
+    second: World-TS-freebies2-magiscarf_6
+  - first:
+      213: -5941361190932582232
+    second: World-TS-freebies2-magiscarf_7
+  - first:
+      213: -8311137401652190546
+    second: World-TS-freebies2-magiscarf_8
+  - first:
+      213: 4285086938978668809
+    second: World-TS-freebies2-magiscarf_9
+  - first:
+      213: -7914129086007625079
+    second: World-TS-freebies2-magiscarf_10
+  - first:
+      213: -9149085735436694448
+    second: World-TS-freebies2-magiscarf_11
+  - first:
+      213: 351992898656779007
+    second: World-TS-freebies2-magiscarf_12
+  - first:
+      213: -937049204180934132
+    second: World-TS-freebies2-magiscarf_13
+  - first:
+      213: 568035115552924808
+    second: World-TS-freebies2-magiscarf_14
+  - first:
+      213: 872206429530838848
+    second: World-TS-freebies2-magiscarf_15
+  - first:
+      213: 8774273095723936480
+    second: World-TS-freebies2-magiscarf_16
+  - first:
+      213: 2705400720225347361
+    second: World-TS-freebies2-magiscarf_17
+  - first:
+      213: 5307994195312951227
+    second: World-TS-freebies2-magiscarf_18
+  - first:
+      213: -3041058446749441025
+    second: World-TS-freebies2-magiscarf_19
+  - first:
+      213: -30964253094688887
+    second: World-TS-freebies2-magiscarf_20
+  - first:
+      213: -2931332823505981434
+    second: World-TS-freebies2-magiscarf_21
+  - first:
+      213: -8020118951953080900
+    second: World-TS-freebies2-magiscarf_22
+  - first:
+      213: -8397785274256618218
+    second: World-TS-freebies2-magiscarf_23
+  - first:
+      213: 6810333773706857603
+    second: World-TS-freebies2-magiscarf_24
+  - first:
+      213: 628094933924094934
+    second: World-TS-freebies2-magiscarf_25
+  - first:
+      213: 1547710922552236525
+    second: World-TS-freebies2-magiscarf_26
+  - first:
+      213: -325583246406102098
+    second: World-TS-freebies2-magiscarf_27
+  - first:
+      213: -4267247724481503702
+    second: World-TS-freebies2-magiscarf_28
+  - first:
+      213: -7550726070410315480
+    second: World-TS-freebies2-magiscarf_29
+  - first:
+      213: -5403865768818442720
+    second: World-TS-freebies2-magiscarf_30
+  - first:
+      213: 3403885709420545301
+    second: World-TS-freebies2-magiscarf_31
+  - first:
+      213: 1205513074994893113
+    second: World-TS-freebies2-magiscarf_32
+  - first:
+      213: 4691993891475799646
+    second: World-TS-freebies2-magiscarf_33
+  - first:
+      213: -2358571541101872644
+    second: World-TS-freebies2-magiscarf_34
+  - first:
+      213: -3115457750794911610
+    second: World-TS-freebies2-magiscarf_35
+  - first:
+      213: -126392039944417002
+    second: World-TS-freebies2-magiscarf_36
+  - first:
+      213: 8060875077973171657
+    second: World-TS-freebies2-magiscarf_37
+  - first:
+      213: 1643926633478551251
+    second: World-TS-freebies2-magiscarf_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1391fb4814ab1a0800000000000000
+      internalID: -6793045049537384015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c00ad71d6ec8b50800000000000000
+      internalID: 6596901341621128321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfb61b84e45a7230800000000000000
+      internalID: 3637312989617897412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 432
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34000d3d397c16780800000000000000
+      internalID: -8691446368120602557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 432
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45df82164e1db98c0800000000000000
+      internalID: -3991365865920987820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 432
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f994954ca09109f90800000000000000
+      internalID: -6949026690998122081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 432
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3594954c14ad68da0800000000000000
+      internalID: -5942822682266875565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0fb2cb97b0c8da0800000000000000
+      internalID: -5941361190932582232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 385
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ee074198e8ac80800000000000000
+      internalID: -8311137401652190546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 400
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9015d7d1edfa77b30800000000000000
+      internalID: 4285086938978668809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 400
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98abde1f68d5b2290800000000000000
+      internalID: -7914129086007625079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 400
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cc3bf5ffae70180800000000000000
+      internalID: -9149085735436694448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 400
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffab5e72da782e400800000000000000
+      internalID: 351992898656779007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02abb7a6beeef2f0800000000000000
+      internalID: -937049204180934132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 353
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ea729de012e700800000000000000
+      internalID: 568035115552924808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 353
+        width: 130
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0475ff26023ba1c00800000000000000
+      internalID: 872206429530838848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 357
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea64e874ea74c970800000000000000
+      internalID: 8774273095723936480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 321
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1272e180f938b8520800000000000000
+      internalID: 2705400720225347361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 321
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfb6710998c9a940800000000000000
+      internalID: 5307994195312951227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 335
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36c44747dfbc5d0800000000000000
+      internalID: -3041058446749441025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 335
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9874e850d2ef19ff0800000000000000
+      internalID: -30964253094688887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600bb70f350d157d0800000000000000
+      internalID: -2931332823505981434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 321
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd557c3e40d2b090800000000000000
+      internalID: -8020118951953080900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 337
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d8de359c2157b80800000000000000
+      internalID: -8397785274256618218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 319
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c84a70c7a238e50800000000000000
+      internalID: 6810333773706857603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a4cdb30177b800800000000000000
+      internalID: 628094933924094934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d7b942e29a7510800000000000000
+      internalID: 1547710922552236525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3552d23cb4b7bf0800000000000000
+      internalID: -325583246406102098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 303
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e9fadadc0b7c4c0800000000000000
+      internalID: -4267247724481503702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 257
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82979e8f4ae663790800000000000000
+      internalID: -7550726070410315480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 257
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02efea3d6bc9105b0800000000000000
+      internalID: -5403865768818442720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154a06a4080d3f20800000000000000
+      internalID: 3403885709420545301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 256
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931d82f21c7dab010800000000000000
+      internalID: 1205513074994893113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb7b5c59f4d1140800000000000000
+      internalID: 4691993891475799646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 257
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f64bfdaba44fd0800000000000000
+      internalID: -2358571541101872644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_35
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c12b9eaba3c4d0800000000000000
+      internalID: -3115457750794911610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111dacfb17fe3ef0800000000000000
+      internalID: -126392039944417002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd361dc2bfddf60800000000000000
+      internalID: 8060875077973171657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World-TS-freebies2-magiscarf_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6fa41309660d610800000000000000
+      internalID: 1643926633478551251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
