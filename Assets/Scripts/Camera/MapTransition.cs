@@ -28,61 +28,25 @@ public class MapTransition : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Check if the player entered the waypoint's trigger area (BoxCollider2D)
-        if (other.gameObject.CompareTag("Player"))
+        // Check if the player or a child object of the player entered the waypoint's trigger area (BoxCollider2D)
+        if (other.gameObject.CompareTag("Player") || other.gameObject.transform.parent.CompareTag("Player"))
         {
-            Debug.Log("Player entered the waypoint trigger.");
+            confiner.BoundingShape2D = transitionArea;
 
-            // Start teleportation coroutine and update confiner
-            StartCoroutine(TeleportPlayer(other.gameObject));
+            // Get the parent GameObject if the collider is part of the player’s child
+            GameObject player = other.gameObject.CompareTag("Player") ? other.gameObject : other.gameObject.transform.parent.gameObject;
+            
+            UpdatePlayerPosition(player);
         }
         else
         {
-            Debug.Log("Non-player object entered the waypoint.");
+            return;
         }
     }
 
-    private IEnumerator TeleportPlayer(GameObject player)
+    private void UpdatePlayerPosition(GameObject player)
     {
-        Debug.Log("Starting teleportation sequence.");
-        
-        // Log player position before teleportation
-        Debug.Log("Player current position: " + player.transform.position);
-
-        // Optional: Add fade-out or transition effect here if desired
-        Debug.Log("Waiting for transition...");
-
-        // Simulate transition delay
-        yield return new WaitForSeconds(transitionSpeed);
-
-        // Check if teleportLocation is set
-        if (teleportLocation != null)
-        {
-            // Get world position of teleportLocation
-            Vector3 worldPosition = teleportLocation.position; // Get world position of Transform
-            Debug.Log("Teleporting player to: " + worldPosition);
-
-            // Check if the player has a Rigidbody2D
-            Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
-            if (rb != null)
-            {
-                // Use Rigidbody2D.MovePosition to move the player
-                rb.MovePosition(worldPosition);
-                Debug.Log("Player moved using Rigidbody2D.");
-            }
-            // After teleporting, update the Cinemachine confiner bounding shape
-            if (confiner != null)
-            {
-                confiner.BoundingShape2D = transitionArea; // Update to the new area
-                Debug.Log("Cinemachine confiner bounding shape updated.");
-            }
-        }
-        else
-        {
-            Debug.LogError("Teleport location is not set!");
-        }
-
-        // Optionally add a fade-in effect after teleportation if desired
-        Debug.Log("Teleportation completed.");
+        // Teleport the player to the teleportLocation's position
+        player.transform.position = teleportLocation.position;
     }
 }

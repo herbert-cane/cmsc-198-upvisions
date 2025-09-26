@@ -33,12 +33,12 @@ public class PlayerStatsUI : MonoBehaviour
     }
 
     // Method to update all the stat bars (image fill)
-    private void UpdateStatDisplay()
+    public void UpdateStatDisplay()
     {
         // Set fillAmount based on player stats (normalized between 0 and 1)
-        energyBar.fillAmount = player.playerStats.energy / 100f;
-        sanityBar.fillAmount = player.playerStats.sanity / 100f;
-        stressBar.fillAmount = player.playerStats.stress / 100f;
+        energyBar.fillAmount = Mathf.Clamp01(player.playerStats.energy / 100f);
+        sanityBar.fillAmount = Mathf.Clamp01(player.playerStats.sanity / 100f);
+        stressBar.fillAmount = Mathf.Clamp01(player.playerStats.stress / 100f);
         // focusBar.fillAmount = player.playerStats.focus / 100f;
         // knowledgeBar.fillAmount = player.playerStats.knowledge / 100f;
         // socialLifeBar.fillAmount = player.playerStats.socialLife / 100f;

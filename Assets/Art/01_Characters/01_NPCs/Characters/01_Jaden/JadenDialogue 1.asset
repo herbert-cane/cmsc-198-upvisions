@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dedd136e1e793a408d3831c32e31a2c, type: 3}
+  m_Name: JadenDialogue 1
+  m_EditorClassIdentifier: 
+  npcName: Jaden
+  npcPortrait: {fileID: -7527145504033472756, guid: 6659d60c3b0a53d4da519e741666b378, type: 3}
+  dialogueLines:
+  - 'Hi there! '
+  - STRESS REDUCED.
+  - Well, off you go!
+  - That doesn't make sense really...
+  - Well, off you go!
+  autoProgressLines: 0000000000
+  endDialogueLines: 0000010001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 906051373974b6c4fa574d89b842c395, type: 3}
+  voicePitch: 1
+  dialogueChoices:
+  - dialogueIndex: 0
+    choices:
+    - Talk to the counselor about my stress
+    - Goodbye
+    nextDialogueIndexes: 0200000004000000
+  npcType: 0

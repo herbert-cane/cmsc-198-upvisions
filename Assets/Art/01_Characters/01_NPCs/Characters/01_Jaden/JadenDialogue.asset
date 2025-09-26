@@ -33,3 +33,4 @@ MonoBehaviour:
     - What are YOU doing here?
     - Nah, I'd win.
     nextDialogueIndexes: 0200000004000000
+  npcType: 0

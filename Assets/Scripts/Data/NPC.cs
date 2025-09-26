@@ -1,28 +1,23 @@
-using UnityEngine;
-using System.Collections.Generic;
-using TMPro;
-using UnityEngine.UI;
 using System.Collections;
+using UnityEngine;
 
 public class NPC : MonoBehaviour, IInteractable
 {
     public DialogueSO dialogue;   // NPC's dialogue
-    private DialogueController dialogueUI; // Reference to the DialogueController
-    private int dialogueIndex; // Current index in the dialogue
-    private bool isTyping, isDialogueActive; // Flags for typing effect and dialogue state
-    private AudioSource audioSource; // AudioSource for playing sound effects
+    public NPCType npcType = NPCType.Default;  // NPC type (e.g., Counselor)
+    private DialogueController dialogueUI;
+    private int dialogueIndex;
+    private bool isTyping, isDialogueActive;
+    private AudioSource audioSource;
 
-    private ToggleVisibility toggleVisibility; // Reference to the ToggleVisibility script
+    private ToggleVisibility toggleVisibility;
 
     private void Start()
     {
         dialogueUI = DialogueController.Instance;
-
-        // Initialize ToggleVisibility instance
         toggleVisibility = ToggleVisibility.Instance;
     }
 
-    // Method to check if the NPC can be interacted with
     public bool CanInteract()
     {
         return !isDialogueActive;
@@ -39,25 +34,22 @@ public class NPC : MonoBehaviour, IInteractable
 
     void Update()
     {
-        // Only check for key press if dialogue is active and the game is paused
         if (isDialogueActive && !isTyping)
         {
-            if (Input.GetKey(KeyCode.F)) // F key to advance dialogue
+            if (Input.GetKey(KeyCode.F)) // Press F to advance dialogue
             {
                 NextLine();
             }
         }
     }
 
-    // Method to handle interaction with the NPC
     public void Interact()
     {
-        if (dialogue == null || (PauseController.isGamePaused && !isDialogueActive))
+        if (dialogue == null || PauseController.isGamePaused)
             return;
 
         if (isDialogueActive)
         {
-            // Only go to the next line if it's not currently typing
             if (!isTyping)
             {
                 NextLine();
@@ -69,22 +61,18 @@ public class NPC : MonoBehaviour, IInteractable
         }
     }
 
-    // Method to start the dialogue with the player
     public void StartDialogue()
     {
         isDialogueActive = true;
         dialogueIndex = 0;
 
-        // Safely set the NPC's name in the UI (TMP_Text). Use the dialogue name if available.
         dialogueUI.SetNPCInfo(dialogue.npcName, dialogue.npcPortrait);
-
         dialogueUI.ShowDialoguePanel(true);
-        PauseController.setPause(true); // Pause the game
+        PauseController.setPause(true);
 
-        // Toggle other objects (for example, hide the UI panels)
         if (toggleVisibility != null)
         {
-            toggleVisibility.ToggleObjects(); // Toggle visibility of objects
+            toggleVisibility.ToggleObjects();
         }
 
         DisplayCurrentLine();
@@ -94,30 +82,25 @@ public class NPC : MonoBehaviour, IInteractable
     {
         if (isTyping)
         {
-            // If typing, stop the typing coroutine and show the full line immediately
             StopAllCoroutines();
             dialogueUI.SetDialogueText(dialogue.dialogueLines[dialogueIndex]);
             isTyping = false;
         }
 
-        // Clear previous choices
         dialogueUI.ClearChoices();
 
-        // Check for dialogue choices at the current index
         if (dialogue.endDialogueLines.Length > dialogueIndex && dialogue.endDialogueLines[dialogueIndex])
         {
             EndDialogue();
             return;
         }
 
-        // Check if choices and display them
         foreach (DialogueChoice choice in dialogue.dialogueChoices)
         {
             if (choice.dialogueIndex == dialogueIndex)
             {
-                // Display Choices
                 DisplayChoices(choice);
-                return; // Exit to wait for player choice
+                return;
             }
         }
 
@@ -136,8 +119,28 @@ public class NPC : MonoBehaviour, IInteractable
         for (int i = 0; i < choice.choices.Length; i++)
         {
             int nextIndex = choice.nextDialogueIndexes[i];
-            dialogueUI.CreateChoiceButton(choice.choices[i], () => ChooseOption(nextIndex));
+
+            // If the NPC is a counselor and the choice is about stress reduction
+            if (npcType == NPCType.Counselor && choice.choices[i].Contains("Talk to the counselor about my stress"))
+            {
+                // Add a callback function to the choice button that triggers stress reduction only when clicked
+                dialogueUI.CreateChoiceButton(choice.choices[i], () => OnTalkToCounselorClick(nextIndex));
+            }
+            else
+            {
+                dialogueUI.CreateChoiceButton(choice.choices[i], () => ChooseOption(nextIndex));
+            }
         }
+    }
+
+    // This method will be called when the player clicks the "Talk to the counselor about my stress" button
+    void OnTalkToCounselorClick(int nextIndex)
+    {
+        // Trigger the stress reduction
+        FindFirstObjectByType<PlayerStatsTracker>().TalkToCounselor();
+
+        // Proceed to the next dialogue line
+        ChooseOption(nextIndex);
     }
 
     void ChooseOption(int nextIndex)
@@ -160,19 +163,18 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueUI.SetDialogueText("");
         dialogueUI.ShowDialoguePanel(false);
 
-        // Toggle visibility of the UI objects when the dialogue ends
         if (toggleVisibility != null)
         {
-            toggleVisibility.ToggleObjects(); // Toggle visibility of objects
+            toggleVisibility.ToggleObjects();
         }
 
-        PauseController.setPause(false); // Unpause the game
+        PauseController.setPause(false);
     }
 
     IEnumerator TypeLine()
     {
         isTyping = true;
-        dialogueUI.SetDialogueText(""); // Clear the text at the start of typing
+        dialogueUI.SetDialogueText("");
 
         foreach (char letter in dialogue.dialogueLines[dialogueIndex])
         {
@@ -185,9 +187,9 @@ public class NPC : MonoBehaviour, IInteractable
 
             yield return new WaitForSeconds(dialogue.typingSpeed);
         }
+
         isTyping = false;
 
-        // If auto-progress is enabled, move to the next line after the delay
         if (dialogue.autoProgressLines.Length > dialogueIndex && dialogue.autoProgressLines[dialogueIndex])
         {
             yield return new WaitForSeconds(dialogue.autoProgressDelay);

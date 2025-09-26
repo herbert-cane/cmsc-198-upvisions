@@ -28,26 +28,33 @@ public class Player : MonoBehaviour
 {
     // PlayerStats will hold all the player’s data
     public PlayerStats playerStats;
+    public SaveController saveController;
 
-    private void Start()
+    void Start()
     {
-        // Initialize stats with default values or load saved data if available
-        playerStats = new PlayerStats()
+        // Check if saveController is assigned
+        if (saveController == null)
         {
-            energy = 100f,
-            sanity = 100f,
-            stress = 0f,
-            focus = 100f,
-            knowledge = 0f,
-            socialLife = 50f,
-            finances = 50f,
-            health = 100f,
-            sleep = 100f,
-            motivation = 100f,
-            luck = 50f,
-            procrastinationResistance = 50f
-        };
+            saveController = FindFirstObjectByType<SaveController>(); // Find it dynamically if not assigned
+        }
+
+        // Load the player stats after ensuring saveController is assigned
+        LoadPlayerStats();
     }
 
-    // You can add other methods for handling player actions like reducing energy, stress, etc.
+
+    // Method to load player stats from saved data or initialize with defaults
+    // Method to load player stats from saved data or initialize with defaults
+    private void LoadPlayerStats()
+    {
+        // Ensure saveController is set and load game data
+        if (saveController != null)
+        {
+            saveController.LoadGame();
+        }
+        else
+        {
+            Debug.LogError("SaveController is not assigned.");
+        }
+    }
 }
