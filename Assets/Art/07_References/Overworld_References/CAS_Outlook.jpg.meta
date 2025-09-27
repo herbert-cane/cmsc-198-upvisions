@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CAS_Outlook_0: -1021944436873623148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

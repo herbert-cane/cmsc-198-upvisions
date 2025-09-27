@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      World-TS-Stone-Walls-magiscarf_0: -1977465690552770319
+      World-TS-Stone-Walls-magiscarf_1: -6019597660290100567
+      World-TS-Stone-Walls-magiscarf_2: 383119016890561678
+      World-TS-Stone-Walls-magiscarf_3: 5773311982805485330
+      World-TS-Stone-Walls-magiscarf_4: 8395441294372189528
+      World-TS-Stone-Walls-magiscarf_5: -313324356001904230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

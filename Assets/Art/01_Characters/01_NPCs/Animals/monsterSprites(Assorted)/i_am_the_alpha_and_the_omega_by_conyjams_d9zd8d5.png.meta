@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      i_am_the_alpha_and_the_omega_by_conyjams_d9zd8d5_0: -6219627115162924433
+      i_am_the_alpha_and_the_omega_by_conyjams_d9zd8d5_1: -4467612481093202032
+      i_am_the_alpha_and_the_omega_by_conyjams_d9zd8d5_2: -1221923527451722278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

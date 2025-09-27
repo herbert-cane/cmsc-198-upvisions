@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HousesThinTrees_0: -7536342795760415722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

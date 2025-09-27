@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sableye_sprites_by_conyjams_dbmau1n_0: 7818614919329273522
+      sableye_sprites_by_conyjams_dbmau1n_1: 5132873233973516828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

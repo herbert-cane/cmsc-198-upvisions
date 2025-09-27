@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_walk_NORTH-WEST-Sheet_0: -3437465362733690921
+      red_walk_NORTH-WEST-Sheet_1: 523533795385419220
+      red_walk_NORTH-WEST-Sheet_2: -7998974757102791858
+      red_walk_NORTH-WEST-Sheet_3: 4000357741150363714
+      red_walk_NORTH-WEST-Sheet_4: -6930585087322538681
+      red_walk_NORTH-WEST-Sheet_5: 5166874518541697739
+      red_walk_NORTH-WEST-Sheet_6: 3071909001828034182
+      red_walk_NORTH-WEST-Sheet_7: -2081990116176911797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

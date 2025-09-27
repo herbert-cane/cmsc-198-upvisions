@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Questionmark Yellow_Green_0: 1976170213718574584
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

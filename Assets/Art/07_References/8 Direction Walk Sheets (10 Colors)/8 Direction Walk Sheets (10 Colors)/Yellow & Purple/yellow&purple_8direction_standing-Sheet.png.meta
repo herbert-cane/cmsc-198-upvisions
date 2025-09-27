@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      yellow&purple_8direction_standing-Sheet_0: -1420146233349593300
+      yellow&purple_8direction_standing-Sheet_1: 835148890223185458
+      yellow&purple_8direction_standing-Sheet_2: -2241501090097358626
+      yellow&purple_8direction_standing-Sheet_3: 2869642645982091319
+      yellow&purple_8direction_standing-Sheet_4: 1819931298338524628
+      yellow&purple_8direction_standing-Sheet_5: 6578702115451977973
+      yellow&purple_8direction_standing-Sheet_6: 9047506254364183896
+      yellow&purple_8direction_standing-Sheet_7: 3161869304901992840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

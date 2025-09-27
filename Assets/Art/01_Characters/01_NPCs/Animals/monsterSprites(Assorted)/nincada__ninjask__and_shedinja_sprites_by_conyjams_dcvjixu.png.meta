@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nincada__ninjask__and_shedinja_sprites_by_conyjams_dcvjixu_0: -3343245455029569556
+      nincada__ninjask__and_shedinja_sprites_by_conyjams_dcvjixu_1: -1505841774782745392
+      nincada__ninjask__and_shedinja_sprites_by_conyjams_dcvjixu_2: -2307245811361011203
+      nincada__ninjask__and_shedinja_sprites_by_conyjams_dcvjixu_3: -6535955176941651606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

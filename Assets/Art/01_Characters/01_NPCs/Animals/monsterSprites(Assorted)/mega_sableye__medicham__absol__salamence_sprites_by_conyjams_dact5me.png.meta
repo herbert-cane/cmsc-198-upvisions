@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mega_sableye__medicham__absol__salamence_sprites_by_conyjams_dact5me_0: -8102211142852826831
+      mega_sableye__medicham__absol__salamence_sprites_by_conyjams_dact5me_1: 3619613714577162135
+      mega_sableye__medicham__absol__salamence_sprites_by_conyjams_dact5me_2: 2012425561070249278
+      mega_sableye__medicham__absol__salamence_sprites_by_conyjams_dact5me_3: 7784476812530305760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

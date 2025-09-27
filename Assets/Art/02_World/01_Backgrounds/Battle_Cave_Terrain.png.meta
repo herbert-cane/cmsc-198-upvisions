@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Battle_Cave_Terrain_0: -4497958590394855328
+      Battle_Cave_Terrain_1: 2405203650508410343
+      Battle_Cave_Terrain_2: -2410046613632980003
+      Battle_Cave_Terrain_3: 6034520672012269415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

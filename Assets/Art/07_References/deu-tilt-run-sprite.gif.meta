@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      deu-tilt-run-sprite_0: -7809500230382556908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

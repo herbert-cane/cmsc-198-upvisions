@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      snorunt__glalie__and_froslass_sprites_by_conyjams_db9nmou_0: -3755781592312867980
+      snorunt__glalie__and_froslass_sprites_by_conyjams_db9nmou_1: 8634459995626144091
+      snorunt__glalie__and_froslass_sprites_by_conyjams_db9nmou_2: -6357686226338058597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

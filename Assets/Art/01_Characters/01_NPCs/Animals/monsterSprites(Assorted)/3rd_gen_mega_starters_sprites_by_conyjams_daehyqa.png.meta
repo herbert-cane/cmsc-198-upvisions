@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      3rd_gen_mega_starters_sprites_by_conyjams_daehyqa_0: -578775448533926155
+      3rd_gen_mega_starters_sprites_by_conyjams_daehyqa_1: -4722799669280507146
+      3rd_gen_mega_starters_sprites_by_conyjams_daehyqa_2: -3196512966180002874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

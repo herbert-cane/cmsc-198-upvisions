@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      16x32_pendulumclock_0: 8147621776883949859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

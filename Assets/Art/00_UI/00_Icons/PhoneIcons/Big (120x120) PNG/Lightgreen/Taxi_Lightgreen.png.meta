@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Taxi_Lightgreen_0: -7201249657407744189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

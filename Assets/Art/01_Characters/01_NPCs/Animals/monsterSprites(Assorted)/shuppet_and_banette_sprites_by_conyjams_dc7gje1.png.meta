@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shuppet_and_banette_sprites_by_conyjams_dc7gje1_0: 6796795316715290676
+      shuppet_and_banette_sprites_by_conyjams_dc7gje1_1: 5802335558111274457
+      shuppet_and_banette_sprites_by_conyjams_dc7gje1_2: 6339634628871499688
+      shuppet_and_banette_sprites_by_conyjams_dc7gje1_3: -7006159560797986716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

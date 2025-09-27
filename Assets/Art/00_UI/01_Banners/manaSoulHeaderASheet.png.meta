@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      manaSoulHeaderASheet_0: 293534631364540888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

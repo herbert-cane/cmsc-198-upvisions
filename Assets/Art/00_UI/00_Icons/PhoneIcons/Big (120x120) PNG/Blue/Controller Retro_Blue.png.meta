@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Controller Retro_Blue_0: 2467749648782047340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Heart_Orange_0: -5307887881403469967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

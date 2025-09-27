@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      QR Black_Lightgreen_0: -7573528306170962611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

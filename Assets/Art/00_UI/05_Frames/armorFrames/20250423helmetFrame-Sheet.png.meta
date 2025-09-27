@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20250423helmetFrame-Sheet_0: 8132159233533810264
+      20250423helmetFrame-Sheet_1: -3009422277032823818
+      20250423helmetFrame-Sheet_2: -4538237568013067804
+      20250423helmetFrame-Sheet_3: 7053907976575851819
+      20250423helmetFrame-Sheet_4: 3393941838623658384
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

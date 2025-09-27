@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      teal&pink_8direction_standing-Sheet_0: 8725492749384065027
+      teal&pink_8direction_standing-Sheet_1: 6599730435717514422
+      teal&pink_8direction_standing-Sheet_2: 7987506394941627546
+      teal&pink_8direction_standing-Sheet_3: -2547905799228034310
+      teal&pink_8direction_standing-Sheet_4: -3927558296064184487
+      teal&pink_8direction_standing-Sheet_5: 8605664952912493206
+      teal&pink_8direction_standing-Sheet_6: -7346552178757377578
+      teal&pink_8direction_standing-Sheet_7: 8276417117321878886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

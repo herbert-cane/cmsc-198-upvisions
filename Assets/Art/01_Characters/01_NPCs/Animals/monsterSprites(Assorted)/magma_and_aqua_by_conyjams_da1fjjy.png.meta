@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magma_and_aqua_by_conyjams_da1fjjy_0: -8689483521959228047
+      magma_and_aqua_by_conyjams_da1fjjy_1: -7868853015930676708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ultimateItemDexCompact_kryptonlion_0: -5408912229679940857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

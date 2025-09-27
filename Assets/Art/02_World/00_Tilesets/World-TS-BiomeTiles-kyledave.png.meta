@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      World-TS-BiomeTiles-kyledave_0: 6310735733968084996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Triangle Mouse icon 2_0: -422589062776368561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

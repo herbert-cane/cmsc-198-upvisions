@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragonBarB_0: -2436324522538304115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

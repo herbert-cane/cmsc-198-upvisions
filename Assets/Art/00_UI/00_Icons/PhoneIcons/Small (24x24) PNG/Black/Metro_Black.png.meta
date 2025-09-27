@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metro_Black_0: 6180376317590264547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

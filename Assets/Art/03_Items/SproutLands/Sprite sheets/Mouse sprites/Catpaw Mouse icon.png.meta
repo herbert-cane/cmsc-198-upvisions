@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Catpaw Mouse icon_0: -2476706147631715968
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

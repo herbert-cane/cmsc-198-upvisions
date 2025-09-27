@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragonCloseButtonSheet_0: 6837275739029023537
+      dragonCloseButtonSheet_1: -1838614086029603644
+      dragonCloseButtonSheet_2: 8476917348370416265
+      dragonCloseButtonSheet_3: 3839767342445274275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

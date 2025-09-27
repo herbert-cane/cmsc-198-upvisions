@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Battle_Grass_Terrain_0: -4725815947449728964
+      Battle_Grass_Terrain_1: 9000103581137647331
+      Battle_Grass_Terrain_2: -8185161165661858853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

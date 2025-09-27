@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Train_White_0: -3699817936843731525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

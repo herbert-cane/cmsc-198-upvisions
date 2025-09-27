@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      QR White_Pink_0: -8716850675740113045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

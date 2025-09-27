@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      national_pokedex_version_delta_by_mbcmechachu_d6hadys_0: 9022163871341080824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

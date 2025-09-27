@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240713dragonPantsFrame_0: -7368050323082427203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

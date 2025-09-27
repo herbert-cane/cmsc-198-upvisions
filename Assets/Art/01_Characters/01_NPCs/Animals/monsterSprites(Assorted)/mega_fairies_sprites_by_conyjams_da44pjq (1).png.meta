@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mega_fairies_sprites_by_conyjams_da44pjq (1)_0: -8874152865734885909
+      mega_fairies_sprites_by_conyjams_da44pjq (1)_1: 5561361049663770923
+      mega_fairies_sprites_by_conyjams_da44pjq (1)_2: -3368282728469179942
+      mega_fairies_sprites_by_conyjams_da44pjq (1)_3: -2441432839190335875
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

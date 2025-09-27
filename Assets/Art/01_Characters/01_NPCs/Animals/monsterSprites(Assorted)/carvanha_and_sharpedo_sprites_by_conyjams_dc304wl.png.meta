@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      carvanha_and_sharpedo_sprites_by_conyjams_dc304wl_0: 5645581695528329894
+      carvanha_and_sharpedo_sprites_by_conyjams_dc304wl_1: 4922969780034022664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

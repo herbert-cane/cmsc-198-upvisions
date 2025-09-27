@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragonMouseCursorBigSheet_0: -7782383832882436220
+      dragonMouseCursorBigSheet_1: -6044936633125384555
+      dragonMouseCursorBigSheet_2: 7627191554538244318
+      dragonMouseCursorBigSheet_3: 8852941104077506859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

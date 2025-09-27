@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Controller Retro_Orange_0: -6429391088079726271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

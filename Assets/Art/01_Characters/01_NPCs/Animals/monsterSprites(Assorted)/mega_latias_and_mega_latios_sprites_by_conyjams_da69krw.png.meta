@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mega_latias_and_mega_latios_sprites_by_conyjams_da69krw_0: -4405843537896504564
+      mega_latias_and_mega_latios_sprites_by_conyjams_da69krw_1: 6754912660474561289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

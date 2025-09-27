@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SOTECH_Ref_Shea_0: 456059489926455556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

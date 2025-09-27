@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Checkmark_Lightblue_0: -3814227572516471185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

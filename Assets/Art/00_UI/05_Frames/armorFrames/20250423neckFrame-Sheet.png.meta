@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20250423neckFrame-Sheet_0: 7522748524402427941
+      20250423neckFrame-Sheet_1: -7748357326415440952
+      20250423neckFrame-Sheet_2: -5318801531906222268
+      20250423neckFrame-Sheet_3: 8707422553543349690
+      20250423neckFrame-Sheet_4: 5808959662806346916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

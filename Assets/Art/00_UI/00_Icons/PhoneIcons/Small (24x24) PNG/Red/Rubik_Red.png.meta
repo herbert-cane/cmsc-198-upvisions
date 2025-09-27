@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rubik_Red_0: 5443474664858357819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

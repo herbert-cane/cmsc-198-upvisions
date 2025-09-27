@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20250423ringPants-Sheet_0: -6317316849125854176
+      20250423ringPants-Sheet_1: -3341960349197671173
+      20250423ringPants-Sheet_2: 8629640645126878845
+      20250423ringPants-Sheet_3: 4120779595423284067
+      20250423ringPants-Sheet_4: -2783228950901271392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

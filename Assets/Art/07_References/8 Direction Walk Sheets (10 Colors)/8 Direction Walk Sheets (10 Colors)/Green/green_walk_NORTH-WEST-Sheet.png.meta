@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      green_walk_NORTH-WEST-Sheet_0: 7986147830611089207
+      green_walk_NORTH-WEST-Sheet_1: 8332291527699720329
+      green_walk_NORTH-WEST-Sheet_2: 5632833514944557358
+      green_walk_NORTH-WEST-Sheet_3: 5857778874240180477
+      green_walk_NORTH-WEST-Sheet_4: -8401927631381279308
+      green_walk_NORTH-WEST-Sheet_5: -4979896252724949798
+      green_walk_NORTH-WEST-Sheet_6: 1356807896065072064
+      green_walk_NORTH-WEST-Sheet_7: -6789165327868725484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

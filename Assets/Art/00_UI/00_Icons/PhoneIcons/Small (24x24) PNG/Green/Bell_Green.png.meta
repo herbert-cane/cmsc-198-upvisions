@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bell_Green_0: -8679543199050039711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

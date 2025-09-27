@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bagIcons_kryptonlion_0: -8364190945225907190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

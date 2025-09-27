@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      16x16_cupboard_blue_0: -4959539319626718028
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

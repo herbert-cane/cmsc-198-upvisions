@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rubik_Lightblue_0: 2579172005389043835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

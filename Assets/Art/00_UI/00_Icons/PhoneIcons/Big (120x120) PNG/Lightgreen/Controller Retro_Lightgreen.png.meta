@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Controller Retro_Lightgreen_0: 1151430379452478696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

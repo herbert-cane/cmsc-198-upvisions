@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bell_Orange_0: 1974776238217896831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

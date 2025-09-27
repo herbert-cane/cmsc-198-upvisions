@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_0: -5547451303134085119
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_1: 5806278270910340751
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_2: 1468541952834684960
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_3: 7438283963659764062
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_4: 1007178256771866242
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_5: 2192416788437399531
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_6: -8897320849698559910
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_7: 7601072257338712696
+      gen_1_beta_sprites_by_leparagon_dd4xwaj_8: -2099702545416068682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

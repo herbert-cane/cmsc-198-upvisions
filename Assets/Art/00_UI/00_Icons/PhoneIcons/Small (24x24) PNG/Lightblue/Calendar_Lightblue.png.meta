@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Calendar_Lightblue_0: 6416855339361953751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      purple_walk_SOUTH-EAST-Sheet_0: -3990643648375267393
+      purple_walk_SOUTH-EAST-Sheet_1: 3165811449550387833
+      purple_walk_SOUTH-EAST-Sheet_2: 8358834234816465353
+      purple_walk_SOUTH-EAST-Sheet_3: -4141099156622311199
+      purple_walk_SOUTH-EAST-Sheet_4: -1477325992560238341
+      purple_walk_SOUTH-EAST-Sheet_5: -8465838939203967302
+      purple_walk_SOUTH-EAST-Sheet_6: -387853131940830880
+      purple_walk_SOUTH-EAST-Sheet_7: 1608080008892688807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

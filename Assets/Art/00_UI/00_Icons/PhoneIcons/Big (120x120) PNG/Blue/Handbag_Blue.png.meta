@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Handbag_Blue_0: 2242190373365866600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

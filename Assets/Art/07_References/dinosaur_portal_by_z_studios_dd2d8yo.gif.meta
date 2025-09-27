@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dinosaur_portal_by_z_studios_dd2d8yo_0: -4702218358279122379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

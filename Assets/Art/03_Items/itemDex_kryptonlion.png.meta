@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      itemDex_kryptonlion_0: -7955166046040191287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

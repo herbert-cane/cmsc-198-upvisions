@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hammer_White_0: 6972368064805302336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

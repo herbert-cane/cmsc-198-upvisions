@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rubik_Black_0: 581527597596095856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      16x16_cupboardglass_green_0: 9179331092449076989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hero_duo_sprites_by_leparagon_dd8owpy_0: 5458355449053314331
+      hero_duo_sprites_by_leparagon_dd8owpy_1: -1189657972230423918
+      hero_duo_sprites_by_leparagon_dd8owpy_2: 7386648514204807144
+      hero_duo_sprites_by_leparagon_dd8owpy_3: -756516514294651030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

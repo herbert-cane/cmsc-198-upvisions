@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Circle Quarter_Gray_0: -6813884868931723778
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

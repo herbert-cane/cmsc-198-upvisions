@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nat__dex_version_delta_icon_dex_essentials_style_by_mbcmechachu_dfm7zcr_0: 5180219158031397424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

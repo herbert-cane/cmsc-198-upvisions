@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orange_8direction_standing-Sheet_0: 763865835473496083
+      orange_8direction_standing-Sheet_1: 9121204709177307094
+      orange_8direction_standing-Sheet_2: -8889012570722476297
+      orange_8direction_standing-Sheet_3: -5521251504475107960
+      orange_8direction_standing-Sheet_4: -5684816479205764489
+      orange_8direction_standing-Sheet_5: 6982366660894931318
+      orange_8direction_standing-Sheet_6: 685640593626812061
+      orange_8direction_standing-Sheet_7: 2976149586299971927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

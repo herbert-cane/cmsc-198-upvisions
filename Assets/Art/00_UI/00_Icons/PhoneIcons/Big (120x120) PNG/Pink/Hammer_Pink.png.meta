@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hammer_Pink_0: 2334138605098043555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

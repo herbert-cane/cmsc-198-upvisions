@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      duel-32x_0: 526697345765679075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

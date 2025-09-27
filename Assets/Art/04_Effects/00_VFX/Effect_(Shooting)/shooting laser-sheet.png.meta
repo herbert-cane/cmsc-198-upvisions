@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shooting laser-sheet_0: -293602622923214501
+      shooting laser-sheet_1: -1157831426757450959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

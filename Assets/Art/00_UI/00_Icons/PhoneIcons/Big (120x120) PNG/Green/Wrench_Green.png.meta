@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wrench_Green_0: 4886578705319712715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weather_Orange_0: 4661077186678952434
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

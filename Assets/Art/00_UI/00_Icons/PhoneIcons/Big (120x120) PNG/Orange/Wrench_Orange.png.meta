@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wrench_Orange_0: -1035697331823242226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      World-TS-AnimatedWater-magiscarf_0: -8478942544185615225
+      World-TS-AnimatedWater-magiscarf_1: -4934091790205296053
+      World-TS-AnimatedWater-magiscarf_2: 3513537973779108543
+      World-TS-AnimatedWater-magiscarf_3: 2386626886788614082
+      World-TS-AnimatedWater-magiscarf_4: -4086517711513384353
+      World-TS-AnimatedWater-magiscarf_5: -6002582848843106152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

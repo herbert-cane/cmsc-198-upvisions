@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      la_belle_au_bois_dormant_by_kuroda_taiki_d7gtih0_0: 5700121107235927523
+      la_belle_au_bois_dormant_by_kuroda_taiki_d7gtih0_1: -787199188394488659
+      la_belle_au_bois_dormant_by_kuroda_taiki_d7gtih0_2: -2750292565433260455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

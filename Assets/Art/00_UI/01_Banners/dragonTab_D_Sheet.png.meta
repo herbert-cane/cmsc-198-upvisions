@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragonTab_D_Sheet_0: 3905314619097816886
+      dragonTab_D_Sheet_1: 7385901034474486940
+      dragonTab_D_Sheet_2: 2949809558243054789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

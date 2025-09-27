@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      national_pokedex_version_delta___shiny_dex_by_mbcmechachu_df8fks8_0: -8968982064930640037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

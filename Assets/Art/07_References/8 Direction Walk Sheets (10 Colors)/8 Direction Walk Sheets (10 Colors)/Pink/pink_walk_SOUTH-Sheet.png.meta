@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pink_walk_SOUTH-Sheet_0: -3762198542105419251
+      pink_walk_SOUTH-Sheet_1: 2161084467291118598
+      pink_walk_SOUTH-Sheet_2: 3562408357095122203
+      pink_walk_SOUTH-Sheet_3: -3446774967011775596
+      pink_walk_SOUTH-Sheet_4: 639727101138027380
+      pink_walk_SOUTH-Sheet_5: 7785565539014876360
+      pink_walk_SOUTH-Sheet_6: 3131068846875959538
+      pink_walk_SOUTH-Sheet_7: 1729690054109795535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

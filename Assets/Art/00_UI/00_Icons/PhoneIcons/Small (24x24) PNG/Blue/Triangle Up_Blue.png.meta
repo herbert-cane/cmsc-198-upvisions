@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Triangle Up_Blue_0: 4043412507710680997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

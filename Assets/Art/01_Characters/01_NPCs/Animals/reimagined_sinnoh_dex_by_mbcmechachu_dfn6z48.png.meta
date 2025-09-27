@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      reimagined_sinnoh_dex_by_mbcmechachu_dfn6z48_0: -1470528203088847310
+      reimagined_sinnoh_dex_by_mbcmechachu_dfn6z48_1: -5561092190956356351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weather_Lightgreen_0: 5713487790814936616
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

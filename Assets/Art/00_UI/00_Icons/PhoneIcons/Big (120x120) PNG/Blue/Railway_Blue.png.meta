@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Railway_Blue_0: 2598329812623148600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

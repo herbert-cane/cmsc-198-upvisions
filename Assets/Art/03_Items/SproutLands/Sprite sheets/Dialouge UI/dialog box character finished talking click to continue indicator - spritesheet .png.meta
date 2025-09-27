@@ -297,7 +297,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dialog box character finished talking click to continue indicator - spritesheet _0: -9167932111408990061
+      dialog box character finished talking click to continue indicator - spritesheet _1: 396171821069622382
+      dialog box character finished talking click to continue indicator - spritesheet _2: -8650636911346301923
+      dialog box character finished talking click to continue indicator - spritesheet _3: 4356220318644341986
+      dialog box character finished talking click to continue indicator - spritesheet _4: -2531294840770068278
+      dialog box character finished talking click to continue indicator - spritesheet _5: 6778000309463110404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

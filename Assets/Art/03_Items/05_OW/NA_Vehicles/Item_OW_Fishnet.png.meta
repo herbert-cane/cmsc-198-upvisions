@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Item_OW_Fishnet_0: -5479067934653940262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

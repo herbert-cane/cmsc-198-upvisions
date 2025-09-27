@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Battle_Beach_Terrain_0: 6589225029310807866
+      Battle_Beach_Terrain_1: -7759109872486105162
+      Battle_Beach_Terrain_2: 7206378514640904950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
