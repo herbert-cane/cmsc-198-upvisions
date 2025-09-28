@@ -3,20 +3,26 @@ using TMPro;
 
 public class DisplayTime : MonoBehaviour
 {
-    public TextMeshProUGUI timeText;  // Reference to the TextMeshPro component to display the time
+    public TextMeshProUGUI timeText;  // Reference to the TextMeshPro component
+    public FastClock clock;           // Reference to your FastClock script
 
     void Update()
     {
-        // Get the current system time
-        System.DateTime currentTime = System.DateTime.Now;
+        if (clock == null || timeText == null) return;
 
-        // Format the time in 12-hour format with AM/PM
-        string formattedTime = currentTime.ToString("hh:mm:ss tt");
+        // Get in-game hour & minute from FastClock
+        int hour = clock.hour;
+        int minute = clock.minute;
 
-        // Set the formatted time to the TextMeshPro text component
-        if (timeText != null)
-        {
-            timeText.text = formattedTime;
-        }
+        // Convert to 12-hour format with AM/PM
+        string ampm = (hour >= 12) ? "PM" : "AM";
+        int displayHour = hour % 12;
+        if (displayHour == 0) displayHour = 12;
+
+        // Format like 07:05 AM
+        string formattedTime = string.Format("{0:00}:{1:00} {2}", displayHour, minute, ampm);
+
+        // Show on UI
+        timeText.text = formattedTime;
     }
 }
