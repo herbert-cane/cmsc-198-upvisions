@@ -55,8 +55,6 @@ public class SaveController : MonoBehaviour
 
     public void LoadGame()
     {
-        // Check if player exists before trying to load
-        Player player = GameObject.Find("Player")?.GetComponent<Player>();
 
         if (player == null)
         {

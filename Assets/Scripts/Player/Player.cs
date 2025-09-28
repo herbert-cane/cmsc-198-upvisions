@@ -1,10 +1,10 @@
 using UnityEngine;
-
-// PlayerStats remains a simple data class
 [System.Serializable]
 public class PlayerStats
 {
     // Core Stats
+    public string yearLevel = "Second Year";
+    public string semester = "First Semester";
     public float energy;
     public float sanity;
     public float stress;
@@ -21,6 +21,7 @@ public class PlayerStats
     public float motivation;
     public float luck;
     public float procrastinationResistance;
+    public SaveController saveController;
 }
 
 // Player class that is MonoBehaviour and attached to the Player GameObject
@@ -40,10 +41,10 @@ public class Player : MonoBehaviour
 
         // Load the player stats after ensuring saveController is assigned
         LoadPlayerStats();
+        Debug.Log("Player stats loaded.");
+
     }
 
-
-    // Method to load player stats from saved data or initialize with defaults
     // Method to load player stats from saved data or initialize with defaults
     private void LoadPlayerStats()
     {
