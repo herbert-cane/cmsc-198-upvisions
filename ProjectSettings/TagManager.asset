@@ -66,5 +66,8 @@ TagManager:
   - name: WalkBehind
     uniqueID: 4233818749
     locked: 0
+  - name: effects
+    uniqueID: 631124669
+    locked: 0
   m_RenderingLayers:
   - Default
