@@ -8,15 +8,16 @@ public class SaveController : MonoBehaviour
 {
     private string saveLocation;
     public Player player;
+    public string saveDirectory = "Assets/Save";
 
     void Start()
     {
-        string saveDirectory = Path.Combine(Application.dataPath, "Save");  // Custom directory inside the "Assets" folder
+        saveDirectory = Path.Combine(Application.persistentDataPath, "Save");  // Custom directory inside the "Assets" folder
         if (!Directory.Exists(saveDirectory))
         {
             Directory.CreateDirectory(saveDirectory);  // Create directory if it doesn't exist
         }
-        saveLocation = Path.Combine(saveDirectory, "savefile.json");  // Full path to save file
+        saveLocation = Path.Combine(saveDirectory, "savefile.json");
         
         LoadGame();
     }

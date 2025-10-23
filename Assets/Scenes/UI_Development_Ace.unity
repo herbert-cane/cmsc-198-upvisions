@@ -1955,6 +1955,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeText: {fileID: 288830361}
+  clock: {fileID: 0}
 --- !u!1 &302536711
 GameObject:
   m_ObjectHideFlags: 0
@@ -2051,6 +2052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 7783326452082287041}
+  saveDirectory: Assets/Save
 --- !u!1 &311075255
 GameObject:
   m_ObjectHideFlags: 0
@@ -66274,7 +66276,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1356901936}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f453f694addf4275988fac205bc91968, type: 3}
   m_Name: 

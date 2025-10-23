@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2484f7e792e44ac4ab6d297cca783dd1, type: 3}
+  m_Name: CourseSubjectDataSO
+  m_EditorClassIdentifier: 
+  programs:
+  - programName: CommunicationAndMediaStudies
+    semesters:
+    - year: 1
+      semester: 1
+      subjects:
+      - code: GEC_1
+        title: General Education Core 1
+        units: 3
+        label: 
+        prerequisites: 
+        semesterEligible: 1Y1S
+      - code: GEC_2
+        title: General Education Core 2
+        units: 3
+        label: 
+        prerequisites: 
+        semesterEligible: 1Y1S
+      - code: GEC_E_1
+        title: General Education Elective 1
+        units: 3
+        label: 
+        prerequisites: 
+        semesterEligible: 1Y1S
+      - code: CMS_21
+        title: Foundations of Media Writing
+        units: 3
+        label: 3LC
+        prerequisites: 
+        semesterEligible: 1Y1S
+      - code: CMS_31
+        title: Effective Oral Skills for Media Communication
+        units: 3
+        label: 3LC
+        prerequisites: 
+        semesterEligible: 1Y1S
+      - code: CMS_100
+        title: History of Media Communication
+        units: 3
+        label: 3LC
+        prerequisites: 
+        semesterEligible: 1Y1S
+      - code: CMS_31
+        title: Effective Oral Skills for Media Communication
+        units: 3
+        label: 3LC
+        prerequisites: 
+        semesterEligible: 1Y1S
+    - year: 1
+      semester: 2
+      subjects: []
+    - year: 2
+      semester: 1
+      subjects:
+      - code: 
+        title: 
+        units: 0
+        label: 
+        prerequisites: 
+        semesterEligible: 
+    - year: 2
+      semester: 2
+      subjects: []
+    - year: 3
+      semester: 1
+      subjects: []
+    - year: 3
+      semester: 1
+      subjects: []
+    - year: 4
+      semester: 1
+      subjects: []
+    - year: 4
+      semester: 1
+      subjects: []
+  - programName: ComputerScience
+    semesters: []

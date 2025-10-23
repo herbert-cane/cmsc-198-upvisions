@@ -3,8 +3,9 @@ using UnityEngine;
 public class PlayerStats
 {
     // Core Stats
-    public string yearLevel = "Second Year";
-    public string semester = "First Semester";
+    public string academicProgram = "Communication and Media Studies"; // Default program
+    public int yearLevel = 2; // Second Year
+    public int semester = 1; // First Semester
     public float energy;
     public float sanity;
     public float stress;
@@ -21,7 +22,11 @@ public class PlayerStats
     public float motivation;
     public float luck;
     public float procrastinationResistance;
-    public SaveController saveController;
+
+    public PlayerStats(string academicProgram)
+    {
+        this.academicProgram = academicProgram;
+    }
 }
 
 // Player class that is MonoBehaviour and attached to the Player GameObject

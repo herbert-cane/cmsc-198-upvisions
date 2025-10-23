@@ -31,7 +31,7 @@ public class PlayerStatsTracker : MonoBehaviour
         
         if (player.playerStats == null)
         {
-            player.playerStats = new PlayerStats();  // Initialize PlayerStats if null
+            player.playerStats = new PlayerStats(string.Empty);  // Initialize PlayerStats if null (provide required academicProgram)
         }
 
         player.playerStats.energy = Mathf.Clamp(player.playerStats.energy, 0f, maxEnergy);

@@ -1951,6 +1951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeText: {fileID: 288830361}
+  clock: {fileID: 0}
 --- !u!1 &302536711
 GameObject:
   m_ObjectHideFlags: 0
@@ -2048,7 +2049,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83306cb3752498b4584b32e82cd02540, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 7783326452082287039}
 --- !u!1 &311075255
 GameObject:
   m_ObjectHideFlags: 0
@@ -82190,6 +82191,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerStats:
+    yearLevel: Second Year
+    semester: First Semester
     energy: 100
     sanity: 50
     stress: 100
@@ -82202,6 +82205,7 @@ MonoBehaviour:
     motivation: 0
     luck: 0
     procrastinationResistance: 0
+    saveController: {fileID: 0}
   saveController: {fileID: 0}
 --- !u!114 &7783326452082287040
 MonoBehaviour:
