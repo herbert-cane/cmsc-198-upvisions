@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ivy Woods_0: 8764262735507820877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -292,7 +292,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ship Interior_0: -2282736718576710998
+      Ship Interior_1: -7521672086466451017
+      Ship Interior_2: 7802031981895587886
+      Ship Interior_3: -7691463740673514024
+      Ship Interior_4: 8086391060086917059
+      Ship Interior_5: 1846708265299703823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

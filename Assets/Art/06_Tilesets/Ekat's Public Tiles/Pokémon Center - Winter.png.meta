@@ -367,7 +367,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Pok\xE9mon Center - Winter_0": 9067706346440494587
+      "Pok\xE9mon Center - Winter_1": -2976286640171456041
+      "Pok\xE9mon Center - Winter_2": 2576896447526604681
+      "Pok\xE9mon Center - Winter_3": 7963850301719880336
+      "Pok\xE9mon Center - Winter_4": -8882554649248830227
+      "Pok\xE9mon Center - Winter_5": 285330916620909831
+      "Pok\xE9mon Center - Winter_6": -2337042654646835409
+      "Pok\xE9mon Center - Winter_7": -1829608268646796776
+      "Pok\xE9mon Center - Winter_8": -3076884701143705018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

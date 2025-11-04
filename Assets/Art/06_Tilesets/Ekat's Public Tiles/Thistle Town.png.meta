@@ -267,7 +267,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Thistle Town_0: -5198590403543714891
+      Thistle Town_1: -2943292682579093638
+      Thistle Town_2: -8046338330779098192
+      Thistle Town_3: -6892944350042067010
+      Thistle Town_4: 722528522653952262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

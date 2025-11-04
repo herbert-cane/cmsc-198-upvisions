@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mt. Moon Village_0: 1539987432784869995
+      Mt. Moon Village_1: -4605702040252926888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

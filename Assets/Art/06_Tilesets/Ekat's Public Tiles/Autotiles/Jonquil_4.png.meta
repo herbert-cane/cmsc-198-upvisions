@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jonquil_4_0: -8516698582359252680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

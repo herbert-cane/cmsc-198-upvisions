@@ -292,7 +292,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Citrus Outdoors_0: -1354555508996028937
+      Citrus Outdoors_1: -7968024727417421274
+      Citrus Outdoors_2: 8285137470445271953
+      Citrus Outdoors_3: 8058357950853633744
+      Citrus Outdoors_4: -8926696087224757095
+      Citrus Outdoors_5: 1153292382187568182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

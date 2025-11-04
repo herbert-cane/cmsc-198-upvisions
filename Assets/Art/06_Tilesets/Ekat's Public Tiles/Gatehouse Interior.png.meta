@@ -242,7 +242,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gatehouse Interior_0: 8724199877350940612
+      Gatehouse Interior_1: 3101575562868307062
+      Gatehouse Interior_2: 2935886625012055822
+      Gatehouse Interior_3: 2757499688369249239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Park Gazebo_0: 4241069446133332922
+      Park Gazebo_1: 2705228335089115857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

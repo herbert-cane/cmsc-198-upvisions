@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Pok\xE9mon Center Pink Lemonade_0": 8423196544771334641
+      "Pok\xE9mon Center Pink Lemonade_1": 9119533494646852545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

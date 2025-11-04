@@ -517,7 +517,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Silph City_0: -4996088370953805556
+      Silph City_1: 1608447432736154680
+      Silph City_10: 1599912657549153790
+      Silph City_11: 1571037687151569227
+      Silph City_12: 6714888614777093568
+      Silph City_13: -7182408172029522738
+      Silph City_14: -3017823454827306580
+      Silph City_2: 7917905218793162423
+      Silph City_3: 204625077154347954
+      Silph City_4: -7381007230993295577
+      Silph City_5: 5792636693500457385
+      Silph City_6: 2718499488862878362
+      Silph City_7: 6472399443658799975
+      Silph City_8: -2786528671753563477
+      Silph City_9: 2218125121592443544
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

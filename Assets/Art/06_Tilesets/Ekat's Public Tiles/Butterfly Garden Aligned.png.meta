@@ -292,7 +292,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Butterfly Garden Aligned_0: -2642115570671720763
+      Butterfly Garden Aligned_1: 3257478313361181682
+      Butterfly Garden Aligned_2: 4355510308652289456
+      Butterfly Garden Aligned_3: -535947201703149132
+      Butterfly Garden Aligned_4: 1256997224960121709
+      Butterfly Garden Aligned_5: 8044803446602015873
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

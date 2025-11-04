@@ -267,7 +267,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Pok\xE9mon Tower Interior (Revamp)_0": -7541422734513746492
+      "Pok\xE9mon Tower Interior (Revamp)_1": -4282150847699772072
+      "Pok\xE9mon Tower Interior (Revamp)_2": -7161028656174304756
+      "Pok\xE9mon Tower Interior (Revamp)_3": -1177370427097099378
+      "Pok\xE9mon Tower Interior (Revamp)_4": -8769117801081978810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

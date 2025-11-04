@@ -517,7 +517,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Park Tileset_0: -8405516804026821225
+      Park Tileset_1: 7355624903082241440
+      Park Tileset_10: -7366645848690905445
+      Park Tileset_11: -7465076457744952506
+      Park Tileset_12: 6553938947298051430
+      Park Tileset_13: 9085640368613886421
+      Park Tileset_14: -7558139014491344035
+      Park Tileset_2: 8091433907946990584
+      Park Tileset_3: -6948534207872020603
+      Park Tileset_4: -4069494498797286548
+      Park Tileset_5: 3309173263121559548
+      Park Tileset_6: 91349944429338635
+      Park Tileset_7: 3758292132741660268
+      Park Tileset_8: -3917529923297156370
+      Park Tileset_9: -5233807699344956352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

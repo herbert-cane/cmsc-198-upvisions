@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fall ruins stone_0: 3883323725388453425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

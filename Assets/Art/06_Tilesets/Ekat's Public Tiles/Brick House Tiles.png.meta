@@ -342,7 +342,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick House Tiles_0: 8433380010738839805
+      Brick House Tiles_1: 3064115979091353948
+      Brick House Tiles_2: -5831988962973182868
+      Brick House Tiles_3: -6382405541839506698
+      Brick House Tiles_4: -6743340611173443900
+      Brick House Tiles_5: 3259289842380153485
+      Brick House Tiles_6: -132783616150928231
+      Brick House Tiles_7: 3018089829526547620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

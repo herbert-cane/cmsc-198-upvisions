@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cold Storage Interior_0: -2879746117935037357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

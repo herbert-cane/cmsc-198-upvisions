@@ -367,7 +367,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Garden House Sheet_0: 8176870144637561026
+      Garden House Sheet_1: -8083309560539094152
+      Garden House Sheet_2: 1259335719538339169
+      Garden House Sheet_3: 7433032739651287082
+      Garden House Sheet_4: 8997907293694876094
+      Garden House Sheet_5: 7987798962405503304
+      Garden House Sheet_6: -1199837884109282501
+      Garden House Sheet_7: -1601958663825385867
+      Garden House Sheet_8: -4812888332351764820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

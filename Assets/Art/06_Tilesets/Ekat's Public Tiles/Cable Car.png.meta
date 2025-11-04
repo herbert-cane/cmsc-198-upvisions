@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cable Car_0: 2833882357780280960
+      Cable Car_1: -7108548533636719097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

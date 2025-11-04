@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blanket Indoors_0: 8853701890505152854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

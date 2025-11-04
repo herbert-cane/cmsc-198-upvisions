@@ -217,7 +217,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wine Cellar_0: 1428024165004426459
+      Wine Cellar_1: 1605730135517726876
+      Wine Cellar_2: 5962044121314060914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 0e6bb3126a2fa9d48be7a6e5f1cfe096
+=======
+guid: c7675c9b90be8654eaf976675e0ae7b2
+>>>>>>> Stashed changes
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -125,7 +129,11 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Map_Banwa
     originalName: 
+<<<<<<< Updated upstream
     pivot: {x: 0.44375, y: -1.6688311}
+=======
+    pivot: {x: 0.60362625, y: -0.7787275}
+>>>>>>> Stashed changes
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -133,9 +141,15 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
+<<<<<<< Updated upstream
       width: 1920
       height: 1232
     spriteID: ebe286d3834c21f4486674077d034801
+=======
+      width: 3585
+      height: 2106
+    spriteID: be6fb9a35acf8a4408b496211dcd8fc1
+>>>>>>> Stashed changes
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -157,11 +171,19 @@ ScriptedImporter:
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
+<<<<<<< Updated upstream
         x: 1648
         y: 2056
         width: 1920
         height: 1232
       spriteId: ebe286d3834c21f4486674077d034801
+=======
+        x: 336
+        y: 1640
+        width: 3585
+        height: 2106
+      spriteId: be6fb9a35acf8a4408b496211dcd8fc1
+>>>>>>> Stashed changes
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -181,4 +203,8 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 5000, y: 5000}
+<<<<<<< Updated upstream
   previousTextureSize: {x: 2048, y: 2048}
+=======
+  previousTextureSize: {x: 4096, y: 4096}
+>>>>>>> Stashed changes

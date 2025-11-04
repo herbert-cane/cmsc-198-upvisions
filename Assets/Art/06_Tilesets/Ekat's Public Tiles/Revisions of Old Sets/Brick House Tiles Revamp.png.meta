@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick House Tiles Revamp_0: -1687224976511865639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

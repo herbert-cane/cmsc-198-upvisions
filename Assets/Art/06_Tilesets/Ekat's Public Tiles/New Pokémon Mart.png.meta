@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "New Pok\xE9mon Mart_0": -5078167726632506207
+      "New Pok\xE9mon Mart_1": 3296573419148746794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

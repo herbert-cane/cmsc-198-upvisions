@@ -242,7 +242,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Daisy Route_0: 3299687379241578149
+      Daisy Route_1: 5885068782232425076
+      Daisy Route_2: -1676590100105321576
+      Daisy Route_3: -3415192144192641347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

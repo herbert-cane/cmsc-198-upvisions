@@ -267,7 +267,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Little Office_0: 8952051581196934895
+      Little Office_1: -6668496003979327749
+      Little Office_2: -7905133585878273416
+      Little Office_3: -5575987118287774718
+      Little Office_4: 3922404249914138665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

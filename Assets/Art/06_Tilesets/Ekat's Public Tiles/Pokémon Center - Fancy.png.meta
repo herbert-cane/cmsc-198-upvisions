@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Pok\xE9mon Center - Fancy_0": -279473602296683368
+      "Pok\xE9mon Center - Fancy_1": -8655565199452782602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

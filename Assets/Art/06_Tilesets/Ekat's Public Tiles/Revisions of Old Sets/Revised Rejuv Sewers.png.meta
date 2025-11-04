@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Revised Rejuv Sewers_0: -8932325290699598764
+      Revised Rejuv Sewers_1: -3527487250465217095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

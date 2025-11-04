@@ -292,7 +292,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Deep Sea_0: 2944473638101601717
+      Deep Sea_1: 8011144759989565029
+      Deep Sea_2: 5121708621306501973
+      Deep Sea_3: 7396208447355864891
+      Deep Sea_4: -1030582072730821483
+      Deep Sea_5: 8786510515260846908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

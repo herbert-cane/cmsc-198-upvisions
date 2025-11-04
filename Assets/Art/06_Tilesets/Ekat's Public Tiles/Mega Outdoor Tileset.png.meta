@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mega Outdoor Tileset_0: -1032982978851312783
+      Mega Outdoor Tileset_1: 6616188364724455259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

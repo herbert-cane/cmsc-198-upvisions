@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grandfather_Clock_2_0: -5115964375914274506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

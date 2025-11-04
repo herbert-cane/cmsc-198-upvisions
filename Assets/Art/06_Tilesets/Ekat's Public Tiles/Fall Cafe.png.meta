@@ -217,7 +217,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fall Cafe_0: -811971977703319356
+      Fall Cafe_1: 8630161559047651658
+      Fall Cafe_2: 2130525198483568508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

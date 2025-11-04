@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Route 224_0: 5314797414493352559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

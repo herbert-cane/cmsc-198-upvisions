@@ -242,7 +242,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Revised Fancy Center_0: 3441926909005044840
+      Revised Fancy Center_1: -4051890340263621318
+      Revised Fancy Center_2: 1762699028615219163
+      Revised Fancy Center_3: -1607386595033930323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

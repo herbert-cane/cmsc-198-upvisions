@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Viridian Mansion_0: -5980468924270499489
+      Viridian Mansion_1: -4834457165390932837
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

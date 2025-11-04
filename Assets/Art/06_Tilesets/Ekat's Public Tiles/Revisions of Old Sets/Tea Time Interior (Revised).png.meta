@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tea Time Interior (Revised)_0: 7488156767582953900
+      Tea Time Interior (Revised)_1: 1556113231308319346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ekat's Mega Gen 3 Set_0: 6879057992454016304
+      Ekat's Mega Gen 3 Set_1: -95598249484929591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

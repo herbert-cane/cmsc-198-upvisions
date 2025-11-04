@@ -267,7 +267,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cherubi Station_0: 3865396761112718798
+      Cherubi Station_1: -1009522362792022502
+      Cherubi Station_2: 3099173451220399812
+      Cherubi Station_3: -1170408173046556388
+      Cherubi Station_4: -3867112211987272460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -267,7 +267,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick House Indoors_0: -3415703922961132647
+      Brick House Indoors_1: 3192088349462117805
+      Brick House Indoors_2: 7872968071419179895
+      Brick House Indoors_3: 8287976500858067481
+      Brick House Indoors_4: 8060449732662993464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

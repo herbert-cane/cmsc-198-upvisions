@@ -217,7 +217,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nuphar City_0: -2659917594527770547
+      Nuphar City_1: -892335122169900101
+      Nuphar City_2: -3621183788914614794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

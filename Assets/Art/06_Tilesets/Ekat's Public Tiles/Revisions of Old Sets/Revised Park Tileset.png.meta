@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Revised Park Tileset_0: 6030256112772149448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

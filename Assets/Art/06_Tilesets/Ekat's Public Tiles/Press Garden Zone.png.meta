@@ -167,7 +167,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Press Garden Zone_0: 5134603604370390039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

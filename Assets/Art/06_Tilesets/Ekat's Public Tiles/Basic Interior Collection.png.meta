@@ -417,7 +417,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Basic Interior Collection_0: -835792426035436333
+      Basic Interior Collection_1: 1302156506931868107
+      Basic Interior Collection_10: -6009637612838348343
+      Basic Interior Collection_2: 6623534535892367481
+      Basic Interior Collection_3: -767303491555373720
+      Basic Interior Collection_4: 564493294356209845
+      Basic Interior Collection_5: -8636800879219790758
+      Basic Interior Collection_6: 6765636031696184549
+      Basic Interior Collection_7: 5750840414213728911
+      Basic Interior Collection_8: -7175294731094607992
+      Basic Interior Collection_9: 3678581032818916176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

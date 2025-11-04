@@ -442,7 +442,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick Cafe_0: -3957640774026186108
+      Brick Cafe_1: -8506583489717521136
+      Brick Cafe_10: -5495839323351871068
+      Brick Cafe_11: 1889268152815327285
+      Brick Cafe_2: -3981467279109542391
+      Brick Cafe_3: 5708073392890355112
+      Brick Cafe_4: 2358006885400214936
+      Brick Cafe_5: -8830177555117983701
+      Brick Cafe_6: -8032466289020796172
+      Brick Cafe_7: 579878877073010841
+      Brick Cafe_8: 7831850217357672364
+      Brick Cafe_9: -8782532114624578711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

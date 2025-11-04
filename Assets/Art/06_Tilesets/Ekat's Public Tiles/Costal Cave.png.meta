@@ -242,7 +242,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Costal Cave_0: 8669129989303609749
+      Costal Cave_1: -8703628567417307176
+      Costal Cave_2: 3673484289656118054
+      Costal Cave_3: -7450200427867717639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

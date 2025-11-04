@@ -292,7 +292,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Coral Tiles_0: 4786679845600109731
+      Coral Tiles_1: 8320281216265322555
+      Coral Tiles_2: 942950156651354476
+      Coral Tiles_3: 4280241614999428150
+      Coral Tiles_4: 6420257532398781256
+      Coral Tiles_5: -262987615448613810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

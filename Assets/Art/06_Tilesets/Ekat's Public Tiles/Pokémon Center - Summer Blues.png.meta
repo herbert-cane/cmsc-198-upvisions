@@ -192,7 +192,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Pok\xE9mon Center - Summer Blues_0": 8904207391625387010
+      "Pok\xE9mon Center - Summer Blues_1": 7155271253030787436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

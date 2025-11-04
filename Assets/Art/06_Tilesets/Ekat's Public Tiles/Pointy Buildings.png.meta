@@ -342,7 +342,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pointy Buildings_0: 4991776486009505545
+      Pointy Buildings_1: -6846805155951459477
+      Pointy Buildings_2: -7221499871790375355
+      Pointy Buildings_3: 7506475051345983087
+      Pointy Buildings_4: 7198730488271666903
+      Pointy Buildings_5: 7954141825552268641
+      Pointy Buildings_6: -2320835742600422259
+      Pointy Buildings_7: -5413299969252539398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
