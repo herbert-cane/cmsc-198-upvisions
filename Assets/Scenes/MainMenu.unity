@@ -1169,6 +1169,9 @@ MonoBehaviour:
   musicVolumeSlider: {fileID: 1907670921}
   sfxVolumeSlider: {fileID: 1450954776}
   muteToggle: {fileID: 245636681}
+  mainAudioSource: {fileID: 0}
+  musicAudioSource: {fileID: 0}
+  sfxAudioSource: {fileID: 0}
   defaultMasterVolume: 1
   defaultMusicVolume: 1
   defaultSFXVolume: 1
@@ -1938,7 +1941,6 @@ GameObject:
   - component: {fileID: 687055732}
   - component: {fileID: 687055731}
   - component: {fileID: 687055730}
-  - component: {fileID: 687055733}
   - component: {fileID: 687055734}
   m_Layer: 0
   m_Name: EventSystem
@@ -2008,23 +2010,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &687055733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 687055729}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eff04b015e0b62f438ed8be140d5bf83, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  backgroundMusicSource: {fileID: 687055734}
-  sfxSource: {fileID: 0}
-  mainMenuMusic: {fileID: 8300000, guid: d74331d04dddafd43afdf45ecac9ff45, type: 3}
-  gameMusic: {fileID: 0}
-  buttonClickSFX: {fileID: 0}
 --- !u!82 &687055734
 AudioSource:
   m_ObjectHideFlags: 0
@@ -7859,6 +7844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2041443950}
   - component: {fileID: 2041443949}
+  - component: {fileID: 2041443951}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -7895,6 +7881,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2041443951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2041443948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff04b015e0b62f438ed8be140d5bf83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  backgroundMusicSource: {fileID: 687055734}
+  sfxSource: {fileID: 0}
+  mainMenuMusic: {fileID: 8300000, guid: d74331d04dddafd43afdf45ecac9ff45, type: 3}
+  gameMusic: {fileID: 0}
+  buttonClickSFX: {fileID: 0}
 --- !u!1 &2070082252
 GameObject:
   m_ObjectHideFlags: 0
