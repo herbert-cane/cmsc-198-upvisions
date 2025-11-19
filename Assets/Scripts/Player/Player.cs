@@ -3,6 +3,8 @@ using UnityEngine;
 public class PlayerStats
 {
     // Core Stats
+    public string playerName; // Player's name
+    public string org; // e.g. "UGY", "BCP", etc.
     public string academicProgram = "Communication and Media Studies"; // Default program
     public int yearLevel = 2; // Second Year
     public int semester = 1; // First Semester

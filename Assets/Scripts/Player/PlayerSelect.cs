@@ -2,9 +2,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement; // <-- ADDED THIS
 
 public class CharacterSelect : MonoBehaviour
 {
+    [Header("Scene Configuration")]
+    public string gameSceneName = "UI_Development_Ace"; // <-- The name of the scene to load next
+
     [Header("Player Characters")]
     public GameObject maleCharacter;
     public GameObject femaleCharacter;
@@ -39,7 +43,7 @@ public class CharacterSelect : MonoBehaviour
         UpdateCharacterSelection();
 
         // Assign click listeners to cards
-        for(int i = 0; i < cards.Length; i++)
+        for (int i = 0; i < cards.Length; i++)
         {
             int index = i; // local copy for closure
             cards[i].onClick.AddListener(() => SelectCard(index));
@@ -57,7 +61,7 @@ public class CharacterSelect : MonoBehaviour
 
         foreach (GameObject glow in activeGlows)
         {
-            if(glow != null && glow.activeSelf)
+            if (glow != null && glow.activeSelf)
                 glow.transform.localScale = Vector3.one * scale;
         }
     }
@@ -68,7 +72,7 @@ public class CharacterSelect : MonoBehaviour
         isMale = selectMale;
         UpdateCharacterSelection();
         UpdateActiveGlows();
-        Debug.Log("Selected Character: " + (isMale ? "Male" : "Female"));
+        // Removed Debug.Log to keep console clean
     }
 
     private void UpdateCharacterSelection()
@@ -88,17 +92,19 @@ public class CharacterSelect : MonoBehaviour
         selectedCardIndex = index;
         UpdateCardSelection();
         UpdateActiveGlows();
-        Debug.Log("Selected Card: " + cards[index].name);
     }
 
     private void UpdateCardSelection()
     {
-        for(int i = 0; i < cards.Length; i++)
+        for (int i = 0; i < cards.Length; i++)
         {
             bool isSelected = (i == selectedCardIndex);
 
             // Activate glow
-            cardGlows[i].SetActive(isSelected);
+            if (i < cardGlows.Length && cardGlows[i] != null)
+            {
+                cardGlows[i].SetActive(isSelected);
+            }
 
             // Dim unselected
             SetDim(cards[i].gameObject, !isSelected);
@@ -108,20 +114,43 @@ public class CharacterSelect : MonoBehaviour
     // ----------------- Name Input & Confirm -----------------
     public void ConfirmSelection()
     {
-        string playerName = nameInput.text;
-        Debug.Log("Chosen Name: " + playerName +
-                  ", Gender: " + (isMale ? "Male" : "Female") +
-                  ", Card: " + (selectedCardIndex >= 0 ? cards[selectedCardIndex].name : "None"));
+        // 1. Validate Name
+        if (string.IsNullOrEmpty(nameInput.text))
+        {
+            Debug.LogWarning("Please enter a name!");
+            // Optional: Add a UI effect here to shake the input field
+            return;
+        }
 
-        // TODO: Save selection and proceed to next scene
+        // 2. Validate Card Selection
+        if (selectedCardIndex == -1)
+        {
+            Debug.LogWarning("Please select an Organization Card!");
+            return;
+        }
+
+        // 3. Save Data to SceneData
+        SceneData.playerName = nameInput.text;
+
+        // Convert the bool to the String ID your GameInitializer expects
+        SceneData.selectedAvatarID = isMale ? "Boy" : "Girl"; 
+
+        // Use the GameObject's name as the ID (Make sure buttons are named "UGY", "BCP", etc.)
+        SceneData.selectedCourseID = cards[selectedCardIndex].name; 
+
+        Debug.Log($"Saved: {SceneData.playerName}, {SceneData.selectedAvatarID}, {SceneData.selectedCourseID}");
+
+        // 4. Set the next scene and load the loading screen
+        SceneData.sceneToLoad = gameSceneName;
+        SceneManager.LoadScene("LoadingScreen");
     }
 
     // ----------------- Utility -----------------
     private void SetDim(GameObject obj, bool dim)
     {
         Image img = obj.GetComponent<Image>();
-        if(img != null)
-            img.color = dim ? new Color(1,1,1,0.5f) : Color.white;
+        if (img != null)
+            img.color = dim ? new Color(1, 1, 1, 0.5f) : Color.white;
     }
 
     private void UpdateActiveGlows()
@@ -129,11 +158,11 @@ public class CharacterSelect : MonoBehaviour
         activeGlows.Clear();
 
         // Add selected character glow
-        if(isMale) activeGlows.Add(maleGlow);
+        if (isMale) activeGlows.Add(maleGlow);
         else activeGlows.Add(femaleGlow);
 
         // Add selected card glow
-        if(selectedCardIndex >= 0 && cardGlows.Length > selectedCardIndex)
+        if (selectedCardIndex >= 0 && selectedCardIndex < cardGlows.Length)
             activeGlows.Add(cardGlows[selectedCardIndex]);
     }
 }

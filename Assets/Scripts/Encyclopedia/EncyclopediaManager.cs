@@ -63,6 +63,7 @@ public class EncyclopediaManager : MonoBehaviour
     }
 
     // This is the core function
+// This is the core function
     public void DisplayEntry(string entryID)
     {
         if (!entryDatabase.ContainsKey(entryID))
@@ -75,36 +76,66 @@ public class EncyclopediaManager : MonoBehaviour
 
         // 1. Populate Base Info
         titleText.text = entry.entryName;
-        iconImage.sprite = entry.icon;
-        descriptionText.text = entry.description; // TMP will parse the <link> tags!
+        
+        // You can choose to show/hide the icon if one isn't provided
+        if (entry.icon != null)
+        {
+            iconImage.sprite = entry.icon;
+            iconImage.gameObject.SetActive(true);
+        }
+        else
+        {
+            iconImage.gameObject.SetActive(false);
+        }
 
-        // 2. Populate Specialized Info (hide/show panels)
+        // 2. Populate Specialized Info (hide/show panels AND set description text)
+        // Hide all specialized panels first
         statsPanel.SetActive(false);
+        // (You will eventually add more panels to hide here, like locationPanel, personalityPanel, etc.)
 
+        // 3. Check the entry type and show the correct info
         if (entry is ItemEntry item)
         {
             statsPanel.SetActive(true);
-            // ... (set stats text for cost, type, etc.) ...
+            descriptionText.text = item.initialDescription; // Use initial
+            
+            // ... (set stats text for cost, type, etc. using your 'statsPanel') ...
         }
         else if (entry is PersonalityEntry person)
         {
             statsPanel.SetActive(true);
-            // ... (set stats text for role, knowledge tiers, etc.) ...
+            descriptionText.text = person.initialDescription; // Use initial
+            
+            // This is where you would show knowledge tiers
+            // e.g., statsText.text = person.knowledgeTier1;
         }
         else if (entry is ProcessEntry process)
         {
             statsPanel.SetActive(true);
-            // ... (set stats text for steps, mastery tip, etc.) ...
+            descriptionText.text = process.initialDescription; // Use initial
+            
+            // This is where you would show the steps
+            // e.g., statsText.text = string.Join("\n", process.steps);
         }
         else if (entry is LocationEntry location)
         {
             statsPanel.SetActive(true);
-            // ... (set stats text for address, hours, etc.) ...
+            // THIS IS THE KEY: Use the fullDescription for this type
+            descriptionText.text = location.fullDescription; 
+            
+            // e.g., statsText.text = "Hours: " + location.operatingHours;
         }
         else if (entry is CultureEntry culture)
         {
-            statsPanel.SetActive(true);
-            // ... (set stats text for traditions, festivals, etc.) ...
+            statsPanel.SetActive(false); // Culture entries might not have "stats"
+            // THIS IS THE KEY: Use the fullDescription for this type
+            descriptionText.text = culture.fullDescription; 
+        }
+        else
+        {
+            // Fallback for any other entry type
+            statsPanel.SetActive(false);
+            descriptionText.text = entry.initialDescription;
         }
     }
 }

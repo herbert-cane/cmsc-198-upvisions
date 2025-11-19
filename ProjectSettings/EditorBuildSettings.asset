@@ -12,8 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/CharacterSelect.unity
     guid: 54412ad8ff79b6f4ab0b8511776921e8
   - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: aab65176b0a752a4db9ff6c5327dce92
+  - enabled: 0
     path: Assets/Scenes/Automated Adviser.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/UI_Development_Ace.unity
+    guid: cab82e26e4f05d7459fe5e473c454c67
   - enabled: 1
     path: Assets/Scenes/Movement Test.unity
     guid: b30a8e33ef3bf1a4899e29aba540b4e6
