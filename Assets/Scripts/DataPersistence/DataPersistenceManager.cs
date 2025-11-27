@@ -172,11 +172,24 @@ public class DataPersistenceManager : MonoBehaviour
 
     private List<IDataPersistence> FindAllDataPersistenceObjects() 
     {
-        // FindObjectsofType takes in an optional boolean to include inactive gameobjects
-        IEnumerable<IDataPersistence> dataPersistenceObjects = FindObjectsOfType<MonoBehaviour>(true)
-            .OfType<IDataPersistence>();
+        // Collect IDataPersistence components from all loaded scenes by inspecting root GameObjects
+        List<IDataPersistence> results = new List<IDataPersistence>();
 
-        return new List<IDataPersistence>(dataPersistenceObjects);
+        for (int i = 0; i < SceneManager.sceneCount; i++)
+        {
+            Scene scene = SceneManager.GetSceneAt(i);
+            if (!scene.isLoaded)
+                continue;
+
+            GameObject[] rootObjects = scene.GetRootGameObjects();
+            foreach (GameObject root in rootObjects)
+            {
+                results.AddRange(root.GetComponentsInChildren<IDataPersistence>(true));
+            }
+        }
+
+        // remove duplicates if any and return as a list
+        return results.Distinct().ToList();
     }
 
     public bool HasGameData() 

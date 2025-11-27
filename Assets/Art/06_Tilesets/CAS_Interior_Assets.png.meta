@@ -1,0 +1,6643 @@
+fileFormatVersion: 2
+guid: ca08455a89516fe4d897e7700677126d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8790521351483407980
+    second: CAS_Interior_Assets_0
+  - first:
+      213: -3187749824266059499
+    second: CAS_Interior_Assets_1
+  - first:
+      213: -2882249304526848411
+    second: CAS_Interior_Assets_2
+  - first:
+      213: -5539645788266762096
+    second: CAS_Interior_Assets_3
+  - first:
+      213: -4212911190211222514
+    second: CAS_Interior_Assets_4
+  - first:
+      213: 6266693688431173170
+    second: CAS_Interior_Assets_5
+  - first:
+      213: -772634974103252674
+    second: CAS_Interior_Assets_6
+  - first:
+      213: -9051818145558664204
+    second: CAS_Interior_Assets_7
+  - first:
+      213: -4600732661647247300
+    second: CAS_Interior_Assets_8
+  - first:
+      213: -2909269358027596102
+    second: CAS_Interior_Assets_9
+  - first:
+      213: -4573403613633209735
+    second: CAS_Interior_Assets_10
+  - first:
+      213: 5215668555522777479
+    second: CAS_Interior_Assets_11
+  - first:
+      213: 3513168162015454174
+    second: CAS_Interior_Assets_12
+  - first:
+      213: 4115212570096914938
+    second: CAS_Interior_Assets_13
+  - first:
+      213: -8411044656858640073
+    second: CAS_Interior_Assets_14
+  - first:
+      213: 8900476820407326289
+    second: CAS_Interior_Assets_15
+  - first:
+      213: 1132072892978222618
+    second: CAS_Interior_Assets_16
+  - first:
+      213: 167349077681718341
+    second: CAS_Interior_Assets_17
+  - first:
+      213: -831114314159157636
+    second: CAS_Interior_Assets_18
+  - first:
+      213: -1415357121706817761
+    second: CAS_Interior_Assets_19
+  - first:
+      213: 2031945980921391579
+    second: CAS_Interior_Assets_20
+  - first:
+      213: -7019112663106316697
+    second: CAS_Interior_Assets_21
+  - first:
+      213: 5404624322136851574
+    second: CAS_Interior_Assets_22
+  - first:
+      213: 8360370164988530385
+    second: CAS_Interior_Assets_23
+  - first:
+      213: 230971872898143663
+    second: CAS_Interior_Assets_24
+  - first:
+      213: 3742863808829229293
+    second: CAS_Interior_Assets_25
+  - first:
+      213: -8085664168790327652
+    second: CAS_Interior_Assets_26
+  - first:
+      213: 5320165377063521051
+    second: CAS_Interior_Assets_27
+  - first:
+      213: -755858400812784515
+    second: CAS_Interior_Assets_28
+  - first:
+      213: -3789122244702832306
+    second: CAS_Interior_Assets_29
+  - first:
+      213: 8323023030238858309
+    second: CAS_Interior_Assets_30
+  - first:
+      213: -4368207999905800131
+    second: CAS_Interior_Assets_31
+  - first:
+      213: -3351727264898502633
+    second: CAS_Interior_Assets_32
+  - first:
+      213: 8735706956926869839
+    second: CAS_Interior_Assets_33
+  - first:
+      213: 1538473471401874968
+    second: CAS_Interior_Assets_34
+  - first:
+      213: -1040798087380802623
+    second: CAS_Interior_Assets_35
+  - first:
+      213: 8564078331997791188
+    second: CAS_Interior_Assets_36
+  - first:
+      213: 2654478855127469064
+    second: CAS_Interior_Assets_37
+  - first:
+      213: -5201881128599208748
+    second: CAS_Interior_Assets_38
+  - first:
+      213: 7558031355495385072
+    second: CAS_Interior_Assets_39
+  - first:
+      213: 208744754916902038
+    second: CAS_Interior_Assets_40
+  - first:
+      213: 8195335629899653804
+    second: CAS_Interior_Assets_41
+  - first:
+      213: -7666405492443636606
+    second: CAS_Interior_Assets_42
+  - first:
+      213: -4036160534117276521
+    second: CAS_Interior_Assets_43
+  - first:
+      213: 1557586859374222617
+    second: CAS_Interior_Assets_44
+  - first:
+      213: 7853906677326775785
+    second: CAS_Interior_Assets_45
+  - first:
+      213: -3119258354354592517
+    second: CAS_Interior_Assets_46
+  - first:
+      213: 9157129982229233360
+    second: CAS_Interior_Assets_47
+  - first:
+      213: 5553815863548553226
+    second: CAS_Interior_Assets_48
+  - first:
+      213: 1276191209110259542
+    second: CAS_Interior_Assets_49
+  - first:
+      213: 1575661266580207346
+    second: CAS_Interior_Assets_50
+  - first:
+      213: 7896097781701099492
+    second: CAS_Interior_Assets_51
+  - first:
+      213: 5804778462840429687
+    second: CAS_Interior_Assets_52
+  - first:
+      213: -2091265333300563299
+    second: CAS_Interior_Assets_53
+  - first:
+      213: -253874141856313396
+    second: CAS_Interior_Assets_54
+  - first:
+      213: -8321899437013598691
+    second: CAS_Interior_Assets_55
+  - first:
+      213: -4889928732218331863
+    second: CAS_Interior_Assets_56
+  - first:
+      213: -223933294247442812
+    second: CAS_Interior_Assets_57
+  - first:
+      213: 8814466749256850631
+    second: CAS_Interior_Assets_58
+  - first:
+      213: -3271787339465188647
+    second: CAS_Interior_Assets_59
+  - first:
+      213: 8951438909873141166
+    second: CAS_Interior_Assets_60
+  - first:
+      213: -8955740426459279133
+    second: CAS_Interior_Assets_61
+  - first:
+      213: 474056900745681202
+    second: CAS_Interior_Assets_62
+  - first:
+      213: 6216719702203870497
+    second: CAS_Interior_Assets_63
+  - first:
+      213: -7459870072383313398
+    second: CAS_Interior_Assets_64
+  - first:
+      213: 6470100319182106962
+    second: CAS_Interior_Assets_65
+  - first:
+      213: -3141895310328814476
+    second: CAS_Interior_Assets_66
+  - first:
+      213: 4524027023010806189
+    second: CAS_Interior_Assets_67
+  - first:
+      213: 4092655914980223846
+    second: CAS_Interior_Assets_68
+  - first:
+      213: 7144070876029443751
+    second: CAS_Interior_Assets_69
+  - first:
+      213: 4365060155365265384
+    second: CAS_Interior_Assets_70
+  - first:
+      213: 8973369205721422894
+    second: CAS_Interior_Assets_71
+  - first:
+      213: 6337469534615490429
+    second: CAS_Interior_Assets_72
+  - first:
+      213: -5230035597108832589
+    second: CAS_Interior_Assets_73
+  - first:
+      213: -7738130124766253628
+    second: CAS_Interior_Assets_74
+  - first:
+      213: -5201949121601123350
+    second: CAS_Interior_Assets_75
+  - first:
+      213: 4269577071142591207
+    second: CAS_Interior_Assets_76
+  - first:
+      213: 1875987770741214392
+    second: CAS_Interior_Assets_77
+  - first:
+      213: 4575423216930228255
+    second: CAS_Interior_Assets_78
+  - first:
+      213: 6013033931303225198
+    second: CAS_Interior_Assets_79
+  - first:
+      213: -198107946118181560
+    second: CAS_Interior_Assets_80
+  - first:
+      213: -5248316806389522483
+    second: CAS_Interior_Assets_81
+  - first:
+      213: -7059602829477714021
+    second: CAS_Interior_Assets_82
+  - first:
+      213: 2344525729160236341
+    second: CAS_Interior_Assets_83
+  - first:
+      213: 5849004893020028144
+    second: CAS_Interior_Assets_84
+  - first:
+      213: 2227970941480104053
+    second: CAS_Interior_Assets_85
+  - first:
+      213: 3443437444279724788
+    second: CAS_Interior_Assets_86
+  - first:
+      213: 2595594233513886604
+    second: CAS_Interior_Assets_87
+  - first:
+      213: -8412817817171174192
+    second: CAS_Interior_Assets_88
+  - first:
+      213: 2893729368774204896
+    second: CAS_Interior_Assets_89
+  - first:
+      213: 7302373866026967307
+    second: CAS_Interior_Assets_90
+  - first:
+      213: -7986889263197588193
+    second: CAS_Interior_Assets_91
+  - first:
+      213: 5515834610487433926
+    second: CAS_Interior_Assets_92
+  - first:
+      213: 7912396437397021104
+    second: CAS_Interior_Assets_93
+  - first:
+      213: -8972966034483079194
+    second: CAS_Interior_Assets_94
+  - first:
+      213: -5103445737318163275
+    second: CAS_Interior_Assets_95
+  - first:
+      213: -1731869632176431285
+    second: CAS_Interior_Assets_96
+  - first:
+      213: -8298892586069427181
+    second: CAS_Interior_Assets_97
+  - first:
+      213: 2515202623611373393
+    second: CAS_Interior_Assets_98
+  - first:
+      213: -3181515392697997795
+    second: CAS_Interior_Assets_99
+  - first:
+      213: -7655024588905386311
+    second: CAS_Interior_Assets_100
+  - first:
+      213: 1987055382138871622
+    second: CAS_Interior_Assets_101
+  - first:
+      213: 3433915536786144057
+    second: CAS_Interior_Assets_102
+  - first:
+      213: -2701808250071860164
+    second: CAS_Interior_Assets_103
+  - first:
+      213: -7184706122061130550
+    second: CAS_Interior_Assets_104
+  - first:
+      213: 7181012376465390011
+    second: CAS_Interior_Assets_105
+  - first:
+      213: 7509930714995335470
+    second: CAS_Interior_Assets_106
+  - first:
+      213: -3608976381968475509
+    second: CAS_Interior_Assets_107
+  - first:
+      213: -3534286604616680464
+    second: CAS_Interior_Assets_108
+  - first:
+      213: -1330501792686082504
+    second: CAS_Interior_Assets_109
+  - first:
+      213: 5070281910119638012
+    second: CAS_Interior_Assets_110
+  - first:
+      213: -8383012683957025668
+    second: CAS_Interior_Assets_111
+  - first:
+      213: -8191158144056312140
+    second: CAS_Interior_Assets_112
+  - first:
+      213: 3607482937916148763
+    second: CAS_Interior_Assets_113
+  - first:
+      213: -5556647295999402240
+    second: CAS_Interior_Assets_114
+  - first:
+      213: -8325167508465494639
+    second: CAS_Interior_Assets_115
+  - first:
+      213: -4409331228240068078
+    second: CAS_Interior_Assets_116
+  - first:
+      213: -6612563379395028926
+    second: CAS_Interior_Assets_117
+  - first:
+      213: -8793087757084298044
+    second: CAS_Interior_Assets_118
+  - first:
+      213: -1176165491155511115
+    second: CAS_Interior_Assets_119
+  - first:
+      213: -5909971662958730440
+    second: CAS_Interior_Assets_120
+  - first:
+      213: -6287619851297221274
+    second: CAS_Interior_Assets_121
+  - first:
+      213: 1724942097406926707
+    second: CAS_Interior_Assets_122
+  - first:
+      213: -3852158953866096626
+    second: CAS_Interior_Assets_123
+  - first:
+      213: -4767583292146097044
+    second: CAS_Interior_Assets_124
+  - first:
+      213: 7834203993790879827
+    second: CAS_Interior_Assets_125
+  - first:
+      213: -7024639796345742424
+    second: CAS_Interior_Assets_126
+  - first:
+      213: -782653972065527791
+    second: CAS_Interior_Assets_127
+  - first:
+      213: 6503059037465346333
+    second: CAS_Interior_Assets_128
+  - first:
+      213: 3675160373683200646
+    second: CAS_Interior_Assets_129
+  - first:
+      213: 7909136937166240084
+    second: CAS_Interior_Assets_130
+  - first:
+      213: -6972912323552508162
+    second: CAS_Interior_Assets_131
+  - first:
+      213: -4528004102161114858
+    second: CAS_Interior_Assets_132
+  - first:
+      213: 6955898071859918492
+    second: CAS_Interior_Assets_133
+  - first:
+      213: 2787650902836546489
+    second: CAS_Interior_Assets_134
+  - first:
+      213: 60872899845694476
+    second: CAS_Interior_Assets_135
+  - first:
+      213: -2418672671393585964
+    second: CAS_Interior_Assets_136
+  - first:
+      213: 2579298060573284039
+    second: CAS_Interior_Assets_137
+  - first:
+      213: 8958732479692405893
+    second: CAS_Interior_Assets_138
+  - first:
+      213: 4789737810952244678
+    second: CAS_Interior_Assets_139
+  - first:
+      213: -2374367759622857167
+    second: CAS_Interior_Assets_140
+  - first:
+      213: 2361232110588620396
+    second: CAS_Interior_Assets_141
+  - first:
+      213: 6509971132648426672
+    second: CAS_Interior_Assets_142
+  - first:
+      213: 7853965422169524582
+    second: CAS_Interior_Assets_143
+  - first:
+      213: -5770296568394398154
+    second: CAS_Interior_Assets_144
+  - first:
+      213: 3044435682080836142
+    second: CAS_Interior_Assets_145
+  - first:
+      213: 4450969677726115866
+    second: CAS_Interior_Assets_146
+  - first:
+      213: -5689616092859842384
+    second: CAS_Interior_Assets_147
+  - first:
+      213: 188373019635362981
+    second: CAS_Interior_Assets_148
+  - first:
+      213: -77411870801070972
+    second: CAS_Interior_Assets_149
+  - first:
+      213: 3732174112955760608
+    second: CAS_Interior_Assets_150
+  - first:
+      213: -7903687668341332407
+    second: CAS_Interior_Assets_151
+  - first:
+      213: -7211317444096647117
+    second: CAS_Interior_Assets_152
+  - first:
+      213: 3642276060910054348
+    second: CAS_Interior_Assets_153
+  - first:
+      213: -6313206847007217849
+    second: CAS_Interior_Assets_154
+  - first:
+      213: -2466381902026408968
+    second: CAS_Interior_Assets_155
+  - first:
+      213: 7928183007706166701
+    second: CAS_Interior_Assets_156
+  - first:
+      213: 8086279931923943431
+    second: CAS_Interior_Assets_157
+  - first:
+      213: 6851589983632106549
+    second: CAS_Interior_Assets_158
+  - first:
+      213: 6654235873912301371
+    second: CAS_Interior_Assets_159
+  - first:
+      213: 3722871024593449984
+    second: CAS_Interior_Assets_160
+  - first:
+      213: 6447679173947420420
+    second: CAS_Interior_Assets_161
+  - first:
+      213: -5272209447157221073
+    second: CAS_Interior_Assets_162
+  - first:
+      213: 1457940822708262312
+    second: CAS_Interior_Assets_163
+  - first:
+      213: -4489980346507900115
+    second: CAS_Interior_Assets_164
+  - first:
+      213: 1089586183350688768
+    second: CAS_Interior_Assets_165
+  - first:
+      213: 8166147959477726502
+    second: CAS_Interior_Assets_166
+  - first:
+      213: 6630397949024543069
+    second: CAS_Interior_Assets_167
+  - first:
+      213: 3103583182862015742
+    second: CAS_Interior_Assets_168
+  - first:
+      213: -1750595407198968137
+    second: CAS_Interior_Assets_169
+  - first:
+      213: 6538211238995199401
+    second: CAS_Interior_Assets_170
+  - first:
+      213: 3259462516889711135
+    second: CAS_Interior_Assets_171
+  - first:
+      213: 2120203631637005502
+    second: CAS_Interior_Assets_172
+  - first:
+      213: 3680036685797948058
+    second: CAS_Interior_Assets_173
+  - first:
+      213: -7102390577689529087
+    second: CAS_Interior_Assets_174
+  - first:
+      213: 7057786365546439684
+    second: CAS_Interior_Assets_175
+  - first:
+      213: 4080277107799526050
+    second: CAS_Interior_Assets_176
+  - first:
+      213: -5362414117418814338
+    second: CAS_Interior_Assets_177
+  - first:
+      213: -5033001859986211072
+    second: CAS_Interior_Assets_178
+  - first:
+      213: -930784226461060206
+    second: CAS_Interior_Assets_179
+  - first:
+      213: -8249734575425959076
+    second: CAS_Interior_Assets_180
+  - first:
+      213: 822160665399453901
+    second: CAS_Interior_Assets_181
+  - first:
+      213: -7500551176903552749
+    second: CAS_Interior_Assets_182
+  - first:
+      213: 8715717090052379099
+    second: CAS_Interior_Assets_183
+  - first:
+      213: -5498878021206640183
+    second: CAS_Interior_Assets_184
+  - first:
+      213: -9100627253253727377
+    second: CAS_Interior_Assets_185
+  - first:
+      213: -2577797860460913446
+    second: CAS_Interior_Assets_186
+  - first:
+      213: 308185887721070972
+    second: CAS_Interior_Assets_187
+  - first:
+      213: -6197787970320209960
+    second: CAS_Interior_Assets_188
+  - first:
+      213: -9013009123110262496
+    second: CAS_Interior_Assets_189
+  - first:
+      213: 3282595295181537940
+    second: CAS_Interior_Assets_190
+  - first:
+      213: 3420042362158396845
+    second: CAS_Interior_Assets_191
+  - first:
+      213: 8372205264360643433
+    second: CAS_Interior_Assets_192
+  - first:
+      213: 6958846249445456656
+    second: CAS_Interior_Assets_193
+  - first:
+      213: 8781220403942583958
+    second: CAS_Interior_Assets_194
+  - first:
+      213: 4618283482263487723
+    second: CAS_Interior_Assets_195
+  - first:
+      213: 4172370024372452954
+    second: CAS_Interior_Assets_196
+  - first:
+      213: -6378188446742110844
+    second: CAS_Interior_Assets_197
+  - first:
+      213: -6415372934849473550
+    second: CAS_Interior_Assets_198
+  - first:
+      213: -8391872338075071289
+    second: CAS_Interior_Assets_199
+  - first:
+      213: 7471401397133440610
+    second: CAS_Interior_Assets_200
+  - first:
+      213: -5109230046678796022
+    second: CAS_Interior_Assets_201
+  - first:
+      213: 8733756689270634864
+    second: CAS_Interior_Assets_202
+  - first:
+      213: 527197436038121302
+    second: CAS_Interior_Assets_203
+  - first:
+      213: 3742904465870371233
+    second: CAS_Interior_Assets_204
+  - first:
+      213: 2144653272616732141
+    second: CAS_Interior_Assets_205
+  - first:
+      213: -2474402334121600714
+    second: CAS_Interior_Assets_206
+  - first:
+      213: -666693583804906513
+    second: CAS_Interior_Assets_207
+  - first:
+      213: 8311631976297031985
+    second: CAS_Interior_Assets_208
+  - first:
+      213: -2175200564347263238
+    second: CAS_Interior_Assets_209
+  - first:
+      213: -1593364896964190836
+    second: CAS_Interior_Assets_210
+  - first:
+      213: -6380464668485620845
+    second: CAS_Interior_Assets_211
+  - first:
+      213: 6920059096418024140
+    second: CAS_Interior_Assets_212
+  - first:
+      213: 2159903008993373569
+    second: CAS_Interior_Assets_213
+  - first:
+      213: -6497899926539056630
+    second: CAS_Interior_Assets_214
+  - first:
+      213: -1966996709822102834
+    second: CAS_Interior_Assets_215
+  - first:
+      213: 3571625849978658155
+    second: CAS_Interior_Assets_216
+  - first:
+      213: -1809114136577161149
+    second: CAS_Interior_Assets_217
+  - first:
+      213: 5177761884309546451
+    second: CAS_Interior_Assets_218
+  - first:
+      213: 6296238291912331547
+    second: CAS_Interior_Assets_219
+  - first:
+      213: 5077702205300181387
+    second: CAS_Interior_Assets_220
+  - first:
+      213: -6036919555792003447
+    second: CAS_Interior_Assets_221
+  - first:
+      213: 6654729480178952337
+    second: CAS_Interior_Assets_222
+  - first:
+      213: -8936218115085705699
+    second: CAS_Interior_Assets_223
+  - first:
+      213: 5152105900559210877
+    second: CAS_Interior_Assets_224
+  - first:
+      213: 550132904513103647
+    second: CAS_Interior_Assets_225
+  - first:
+      213: 8901937729796586881
+    second: CAS_Interior_Assets_226
+  - first:
+      213: -6025295822227424200
+    second: CAS_Interior_Assets_227
+  - first:
+      213: 8369711515973924791
+    second: CAS_Interior_Assets_228
+  - first:
+      213: -2218375382455656410
+    second: CAS_Interior_Assets_229
+  - first:
+      213: -1893331900300486501
+    second: CAS_Interior_Assets_230
+  - first:
+      213: -3494866740064769346
+    second: CAS_Interior_Assets_231
+  - first:
+      213: 4637548967655825479
+    second: CAS_Interior_Assets_232
+  - first:
+      213: -4028629934303754808
+    second: CAS_Interior_Assets_233
+  - first:
+      213: 2073244440781883592
+    second: CAS_Interior_Assets_234
+  - first:
+      213: 646906995872437405
+    second: CAS_Interior_Assets_235
+  - first:
+      213: -3098982080699522866
+    second: CAS_Interior_Assets_236
+  - first:
+      213: 6334383172788823032
+    second: CAS_Interior_Assets_237
+  - first:
+      213: 2321399708177705506
+    second: CAS_Interior_Assets_238
+  - first:
+      213: 4269127132164294313
+    second: CAS_Interior_Assets_239
+  - first:
+      213: -193769634286333065
+    second: CAS_Interior_Assets_240
+  - first:
+      213: 4398758600139284197
+    second: CAS_Interior_Assets_241
+  - first:
+      213: -4876603265756683985
+    second: CAS_Interior_Assets_242
+  - first:
+      213: -4303586978067373124
+    second: CAS_Interior_Assets_243
+  - first:
+      213: -6382048165425338858
+    second: CAS_Interior_Assets_244
+  - first:
+      213: 3092348949977342546
+    second: CAS_Interior_Assets_245
+  - first:
+      213: -5609979441112586636
+    second: CAS_Interior_Assets_246
+  - first:
+      213: -2201905802743258783
+    second: CAS_Interior_Assets_247
+  - first:
+      213: 7517117231104679112
+    second: CAS_Interior_Assets_248
+  - first:
+      213: -6733176228839243860
+    second: CAS_Interior_Assets_249
+  - first:
+      213: 8476426768660529792
+    second: CAS_Interior_Assets_250
+  - first:
+      213: 4546532491295802475
+    second: CAS_Interior_Assets_251
+  - first:
+      213: 1217860304824879161
+    second: CAS_Interior_Assets_252
+  - first:
+      213: 7356808814644946460
+    second: CAS_Interior_Assets_253
+  - first:
+      213: 7447950326118797068
+    second: CAS_Interior_Assets_254
+  - first:
+      213: -4057966819490868896
+    second: CAS_Interior_Assets_255
+  - first:
+      213: 6171340608443370756
+    second: CAS_Interior_Assets_256
+  - first:
+      213: -803045084781067879
+    second: CAS_Interior_Assets_257
+  - first:
+      213: -5192052313403764092
+    second: CAS_Interior_Assets_258
+  - first:
+      213: -3503341341351988163
+    second: CAS_Interior_Assets_259
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1357
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491485ea76bc10680800000000000000
+      internalID: -8790521351483407980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1375
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511cecb9c66d2c3d0800000000000000
+      internalID: -3187749824266059499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1407
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7f8147813008d0800000000000000
+      internalID: -2882249304526848411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1343
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090fed081893f13b0800000000000000
+      internalID: -5539645788266762096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1375
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04213de79bb885c0800000000000000
+      internalID: -4212911190211222514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1357
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e5f1f05b4c7f650800000000000000
+      internalID: 6266693688431173170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1375
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31588ba59c0745f0800000000000000
+      internalID: -772634974103252674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1295
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb6a8eea5b716280800000000000000
+      internalID: -9051818145558664204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1343
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c387afb150ae620c0800000000000000
+      internalID: -4600732661647247300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1295
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe16decee230a7d0800000000000000
+      internalID: -2909269358027596102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1291
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a97e2f4a10880c0800000000000000
+      internalID: -4573403613633209735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1354
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812c1edae6c16840800000000000000
+      internalID: 5215668555522777479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1277
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3a42d64d741c030800000000000000
+      internalID: 3513168162015454174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1322
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af159d7770c2c1930800000000000000
+      internalID: 4115212570096914938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1295
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7315efdb277f54b80800000000000000
+      internalID: -8411044656858640073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1290
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561afbe288d48b70800000000000000
+      internalID: 8900476820407326289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1225
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d0d55c4ee5bf00800000000000000
+      internalID: 1132072892978222618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1263
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54445b8791b825200800000000000000
+      internalID: 167349077681718341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1225
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e0dc84fe94774f0800000000000000
+      internalID: -831114314159157636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1263
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17885a5234ab5ce0800000000000000
+      internalID: -1415357121706817761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1225
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd92a9b9a1ce23c10800000000000000
+      internalID: 2031945980921391579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1263
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661a15c83a179e90800000000000000
+      internalID: -7019112663106316697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1263
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6744761af25110b40800000000000000
+      internalID: 5404624322136851574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1263
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4ae2be50060470800000000000000
+      internalID: 8360370164988530385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1225
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa55335d1b3943300800000000000000
+      internalID: 230971872898143663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de88ee7bdc251f330800000000000000
+      internalID: 3742863808829229293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1240
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef5263743f9cf80800000000000000
+      internalID: -8085664168790327652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1233
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b0436193605d940800000000000000
+      internalID: 5320165377063521051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1185
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742f070ac6a285f0800000000000000
+      internalID: -755858400812784515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f4f1e4655a6bc0800000000000000
+      internalID: -3789122244702832306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1200
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c48c64951518370800000000000000
+      internalID: 8323023030238858309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1191
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d306894c7f10163c0800000000000000
+      internalID: -4368207999905800131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710bbbf8fc54c71d0800000000000000
+      internalID: -3351727264898502633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1186
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e88d81377b3970800000000000000
+      internalID: 8735706956926869839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1202
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81655479871c95510800000000000000
+      internalID: 1538473471401874968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1202
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e2c667a75e81f0800000000000000
+      internalID: -1040798087380802623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1171
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d329575ed7b9d670800000000000000
+      internalID: 8564078331997791188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1135
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c88a7647a96d420800000000000000
+      internalID: 2654478855127469064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc390e9ca43fc7b0800000000000000
+      internalID: -5201881128599208748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1185
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70191497583e860800000000000000
+      internalID: 7558031355495385072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1186
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944c85af3c95e200800000000000000
+      internalID: 208744754916902038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1142
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2654ba55eabb170800000000000000
+      internalID: 8195335629899653804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1139
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1bcea2d47b9590800000000000000
+      internalID: -7666405492443636606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1151
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942d73f06dacf7c0800000000000000
+      internalID: -4036160534117276521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1105
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d11d30ff8ad9510800000000000000
+      internalID: 1557586859374222617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e58121e28eaefc60800000000000000
+      internalID: 7853906677326775785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46602ad0b26b4d0800000000000000
+      internalID: -3119258354354592517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1095
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de3ad8c339a41f70800000000000000
+      internalID: 9157129982229233360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1095
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08adbe3a1e131d40800000000000000
+      internalID: 5553815863548553226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1109
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574e74a421f5b110800000000000000
+      internalID: 1276191209110259542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1119
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6fad0e29fddd510800000000000000
+      internalID: 1575661266580207346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef3b0ed813949d60800000000000000
+      internalID: 7896097781701099492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1087
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c1175c147be8050800000000000000
+      internalID: 5804778462840429687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1079
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92f78562455af2e0800000000000000
+      internalID: -2091265333300563299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1056
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf4ff420de0a7cf0800000000000000
+      internalID: -253874141856313396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1056
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef748ad8ca28c80800000000000000
+      internalID: -8321899437013598691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1056
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d662bd9bb732cb0800000000000000
+      internalID: -4889928732218331863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1080
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4868ff6fadd64ecf0800000000000000
+      internalID: -223933294247442812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1071
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc52f1bec6435a70800000000000000
+      internalID: 8814466749256850631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1055
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da9e8adfb64892d0800000000000000
+      internalID: -3271787339465188647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1064
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea539930346e93c70800000000000000
+      internalID: 8951438909873141166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1047
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e01a4c1881d6b380800000000000000
+      internalID: -8955740426459279133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1048
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d4445d30349600800000000000000
+      internalID: 474056900745681202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1039
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12da80ea1a9364650800000000000000
+      internalID: 6216719702203870497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1015
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a660971b7397890800000000000000
+      internalID: -7459870072383313398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1015
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251bdf1d5f96ac950800000000000000
+      internalID: 6470100319182106962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_66
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 940
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a26a9cdeb564d0800000000000000
+      internalID: -3141895310328814476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1012
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b3dcab9298ce30800000000000000
+      internalID: 4524027023010806189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1008
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b2c40fed80cc830800000000000000
+      internalID: 4092655914980223846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 975
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aed2ff5c96d42360800000000000000
+      internalID: 7144070876029443751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_70
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 999
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef02cf851fc39c30800000000000000
+      internalID: 4365060155365265384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 982
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5479efbfc78c70800000000000000
+      internalID: 8973369205721422894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_72
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 982
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fcd91e6f633f750800000000000000
+      internalID: 6337469534615490429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 983
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b61ea7955e2b67b0800000000000000
+      internalID: -5230035597108832589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdee8f56a3ac9490800000000000000
+      internalID: -7738130124766253628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 966
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4f43c5d6fec7b0800000000000000
+      internalID: -5201949121601123350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 950
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5b9a99b5904b30800000000000000
+      internalID: 4269577071142591207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 944
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcc10620f8d80a10800000000000000
+      internalID: 1875987770741214392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 944
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1883369c2b2f7f30800000000000000
+      internalID: 4575423216930228255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 946
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6703b98086927350800000000000000
+      internalID: 6013033931303225198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d81746fdd204df0800000000000000
+      internalID: -198107946118181560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf907edbab3a27b0800000000000000
+      internalID: -5248316806389522483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9763a541a0470e90800000000000000
+      internalID: -7059602829477714021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d0c559abd698020800000000000000
+      internalID: 2344525729160236341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcfaf9f5f6db2150800000000000000
+      internalID: 5849004893020028144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57070d854c75bee10800000000000000
+      internalID: 2227970941480104053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa62988c1c89cf20800000000000000
+      internalID: 3443437444279724788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83c5ad0437650420800000000000000
+      internalID: 2595594233513886604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_88
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 905
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5f6fa4caaf3b80800000000000000
+      internalID: -8412817817171174192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 905
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edd6ed7787982820800000000000000
+      internalID: 2893729368774204896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_90
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 905
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0122ad675e375560800000000000000
+      internalID: 7302373866026967307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 905
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f9be088ed82190800000000000000
+      internalID: -7986889263197588193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_92
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 905
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca98e5aa5e2c8c40800000000000000
+      internalID: 5515834610487433926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 905
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ad1d53aa7ecd60800000000000000
+      internalID: 7912396437397021104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_94
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 905
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e79df4beee997380800000000000000
+      internalID: -8972966034483079194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 145
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5ba0242bec29b0800000000000000
+      internalID: -5103445737318163275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 873
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f56d0deb927f7e0800000000000000
+      internalID: -1731869632176431285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 873
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7532992964dc80800000000000000
+      internalID: -8298892586069427181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 873
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1578c76c57bc7e220800000000000000
+      internalID: 2515202623611373393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 873
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d166cc25b9cf8d3d0800000000000000
+      internalID: -3181515392697997795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 873
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bee967c1b3e3c590800000000000000
+      internalID: -7655024588905386311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_101
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 873
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f5a699750739b10800000000000000
+      internalID: 1987055382138871622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_102
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 873
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b35deacf7b7af20800000000000000
+      internalID: 3433915536786144057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c3f3b16bf318ad0800000000000000
+      internalID: -2701808250071860164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 823
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4d8f229dbca4c90800000000000000
+      internalID: -7184706122061130550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 815
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb937e2b5b418a360800000000000000
+      internalID: 7181012376465390011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 817
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a71b2232a83860800000000000000
+      internalID: 7509930714995335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_107
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 832
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a9efd0a175aedc0800000000000000
+      internalID: -3608976381968475509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 832
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbb66dfe01b3fec0800000000000000
+      internalID: -3534286604616680464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 817
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836fce93bab198de0800000000000000
+      internalID: -1330501792686082504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 825
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf325c3a8824d5640800000000000000
+      internalID: 5070281910119638012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 825
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74c529016e89ab80800000000000000
+      internalID: -8383012683957025668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beb97c0119235e80800000000000000
+      internalID: -8191158144056312140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 790
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c46c76e9a501230800000000000000
+      internalID: 3607482937916148763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 792
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f12d389b2d2e2b0800000000000000
+      internalID: -5556647295999402240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 793
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955a4a7240177c80800000000000000
+      internalID: -8325167508465494639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_116
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 792
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c6bb0c98eec2c0800000000000000
+      internalID: -4409331228240068078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 792
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248176c24a47b34a0800000000000000
+      internalID: -6612563379395028926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 783
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47720d54da8f580800000000000000
+      internalID: -8793087757084298044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_119
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 751
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85a96a7bb6dafe0800000000000000
+      internalID: -1176165491155511115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_120
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 786
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83368bcb5109bfda0800000000000000
+      internalID: -5909971662958730440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_121
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 758
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6651cb8fe03edb8a0800000000000000
+      internalID: -6287619851297221274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 770
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9e0ec2b930f710800000000000000
+      internalID: 1724942097406926707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_123
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 770
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00987057d16a8ac0800000000000000
+      internalID: -3852158953866096626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 760
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646b8a614426ddb0800000000000000
+      internalID: -4767583292146097044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 760
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3581ad3660fa8bc60800000000000000
+      internalID: 7834203993790879827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_126
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 761
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab5db7c257738e90800000000000000
+      internalID: -7024639796345742424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_127
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 760
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1185cfceb547325f0800000000000000
+      internalID: -782653972065527791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 751
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1104896db18f3a50800000000000000
+      internalID: 6503059037465346333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_129
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 753
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682aaf553eac00330800000000000000
+      internalID: 3675160373683200646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 754
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f6b3d326e2cd60800000000000000
+      internalID: 7909136937166240084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_131
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 721
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef685b09f2d3b3f90800000000000000
+      internalID: -6972912323552508162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_132
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 721
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619dc2d624c4921c0800000000000000
+      internalID: -4528004102161114858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_133
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 693
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96f8034170588060800000000000000
+      internalID: 6955898071859918492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_134
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 688
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8e5df9b9bfa620800000000000000
+      internalID: 2787650902836546489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 659
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0420c3749348d000800000000000000
+      internalID: 60872899845694476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 693
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e3a125062f6ed0800000000000000
+      internalID: -2418672671393585964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 687
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6135e9be18bc320800000000000000
+      internalID: 2579298060573284039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_138
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 656
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf1d199bfc35c70800000000000000
+      internalID: 8958732479692405893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_139
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 679
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdc0157921987240800000000000000
+      internalID: 4789737810952244678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 678
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e1a814a1d8c0fd0800000000000000
+      internalID: -2374367759622857167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 656
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e61ef1818c4c020800000000000000
+      internalID: 2361232110588620396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_142
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 655
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc8e8bf040185a50800000000000000
+      internalID: 6509971132648426672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_143
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 655
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698d9a70f3eefc60800000000000000
+      internalID: 7853965422169524582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_144
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 655
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6364238e7d9cbefa0800000000000000
+      internalID: -5770296568394398154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac3fb6f12004a20800000000000000
+      internalID: 3044435682080836142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 607
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1866e2f65505cd30800000000000000
+      internalID: 4450969677726115866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_147
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 614
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b04eb4fe4c6a01b0800000000000000
+      internalID: -5689616092859842384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_148
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 614
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac22a8634c3d9200800000000000000
+      internalID: 188373019635362981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_149
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 607
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484f08b405afceef0800000000000000
+      internalID: -77411870801070972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 612
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eff2a2f4985bc330800000000000000
+      internalID: 3732174112955760608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 612
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94621e0f0f5705290800000000000000
+      internalID: -7903687668341332407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_152
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 614
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330aa06edf04ceb90800000000000000
+      internalID: -7211317444096647117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_153
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 614
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe370a7c6fb8230800000000000000
+      internalID: 3642276060910054348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 591
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747229a42dbf268a0800000000000000
+      internalID: -6313206847007217849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_155
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 578
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb73414ab6a5cdd0800000000000000
+      internalID: -2466381902026408968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 578
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da53d90b070960e60800000000000000
+      internalID: 7928183007706166701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 578
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70052b051cc383070800000000000000
+      internalID: 8086279931923943431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 578
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5342401f9ccb51f50800000000000000
+      internalID: 6851589983632106549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_159
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 564
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37243c8548985c50800000000000000
+      internalID: 6654235873912301371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_160
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 564
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004bc75e87b4aa330800000000000000
+      internalID: 3722871024593449984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_161
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fe1d42c02ca7950800000000000000
+      internalID: 6447679173947420420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_162
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 579
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f293cb0f07955d6b0800000000000000
+      internalID: -5272209447157221073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_163
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 579
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a511192475ab3410800000000000000
+      internalID: 1457940822708262312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 577
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b49ede9a260b1c0800000000000000
+      internalID: -4489980346507900115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9ac26cdcfe1f00800000000000000
+      internalID: 1089586183350688768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 550
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d63f39d4cf35170800000000000000
+      internalID: 8166147959477726502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 550
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5126172ec7e30c50800000000000000
+      internalID: 6630397949024543069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_168
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 543
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcdd591674221b20800000000000000
+      internalID: 3103583182862015742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_169
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 543
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a97090c2a4b7e0800000000000000
+      internalID: -1750595407198968137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_170
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 543
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a586ce1b746cba50800000000000000
+      internalID: 6538211238995199401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_171
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 534
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1279e5c3efeb3d20800000000000000
+      internalID: 3259462516889711135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_172
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 534
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4873b38f97c6d10800000000000000
+      internalID: 2120203631637005502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_173
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 549
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a74693edd121330800000000000000
+      internalID: 3680036685797948058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_174
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 547
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105fbb0566d3f6d90800000000000000
+      internalID: -7102390577689529087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404adf24e4b42f160800000000000000
+      internalID: 7057786365546439684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_176
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 517
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8c8b496e00a830800000000000000
+      internalID: 4080277107799526050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 517
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7436b085c0e495b0800000000000000
+      internalID: -5362414117418814338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_178
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 501
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f34ad697f272ab0800000000000000
+      internalID: -5033001859986211072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_179
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 499
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29370437da03513f0800000000000000
+      internalID: -930784226461060206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_180
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b4a74dc1e038d80800000000000000
+      internalID: -8249734575425959076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_181
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 511
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ee69e4c6e86b00800000000000000
+      internalID: 822160665399453901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_182
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 515
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119609b170b8e790800000000000000
+      internalID: -7500551176903552749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_183
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 515
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19f5bf38274f870800000000000000
+      internalID: 8715717090052379099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c976c2f29f00b3b0800000000000000
+      internalID: -5498878021206640183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_185
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b9298fab314b180800000000000000
+      internalID: -9100627253253727377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_186
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc1770f082d93cd0800000000000000
+      internalID: -2577797860460913446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_187
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 497
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71276a9e65e64400800000000000000
+      internalID: 308185887721070972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_188
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 468
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7efd3ada80df9a0800000000000000
+      internalID: -6197787970320209960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 486
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02968ab94fb5be280800000000000000
+      internalID: -9013009123110262496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_190
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 486
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4920aae670f1e8d20800000000000000
+      internalID: 3282595295181537940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_191
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 485
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da53d31886e667f20800000000000000
+      internalID: 3420042362158396845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_192
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 483
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b1fd0845c003470800000000000000
+      internalID: 8372205264360643433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b71c85bc9c29060800000000000000
+      internalID: 6958846249445456656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_194
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 451
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee867be692dd970800000000000000
+      internalID: 8781220403942583958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_195
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 453
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be48e50cb50771040800000000000000
+      internalID: 4618283482263487723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_196
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 453
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e35365e6c37e930800000000000000
+      internalID: 4172370024372452954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_197
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 466
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d9f69966f1c77a0800000000000000
+      internalID: -6378188446742110844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_198
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 466
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f354ac4e4408f6a0800000000000000
+      internalID: -6415372934849473550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_199
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 435
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cccb9012941a8b80800000000000000
+      internalID: -8391872338075071289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 439
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266fe7a4cffbfa760800000000000000
+      internalID: 7471401397133440610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_201
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 439
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0935f7a75e5819b0800000000000000
+      internalID: -5109230046678796022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079faaa7f69843970800000000000000
+      internalID: 8733756689270634864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_203
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 374
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6578c8d564bf05700800000000000000
+      internalID: 527197436038121302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_204
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 442
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a93d6ce7c771f330800000000000000
+      internalID: 3742904465870371233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_205
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 436
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de503b0e9c653cd10800000000000000
+      internalID: 2144653272616732141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_206
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 437
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639d843ef2829add0800000000000000
+      internalID: -2474402334121600714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_207
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 434
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c643c7bd6fb6f0800000000000000
+      internalID: -666693583804906513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_208
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 410
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13966fade39d85370800000000000000
+      internalID: 8311631976297031985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af62ad68c9220d1e0800000000000000
+      internalID: -2175200564347263238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_210
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 402
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5fd6711b33e9e0800000000000000
+      internalID: -1593364896964190836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_211
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 408
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bebfc60390477a0800000000000000
+      internalID: -6380464668485620845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_212
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 408
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaf4ba851df80060800000000000000
+      internalID: 6920059096418024140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_213
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 391
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de850d75489fd10800000000000000
+      internalID: 2159903008993373569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_214
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 386
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a4a94b172d2d5a0800000000000000
+      internalID: -6497899926539056630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec201bcf9e2d3b4e0800000000000000
+      internalID: -1966996709822102834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_216
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 339
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d949a89c6f09130800000000000000
+      internalID: 3571625849978658155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 338
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484e23274cb4e6e0800000000000000
+      internalID: -1809114136577161149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_218
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 311
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e3d5300b1bd740800000000000000
+      internalID: 5177761884309546451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_219
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 327
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1195aa1e5bb06750800000000000000
+      internalID: 6296238291912331547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_220
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 339
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89822eb04f977640800000000000000
+      internalID: 5077702205300181387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 345
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e986326ad883ca0800000000000000
+      internalID: -6036919555792003447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e26634395a5c50800000000000000
+      internalID: 6654729480178952337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 307
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ed7ee68fc2cf380800000000000000
+      internalID: -8936218115085705699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_224
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 274
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7996000505ff7740800000000000000
+      internalID: 5152105900559210877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_225
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 279
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e1c046f672a700800000000000000
+      internalID: 550132904513103647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_226
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3c2563390a8b70800000000000000
+      internalID: 8901937729796586881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_227
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3d718f59d16ca0800000000000000
+      internalID: -6025295822227424200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_228
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 241
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73f167740372470800000000000000
+      internalID: 8369711515973924791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_229
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206246d75fb631e0800000000000000
+      internalID: -2218375382455656410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b989ca00ba889b5e0800000000000000
+      internalID: -1893331900300486501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_231
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaac1d673dbf7fc0800000000000000
+      internalID: -3494866740064769346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_232
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ea9d1732eb5040800000000000000
+      internalID: 4637548967655825479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_233
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 199
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c15a5b6e6718c0800000000000000
+      internalID: -4028629934303754808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_234
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c88b5995d4a5cc10800000000000000
+      internalID: 2073244440781883592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_235
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9411bb3c764af800800000000000000
+      internalID: 646906995872437405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_236
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0aa9a77343ef4d0800000000000000
+      internalID: -3098982080699522866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_237
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f32a454fef38e750800000000000000
+      internalID: 6334383172788823032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_238
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aa0ab3cb4473020800000000000000
+      internalID: 2321399708177705506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_239
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a682a5028cfe3b30800000000000000
+      internalID: 4269127132164294313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 198
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731b145b879f4df0800000000000000
+      internalID: -193769634286333065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_241
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 166
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee1ff524a78b0d30800000000000000
+      internalID: 4398758600139284197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_242
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 166
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21201aca23d25cb0800000000000000
+      internalID: -4876603265756683985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_243
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32c40e1769644c0800000000000000
+      internalID: -4303586978067373124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_244
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616a360d1096e67a0800000000000000
+      internalID: -6382048165425338858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_245
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252a3fc6cfa3aea20800000000000000
+      internalID: 3092348949977342546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_246
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 55
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766d37db695522b0800000000000000
+      internalID: -5609979441112586636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_247
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161ed9ea6524171e0800000000000000
+      internalID: -2201905802743258783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_248
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 135
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc56f65b4a225860800000000000000
+      internalID: 7517117231104679112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_249
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbeedc4e3fe82a0800000000000000
+      internalID: -6733176228839243860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 87
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0828f9e6c3152a570800000000000000
+      internalID: 8476426768660529792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6445775637881f30800000000000000
+      internalID: 4546532491295802475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_252
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c227ae75b6e010800000000000000
+      internalID: 1217860304824879161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_253
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16ef5d83a2a81660800000000000000
+      internalID: 7356808814644946460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_254
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 55
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc0155c5f6c5760800000000000000
+      internalID: 7447950326118797068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_255
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061dced7da43fa7c0800000000000000
+      internalID: -4057966819490868896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_256
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc532169105a550800000000000000
+      internalID: 6171340608443370756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_257
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991400700c20bd4f0800000000000000
+      internalID: -803045084781067879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_258
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482d25cfdef12f7b0800000000000000
+      internalID: -5192052313403764092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAS_Interior_Assets_259
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3436cd8c91a16fc0800000000000000
+      internalID: -3503341341351988163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
