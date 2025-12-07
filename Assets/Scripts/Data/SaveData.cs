@@ -9,6 +9,9 @@ public class SaveData
     public string mapBoundary;
 
     // Add all player stats to be saved
+    public string playerName;
+    public string org;
+    public string academicProgram;
     public float energy;
     public float sanity;
     public float stress;

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0ce5e907a94a0e34498f09f54e781cef
+guid: 4b18c8006ba532d4d8e9d837877f45ad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6566694968577607864
-    second: banner-new-admin-bldg_0
+      213: -3285645826970849706
+    second: BlackPalette_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: banner-new-admin-bldg_0
+      name: BlackPalette_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2000
-        height: 650
+        width: 2048
+        height: 1536
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8473699c7b96ed4a0800000000000000
-      internalID: -6566694968577607864
+      spriteID: 65e68a9478a0762d0800000000000000
+      internalID: -3285645826970849706
       vertices: []
       indices: 
       edges: []

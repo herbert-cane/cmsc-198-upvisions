@@ -4,10 +4,10 @@ using System.Linq;
 
 public class EncyclopediaManager : MonoBehaviour
 {
-    // Drag all your entry assets here in the Inspector
+    // Drag all entry assets here in the Inspector
     public List<EncyclopediaEntry> allEntries; 
     
-    // Drag your UI panel references here
+    // Drag UI panel references here
     public GameObject encyclopediaPanel;
     public Transform entryListContainer;
     public GameObject entryListButtonPrefab; // A simple button prefab
@@ -40,7 +40,7 @@ public class EncyclopediaManager : MonoBehaviour
         PopulateEntryList("ItemEntry"); 
     }
 
-    // Call this from your category tab buttons
+    // Call this from category tab buttons
     public void PopulateEntryList(string entryType)
     {
         // ... (clear existing buttons in entryListContainer) ...
@@ -99,7 +99,7 @@ public class EncyclopediaManager : MonoBehaviour
             statsPanel.SetActive(true);
             descriptionText.text = item.initialDescription; // Use initial
             
-            // ... (set stats text for cost, type, etc. using your 'statsPanel') ...
+            // ... (set stats text for cost, type, etc. using 'statsPanel') ...
         }
         else if (entry is PersonalityEntry person)
         {

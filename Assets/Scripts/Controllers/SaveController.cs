@@ -36,6 +36,9 @@ public class SaveController : MonoBehaviour
             mapBoundary = FindFirstObjectByType<CinemachineConfiner2D>().BoundingShape2D.gameObject.name,
 
             // Save all player stats
+            playerName = player.playerStats.playerName,
+            org = player.playerStats.org,
+            academicProgram = player.playerStats.academicProgram,
             energy = player.playerStats.energy,
             sanity = player.playerStats.sanity,
             stress = player.playerStats.stress,
