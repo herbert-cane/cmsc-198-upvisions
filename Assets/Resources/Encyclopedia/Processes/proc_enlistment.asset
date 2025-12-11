@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbdcfbe3939e991458387d8e342a043b, type: 3}
+  m_Name: proc_enlistment
+  m_EditorClassIdentifier: 
+  entryID: proc_enlistment
+  entryName: Enlistment
+  icon: {fileID: 0}
+  lockedDescription: ???
+  initialDescription: The chaotic battle for slots that occurs at the start of every
+    semester.
+  type: 0
+  steps: []
+  masteryTip: 
+  relatedLocation: {fileID: 0}
+  relatedPerson: {fileID: 0}

@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro; // Needed for TextMeshPro
+using TMPro;
 
 public class MoneyManager : MonoBehaviour
 {

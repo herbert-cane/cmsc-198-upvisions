@@ -10,6 +10,8 @@ public class TimeManager : MonoBehaviour
     // We use C#'s DateTime for robust calendar handling
     private DateTime currentGameTime;
 
+    public event Action<DateTime> OnHourTick;
+
     [Header("Time Flow Config")]
     // "Increments by 5 minutes every 1 minute in real world"
     public float realSecondsPerTick = 60f; 
@@ -26,6 +28,21 @@ public class TimeManager : MonoBehaviour
 
     [Header("Events")]
     public MoneyManager moneyManager; // Reference to add Stipend
+
+    void Tick()
+    {
+        DateTime previousTime = currentGameTime;
+        currentGameTime = currentGameTime.AddMinutes(gameMinutesPerTick);
+
+        // Check if we entered a new hour (e.g., 7:55 -> 8:00)
+        if (currentGameTime.Hour != previousTime.Hour)
+        {
+            // Broadcast to all listeners (ScholarshipManager, HungerSystem, etc.)
+            OnHourTick?.Invoke(currentGameTime); // <--- ADD THIS
+        }
+        
+        UpdateUI();
+    }
 
     void Start()
     {
@@ -48,16 +65,6 @@ public class TimeManager : MonoBehaviour
         }
     }
 
-    void Tick()
-    {
-        // Add 5 minutes to the game clock
-        currentGameTime = currentGameTime.AddMinutes(gameMinutesPerTick);
-
-        // Check for Weekly Events (e.g., Scholarship Stipend)
-        CheckForWeeklyEvents();
-
-        UpdateUI();
-    }
 
     void CheckForWeeklyEvents()
     {

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8ac4f4ba3de054790e36900d010d55, type: 3}
+  m_Name: item_blueblook
+  m_EditorClassIdentifier: 
+  entryID: item_bluebook
+  entryName: Blue Book
+  icon: {fileID: 0}
+  lockedDescription: ???
+  initialDescription: It is a small booklet used for UPV examinations.
+  type: 1
+  effect: 
+  cost: 10
+  foundAtLocations:
+  - {fileID: 11400000, guid: 6c6748bfb84106740b25065b8b4b1d6a, type: 2}

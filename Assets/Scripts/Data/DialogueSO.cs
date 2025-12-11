@@ -24,4 +24,5 @@ public class DialogueChoice
     public int dialogueIndex;                   // Index of the dialogue line
     public string[] choices;                    // Array of choices for the player
     public int[] nextDialogueIndexes;           // Corresponding next dialogue indexes for each choice
+    public string[] choiceActions;              // e.g. ["StartCounseling", "Leave"]
 }

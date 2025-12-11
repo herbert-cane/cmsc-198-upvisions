@@ -40,18 +40,34 @@ public class EncyclopediaManager : MonoBehaviour
         PopulateEntryList("ItemEntry"); 
     }
 
-    // Call this from category tab buttons
+// Call this from category tab buttons
     public void PopulateEntryList(string entryType)
     {
-        // ... (clear existing buttons in entryListContainer) ...
-        
+        // --- FIX 1: Robust List Clearing ---
+        // We iterate backwards or use a specific loop to ensure everything is destroyed properly
+        foreach (Transform child in entryListContainer)
+        {
+            Destroy(child.gameObject);
+        }
+
         foreach (EncyclopediaEntry entry in allEntries)
         {
             // Check if the entry is the type we want
             if (entry.GetType().Name == entryType)
             {
                 GameObject buttonObj = Instantiate(entryListButtonPrefab, entryListContainer);
-                // ... (set button text to entry.entryName) ...
+                
+                // --- FIX 2: Correct Text Component ---
+                // You are using TextMeshPro, so we must look for TextMeshProUGUI, not Text!
+                TMPro.TextMeshProUGUI btnText = buttonObj.GetComponentInChildren<TMPro.TextMeshProUGUI>();
+                if (btnText != null)
+                {
+                    btnText.text = entry.entryName;
+                }
+                else
+                {
+                    Debug.LogWarning("Button Prefab is missing a TextMeshProUGUI component!");
+                }
                 
                 // Add a listener to the button
                 buttonObj.GetComponent<UnityEngine.UI.Button>().onClick.AddListener(() =>
@@ -62,9 +78,8 @@ public class EncyclopediaManager : MonoBehaviour
         }
     }
 
-    // This is the core function
-// This is the core function
-    public void DisplayEntry(string entryID)
+    // This is the core function to display an entry's details
+public void DisplayEntry(string entryID)
     {
         if (!entryDatabase.ContainsKey(entryID))
         {
@@ -74,68 +89,55 @@ public class EncyclopediaManager : MonoBehaviour
 
         EncyclopediaEntry entry = entryDatabase[entryID];
 
-        // 1. Populate Base Info
-        titleText.text = entry.entryName;
+        // --- FIX 3: Safety Checks for Null UI ---
+        // This prevents the NullReferenceException if you forgot to drag something in
+        if (titleText != null) titleText.text = entry.entryName;
         
-        // You can choose to show/hide the icon if one isn't provided
-        if (entry.icon != null)
+        if (iconImage != null)
         {
-            iconImage.sprite = entry.icon;
-            iconImage.gameObject.SetActive(true);
+            if (entry.icon != null)
+            {
+                iconImage.sprite = entry.icon;
+                iconImage.gameObject.SetActive(true);
+            }
+            else
+            {
+                iconImage.gameObject.SetActive(false);
+            }
+        }
+
+        if (statsPanel != null) statsPanel.SetActive(false);
+
+        // Populate Description based on type
+        // We check if descriptionText is assigned to avoid the crash
+        if (descriptionText != null)
+        {
+            if (entry is LocationEntry location)
+            {
+                descriptionText.text = location.fullDescription;
+            }
+            else if (entry is CultureEntry culture)
+            {
+                descriptionText.text = culture.fullDescription;
+            }
+            else
+            {
+                // Default for Items, Personalities, Processes
+                descriptionText.text = entry.initialDescription;
+            }
         }
         else
         {
-            iconImage.gameObject.SetActive(false);
+            Debug.LogError("Description Text is not assigned in the EncyclopediaManager Inspector!");
         }
 
-        // 2. Populate Specialized Info (hide/show panels AND set description text)
-        // Hide all specialized panels first
-        statsPanel.SetActive(false);
-        // (You will eventually add more panels to hide here, like locationPanel, personalityPanel, etc.)
-
-        // 3. Check the entry type and show the correct info
-        if (entry is ItemEntry item)
+        if (statsPanel != null)
         {
-            statsPanel.SetActive(true);
-            descriptionText.text = item.initialDescription; // Use initial
-            
-            // ... (set stats text for cost, type, etc. using 'statsPanel') ...
-        }
-        else if (entry is PersonalityEntry person)
-        {
-            statsPanel.SetActive(true);
-            descriptionText.text = person.initialDescription; // Use initial
-            
-            // This is where you would show knowledge tiers
-            // e.g., statsText.text = person.knowledgeTier1;
-        }
-        else if (entry is ProcessEntry process)
-        {
-            statsPanel.SetActive(true);
-            descriptionText.text = process.initialDescription; // Use initial
-            
-            // This is where you would show the steps
-            // e.g., statsText.text = string.Join("\n", process.steps);
-        }
-        else if (entry is LocationEntry location)
-        {
-            statsPanel.SetActive(true);
-            // THIS IS THE KEY: Use the fullDescription for this type
-            descriptionText.text = location.fullDescription; 
-            
-            // e.g., statsText.text = "Hours: " + location.operatingHours;
-        }
-        else if (entry is CultureEntry culture)
-        {
-            statsPanel.SetActive(false); // Culture entries might not have "stats"
-            // THIS IS THE KEY: Use the fullDescription for this type
-            descriptionText.text = culture.fullDescription; 
-        }
-        else
-        {
-            // Fallback for any other entry type
-            statsPanel.SetActive(false);
-            descriptionText.text = entry.initialDescription;
+            // Re-enable stats panel only for types that need it
+            if (entry is ItemEntry || entry is PersonalityEntry || entry is ProcessEntry || entry is LocationEntry)
+            {
+                statsPanel.SetActive(true);
+            }
         }
     }
 }
