@@ -161,7 +161,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< Updated upstream:Assets/Art/07_References/14e9a6b51b642b1146dc23155276409f.jpg.meta
       14e9a6b51b642b1146dc23155276409f_0: -2006391860208263536
+=======
+      CharMotionReference_0: -3896748197169508608
+>>>>>>> Stashed changes:Assets/Art/07_References/CharMotionReference.jpg.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

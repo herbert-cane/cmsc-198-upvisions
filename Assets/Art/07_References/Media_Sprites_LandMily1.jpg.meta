@@ -161,7 +161,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< Updated upstream:Assets/Art/07_References/Media_Sprites_LandMily1.jpg.meta
       Media_Sprites_LandMily1_0: -5937369353951856179
+=======
+      SpriteReference_0: 2309237301117832917
+>>>>>>> Stashed changes:Assets/Art/07_References/SpriteReference.jpg.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
