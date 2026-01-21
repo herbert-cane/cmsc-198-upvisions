@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      plants-and-flowers-8px_floortiles_0: 6924031384585412006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

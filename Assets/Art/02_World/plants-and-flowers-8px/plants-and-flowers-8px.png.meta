@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      plants-and-flowers-8px_0: -7004594938368233849
+      plants-and-flowers-8px_1: 5710316459914271700
+      plants-and-flowers-8px_10: -7509795416508227153
+      plants-and-flowers-8px_2: 5956812329834765338
+      plants-and-flowers-8px_3: 7425397988258816824
+      plants-and-flowers-8px_4: -7594550424699424806
+      plants-and-flowers-8px_5: 6998758982690985612
+      plants-and-flowers-8px_6: 6181349561877851971
+      plants-and-flowers-8px_7: 7337677082917267282
+      plants-and-flowers-8px_8: -8716277964887253761
+      plants-and-flowers-8px_9: 7233457094962596859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
